@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-03T02:02:04.501Z",
+    "updatedAt": "2026-07-03T02:02:13.982Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -287,7 +287,7 @@
       "title": "お茶特集",
       "type": "通常",
       "postDate": "2026-07-07",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://95.gigafile.nu/0918-fd034f1c643c5d27a332a271245f9d6a",
       "enabledStages": [
         "shoko",
@@ -311,8 +311,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
