@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-24T08:03:21.233Z",
+    "updatedAt": "2026-07-24T08:33:23.724Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -452,7 +452,7 @@
       "title": "iHerb",
       "type": "通常",
       "postDate": "2026-07-28",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://47.gigafile.nu/0918-c0a501c075b11c4e4d92c55ebbf71e94",
       "enabledStages": [
         "shoko",
@@ -471,8 +471,8 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "完了",
-        "FB": "進行中",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -488,7 +488,8 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "shoko": true
+          "shoko": true,
+          "fb": true
         }
       }
     },
