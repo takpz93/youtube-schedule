@@ -1,0 +1,117 @@
+{
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1pTQeFY1MXQCPBgYr3StCILSSD789EV5jJ8qBHy866IE/edit",
+  "sheetExportCsv": "https://docs.google.com/spreadsheets/d/1pTQeFY1MXQCPBgYr3StCILSSD789EV5jJ8qBHy866IE/export?format=csv",
+  "snapshotRule": "毎週月曜 6:00 JST（日曜列に記録）",
+  "channels": [
+    {
+      "id": "yupi",
+      "sheetName": "ゆぴ",
+      "displayName": "ゆぴ",
+      "appChannel": "ゆぴ優",
+      "schedule": "",
+      "youtubeHandle": "yuyupiTV",
+      "youtubeUrl": "https://www.youtube.com/@yuyupiTV",
+      "clientPath": null
+    },
+    {
+      "id": "miurakun",
+      "sheetName": "みうらくん",
+      "displayName": "みうらくん",
+      "appChannel": "みうらくんと管理人",
+      "schedule": "",
+      "youtubeHandle": "miurakun_kanrinin",
+      "youtubeUrl": "https://www.youtube.com/@miurakun_kanrinin",
+      "clientPath": "CMO/youtube/みうらくんと管理人"
+    },
+    {
+      "id": "watakyu",
+      "sheetName": "綿久",
+      "displayName": "綿久",
+      "appChannel": "綿久",
+      "schedule": "木",
+      "youtubeHandle": "watakyu616",
+      "youtubeUrl": "https://www.youtube.com/@watakyu616",
+      "clientPath": "COO/clients/綿久"
+    },
+    {
+      "id": "kins",
+      "sheetName": "KINS",
+      "displayName": "KINS",
+      "appChannel": "KINS",
+      "schedule": "火・土",
+      "youtubeHandle": "yutaka_shimokawa_official",
+      "youtubeUrl": "https://www.youtube.com/@yutaka_shimokawa_official",
+      "clientPath": "COO/clients/KINS"
+    },
+    {
+      "id": "sumisyou",
+      "sheetName": "SUMISYOU",
+      "displayName": "SUMISYOU",
+      "appChannel": "SUMISYOU",
+      "schedule": "土",
+      "youtubeHandle": "sumisyou.fullpower",
+      "youtubeUrl": "https://www.youtube.com/@sumisyou.fullpower",
+      "clientPath": "COO/clients/SUMISYOU"
+    },
+    {
+      "id": "tenryohai",
+      "sheetName": "天領盃",
+      "displayName": "天領盃",
+      "appChannel": "天領盃",
+      "schedule": "土",
+      "youtubeHandle": "senichi_kato_tenryohai",
+      "youtubeUrl": "https://www.youtube.com/@senichi_kato_tenryohai",
+      "clientPath": "COO/clients/天領盃"
+    },
+    {
+      "id": "bpp",
+      "sheetName": "BPP",
+      "displayName": "BPP",
+      "appChannel": "BPP",
+      "schedule": "木",
+      "youtubeHandle": "buddica_phoenix_pro",
+      "youtubeUrl": "https://www.youtube.com/@buddica_phoenix_pro",
+      "clientPath": "COO/clients/BPP"
+    },
+    {
+      "id": "istory",
+      "sheetName": "iStory",
+      "displayName": "iStory",
+      "appChannel": "iStory",
+      "schedule": "土",
+      "youtubeHandle": "odenya_norisan",
+      "youtubeUrl": "https://www.youtube.com/@odenya_norisan",
+      "clientPath": "COO/clients/iStory"
+    },
+    {
+      "id": "roninpop",
+      "sheetName": "Ronin Pop",
+      "displayName": "Ronin Pop",
+      "appChannel": "Ronin Pop",
+      "schedule": "土",
+      "youtubeHandle": "ronin_pop_tak",
+      "youtubeUrl": "https://www.youtube.com/@ronin_pop_tak",
+      "clientPath": "CMO/youtube/Ronin_Pop"
+    },
+    {
+      "id": "actvision",
+      "sheetName": "Actvision",
+      "displayName": "Actvision",
+      "appChannel": "Actvision",
+      "schedule": "土",
+      "youtubeHandle": "shiotani_zeirishi",
+      "youtubeUrl": "https://www.youtube.com/@shiotani_zeirishi",
+      "clientPath": "COO/clients/Actvision"
+    },
+    {
+      "id": "chikatsukai",
+      "sheetName": "千勝会",
+      "displayName": "千勝会",
+      "appChannel": "千勝会",
+      "schedule": "土",
+      "youtubeHandle": "chikatsukai",
+      "youtubeUrl": "https://www.youtube.com/@chikatsukai",
+      "clientPath": "COO/clients/千勝会"
+    }
+  ]
+}

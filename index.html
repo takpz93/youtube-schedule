@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <title>YouTube 制作スケジュール管理 — Tak COO</title>
+  <link rel="stylesheet" href="styles.css?v=20260629a">
+  <link rel="canonical" href="https://takpz93.github.io/youtube-schedule/">
+  <script>
+  (function () {
+    var V = '20260724a';
+    var k = 'yt_schedule_html_v';
+    try {
+      var prev = localStorage.getItem(k);
+      if (prev && prev !== V) {
+        localStorage.setItem(k, V);
+        var u = new URL(location.href);
+        u.searchParams.set('_v', V);
+        location.replace(u.toString());
+        return;
+      }
+      localStorage.setItem(k, V);
+    } catch (e) { /* private mode */ }
+  })();
+  </script>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-left">
+    <h1>YouTube 制作スケジュール</h1>
+    <span class="today-badge" id="today-label"></span>
+  </div>
+  <div class="header-search">
+    <input type="search" id="search-input" placeholder="企画・担当・チャンネルで検索…" autocomplete="off">
+  </div>
+  <div class="header-actions">
+    <button type="button" class="btn btn-warn edit-only" id="btn-publish" hidden onclick="publishToTeam()" title="ローカルの変更をチーム閲覧URLに反映">📤 チーム公開</button>
+    <button type="button" class="btn btn-ghost" id="btn-sync" onclick="loadSharedData()" title="サーバー件数の確認のみ（ローカルの手動変更は上書きしません）">📡 サーバー確認</button>
+    <label class="btn btn-ghost file-btn edit-only" title="JSONから復元">
+      📤 インポート
+      <input type="file" id="import-file" accept=".json,application/json" hidden>
+    </label>
+    <button type="button" class="btn btn-ghost edit-only" onclick="exportJSON()">📥 エクスポート</button>
+    <button type="button" class="btn btn-ghost edit-only" onclick="copyTeamViewLink()" title="チームメンバー向け閲覧URL">👥 チームリンク</button>
+    <button type="button" class="btn btn-ghost edit-only" onclick="openSyncSettings()" title="GitHub同期トークン設定">⚙️ 同期</button>
+    <button type="button" class="btn btn-ghost" onclick="copyShareLink()" title="フィルター付きURLをコピー">🔗 共有</button>
+    <button type="button" class="btn btn-ghost" id="btn-view-mode" onclick="toggleViewMode()">👁 閲覧</button>
+    <button type="button" class="btn btn-neutral edit-only" onclick="openBulkAdd()">＋ 一括</button>
+    <button type="button" class="btn btn-primary edit-only" onclick="openAdd()">＋ 新規</button>
+  </div>
+</header>
+
+<div id="workspace-notice" class="workspace-notice" hidden></div>
+
+<div class="mob-panel is-collapsed" id="mob-panel">
+  <button type="button" class="mob-panel-toggle" id="mob-panel-toggle" onclick="toggleMobPanel()" aria-expanded="false" aria-controls="mob-panel-body">
+    <span class="mob-panel-label" id="mob-panel-label">フィルター・設定</span>
+    <span class="mob-panel-chevron" aria-hidden="true">▼</span>
+  </button>
+  <div class="mob-panel-body" id="mob-panel-body">
+<div class="team-bar" id="team-bar">
+  <div class="team-bar-inner">
+    <label class="viewer-select">
+      <span class="toolbar-label">メンバー</span>
+      <select id="viewer-select" onchange="onViewerChange(this.value)">
+        <option value="">全員（チーム全体）</option>
+      </select>
+    </label>
+    <span class="chip chip-mine" id="chip-mine" onclick="toggleMineOnly()">自分の案件のみ</span>
+    <span class="sync-status" id="sync-status"></span>
+  </div>
+</div>
+
+<div class="view-banner" id="view-banner" hidden>
+  👁 <strong>閲覧モード</strong> — 進捗の変更・案件の追加はできません。更新が必要な場合は管理者に連絡してください。
+</div>
+
+<div class="toolbar" id="toolbar">
+  <div id="toolbar-filters" class="toolbar-filters"></div>
+</div>
+
+<p class="gantt-hint" id="gantt-hint">ガント表は上下で案件一覧 · 左右で日付 · 工程タップで進捗更新 · 📍今日へ で今日の列へ</p>
+  </div>
+</div>
+
+<nav class="tabs" role="tablist">
+  <button type="button" class="tab active" id="tab-week" onclick="switchTab('week')">📆 今週</button>
+  <button type="button" class="tab" id="tab-shoot" onclick="switchTab('shoot')">📷 次回撮影日</button>
+  <button type="button" class="tab" id="tab-gantt" onclick="switchTab('gantt')">📅 ガント</button>
+  <button type="button" class="tab" id="tab-closed" onclick="switchTab('closed')">✅ クローズ済</button>
+  <button type="button" class="tab" id="tab-subs" onclick="switchTab('subs')">📈 登録者</button>
+  <button type="button" class="tab" id="tab-subsgraph" onclick="switchTab('subsgraph')">📊 登録者グラフ</button>
+</nav>
+
+<div class="legend" id="legend-bar">
+  <span class="legend-title">工程:</span>
+  <div id="legend-items" class="legend-items"></div>
+  <span class="legend-hint" id="legend-hint">セルをクリックで進捗更新 · 赤枠 = 工程の期限超過</span>
+</div>
+
+<div id="fatal-error" class="fatal-error" hidden role="alert">
+  <div class="fatal-error-inner">
+    <h2 class="fatal-error-title">アプリを読み込めませんでした</h2>
+    <p class="fatal-error-detail" id="fatal-error-detail"></p>
+    <p class="fatal-error-hint">データはサーバーに残っています。強制再読み込み（Cmd+Shift+R）を試すか、管理者に連絡してください。</p>
+    <button type="button" class="btn btn-primary" onclick="location.reload()">🔄 再読み込み</button>
+  </div>
+</div>
+
+<main class="main" id="main"></main>
+
+<!-- Edit modal -->
+<div class="overlay" id="overlay" hidden onclick="if(event.target===this)closeModal()">
+  <div class="modal modal-wide" role="dialog" aria-labelledby="modal-title">
+    <div class="modal-hd">
+      <h2 id="modal-title">新規案件</h2>
+      <button type="button" class="modal-close" onclick="closeModal()" aria-label="閉じる">✕</button>
+    </div>
+    <div class="modal-body">
+      <input type="hidden" id="f-id">
+      <div class="frow">
+        <div class="fg">
+          <label for="f-channel">クライアント *</label>
+          <select id="f-channel"><option value="">選択</option></select>
+          <div class="add-option-row">
+            <input type="text" id="f-channel-new" placeholder="新規クライアント名" autocomplete="off">
+            <button type="button" class="btn-add-option" onclick="addCustomOption('channel')">＋追加</button>
+          </div>
+        </div>
+        <div class="fg">
+          <label for="f-staff">担当 *</label>
+          <select id="f-staff"><option value="">選択</option></select>
+          <div class="add-option-row">
+            <input type="text" id="f-staff-new" placeholder="新規担当者名" autocomplete="off">
+            <button type="button" class="btn-add-option" onclick="addCustomOption('staff')">＋追加</button>
+          </div>
+        </div>
+      </div>
+      <div class="fg">
+        <label for="f-title">企画タイトル *</label>
+        <input type="text" id="f-title" placeholder="例: SWIFT（セラミック・窓油膜）">
+      </div>
+      <div class="frow">
+        <div class="fg">
+          <label for="f-type">タイプ</label>
+          <select id="f-type"><option>通常</option></select>
+          <div class="add-option-row">
+            <input type="text" id="f-type-new" placeholder="新規タイプ名" autocomplete="off">
+            <button type="button" class="btn-add-option" onclick="addCustomOption('type')">＋追加</button>
+          </div>
+        </div>
+        <div class="fg">
+          <label for="f-date">投稿予定日</label>
+          <input type="date" id="f-date">
+        </div>
+      </div>
+      <div class="fg" id="f-stages-wrap">
+        <label>工程</label>
+        <p class="form-hint">チェックで有効化 · 撮影・アフレコは手入力 · その他は投稿予定日／撮影日から自動計算（手入力で上書き可） · 工程のON/OFFで投稿予定日は変わりません</p>
+        <div id="f-stages-list" class="stages-list"></div>
+      </div>
+      <div class="frow">
+        <div class="fg">
+          <label for="f-status">待ち状態</label>
+          <select id="f-status"></select>
+        </div>
+      </div>
+      <div class="fg">
+        <label for="f-material">元素材 URL</label>
+        <input type="url" id="f-material" placeholder="https://…">
+      </div>
+    </div>
+    <div class="modal-ft">
+      <button type="button" class="btn btn-danger btn-sm" id="btn-delete" onclick="deleteProject()" hidden>削除</button>
+      <button type="button" class="btn btn-neutral" onclick="closeModal()">キャンセル</button>
+      <button type="button" class="btn btn-primary" onclick="saveProject()">保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- Bulk add modal -->
+<div class="overlay" id="bulk-overlay" hidden onclick="if(event.target===this)closeBulkModal()">
+  <div class="modal modal-wide" role="dialog" aria-labelledby="bulk-modal-title">
+    <div class="modal-hd">
+      <h2 id="bulk-modal-title">一括追加</h2>
+      <button type="button" class="modal-close" onclick="closeBulkModal()" aria-label="閉じる">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="bulk-defaults">
+        <label class="bulk-default-label" for="bulk-default-offset">投稿日の初期日数（同上ON時）</label>
+        <input type="number" id="bulk-default-offset" class="bulk-default-offset-input" value="7" title="新しい行や同上ON時のデフォルト">
+        <span class="bulk-offset-suffix">日</span>
+        <span class="bulk-default-hint">例: +7 = 上の投稿日から1週間後</span>
+      </div>
+      <div class="bulk-stages-defaults">
+        <span class="bulk-default-label">デフォルト工程</span>
+        <div id="bulk-default-stages" class="bulk-stages-chips"></div>
+        <span class="bulk-default-hint">新規行の初期値 · クリックでON/OFF</span>
+      </div>
+      <p class="form-hint">2行目以降は <strong>〃</strong>（同上）がデフォルトON（企画名・URL以外）。投稿日は上の行から ±日数 で自動計算。企画・撮影工程ON時は各日付を入力可</p>
+      <div class="bulk-table-wrap" id="bulk-paste-zone">
+        <table class="bulk-tbl">
+          <thead>
+            <tr>
+              <th class="bulk-th-ch">クライアント *</th>
+              <th class="bulk-th-staff">担当 *</th>
+              <th class="bulk-th-type">タイプ</th>
+              <th class="bulk-th-title">企画名 *</th>
+              <th class="bulk-th-stages">工程</th>
+              <th class="bulk-th-kikaku">企画日</th>
+              <th class="bulk-th-satsuei">撮影日</th>
+              <th class="bulk-th-date">投稿予定日</th>
+              <th class="bulk-th-status">待ち状態</th>
+              <th class="bulk-th-url">URL</th>
+              <th class="bulk-th-rm"></th>
+            </tr>
+          </thead>
+          <tbody id="bulk-tbody"></tbody>
+        </table>
+      </div>
+      <button type="button" class="btn btn-neutral btn-sm bulk-add-row" onclick="addBulkRow()">＋ 行を追加</button>
+    </div>
+    <div class="modal-ft">
+      <button type="button" class="btn btn-neutral" onclick="closeBulkModal()">キャンセル</button>
+      <button type="button" class="btn btn-primary" onclick="saveBulkProjects()">一括保存</button>
+    </div>
+  </div>
+</div>
+
+<div class="spop" id="spop" hidden>
+  <div class="spop-title" id="spop-title"></div>
+  <div id="spop-opts"></div>
+</div>
+
+<script src="sync-config.js?v=20260629a"></script>
+<script src="app.js?v=20260724a"></script>
+<script>
+(function () {
+  function showBootFailure(detail) {
+    var el = document.getElementById('fatal-error');
+    var detailEl = document.getElementById('fatal-error-detail');
+    if (!el) return;
+    el.hidden = false;
+    if (detailEl) detailEl.textContent = detail || 'app.js の読み込みに失敗しました';
+    var main = document.getElementById('main');
+    if (main) main.hidden = true;
+  }
+  window.addEventListener('error', function (e) {
+    var fn = String(e.filename || '');
+    if (fn.indexOf('app.js') !== -1 || fn.indexOf('sync-config') !== -1) {
+      showBootFailure((e.message || 'JavaScript エラー') + ' — 強制再読み込み（Cmd+Shift+R）を試してください');
+    }
+  });
+  window.addEventListener('unhandledrejection', function (e) {
+    showBootFailure(String(e.reason?.message || e.reason || '起動エラー') + ' — Cmd+Shift+R');
+  });
+  window.setTimeout(function () {
+    if (window.__YT_BOOT_OK__) return;
+    if (typeof bootstrap !== 'function') {
+      showBootFailure('app.js が読み込めません。キャッシュが古い可能性があります — Cmd+Shift+R');
+    }
+  }, 12000);
+})();
+</script>
+</body>
+</html>
