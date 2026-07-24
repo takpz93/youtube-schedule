@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-24T21:37:54.852Z",
+    "updatedAt": "2026-07-24T21:38:54.077Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -2911,7 +2911,7 @@
         "投稿": "未着手"
       },
       "no": 56,
-      "postOrder": 3,
+      "postOrder": 4,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -2969,7 +2969,7 @@
         "投稿": "未着手"
       },
       "no": 57,
-      "postOrder": 2,
+      "postOrder": 3,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -25754,7 +25754,7 @@
         "投稿": "未着手"
       },
       "no": 467,
-      "postOrder": 4,
+      "postOrder": 5,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25803,7 +25803,7 @@
         "投稿": "未着手"
       },
       "no": 468,
-      "postOrder": 5,
+      "postOrder": 6,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25852,7 +25852,7 @@
         "投稿": "未着手"
       },
       "no": 469,
-      "postOrder": 6,
+      "postOrder": 7,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25863,6 +25863,47 @@
         }
       },
       "archived": false
+    },
+    {
+      "id": "mrzgpxp18b17mkispkh",
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "進行中",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "channel": "GARAGE-R",
+      "staff": "三浦",
+      "title": "GRフェスタ後編",
+      "type": "通常",
+      "postDate": "2026-08-01",
+      "currentStatus": "C提出",
+      "material": "",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "no": 470,
+      "postOrder": 2
     }
   ]
 }
