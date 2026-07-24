@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-24T07:19:16.871Z",
+    "updatedAt": "2026-07-24T08:03:21.233Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1126,7 +1126,7 @@
       "title": "ジープ",
       "type": "ショート",
       "postDate": "2026-06-24",
-      "currentStatus": "ク���ーズ",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "toukou"
@@ -1459,7 +1459,7 @@
     {
       "id": "mqr8hduu5w6y6km2a3u",
       "channel": "iStory",
-      "staff": "三��さん(MEK)",
+      "staff": "三谷さん(MEK)",
       "title": "飲食業界で長く活躍できる人の特徴5選",
       "type": "ショート",
       "postDate": "2026-06-23",
@@ -2103,7 +2103,7 @@
       "id": "mqr8ssvdeosytlwfi1j",
       "channel": "千勝会",
       "staff": "至さん",
-      "title": "虫���予防",
+      "title": "虫歯予防",
       "type": "通常",
       "postDate": "2026-06-25",
       "currentStatus": "クローズ",
@@ -2375,7 +2375,7 @@
       "stageStatuses": {
         "企画": "未着手",
         "撮影": "未着手",
-        "施工": "未着��",
+        "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
@@ -2828,7 +2828,7 @@
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "進行中"
+        "投稿": "完了"
       },
       "enabledStages": [
         "fb",
@@ -5852,7 +5852,7 @@
         "企画": "完了",
         "撮影": "完了",
         "施工": "完了",
-        "台本": "���了",
+        "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
@@ -9829,7 +9829,7 @@
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
-        "ア���レコ": "完了",
+        "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
@@ -13793,7 +13793,7 @@
       "manualStageDates": {},
       "stageStatuses": {
         "企画": "完了",
-        "���影": "完了",
+        "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
@@ -14451,7 +14451,7 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修��": "完了",
+        "修正": "完了",
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
@@ -15787,7 +15787,7 @@
     {
       "id": "mqw5kkrlj518sswzu9",
       "channel": "天領盃",
-      "staff": "長���さん",
+      "staff": "長尾さん",
       "title": "春の日本酒5選",
       "type": "通常",
       "postDate": "2026-02-28",
@@ -17119,7 +17119,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "��了",
+        "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
@@ -18433,7 +18433,7 @@
         "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
-        "FB（��工・台本）": "完了",
+        "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
@@ -25752,7 +25752,17 @@
         "投稿": "未着手"
       },
       "no": 467,
-      "postOrder": 4
+      "postOrder": 4,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false
     },
     {
       "id": "mrym0g4qe65ci5nnxn7",
@@ -25791,7 +25801,17 @@
         "投稿": "未着手"
       },
       "no": 468,
-      "postOrder": 5
+      "postOrder": 5,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false
     },
     {
       "id": "mrym0g4qlvcpc5i95ps",
@@ -25830,7 +25850,17 @@
         "投稿": "未着手"
       },
       "no": 469,
-      "postOrder": 6
+      "postOrder": 6,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false
     }
   ]
 }
