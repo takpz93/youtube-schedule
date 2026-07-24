@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-24T21:37:25.303Z",
+    "updatedAt": "2026-07-24T21:37:33.655Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -56,7 +56,7 @@
     "千勝会": {
       "postsPerWeek": 1,
       "lastPost": "2026-09-12",
-      "nextShoot": "2026-07-23",
+      "nextShoot": "2026-08-06",
       "nextNextShoot": "2026-07-23"
     },
     "Actvision": {
