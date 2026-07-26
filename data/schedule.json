@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-26T13:19:33.041Z",
+    "updatedAt": "2026-07-26T13:19:35.692Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23131,7 +23131,7 @@
       "title": "最強マットレス9選",
       "type": "ショート",
       "postDate": "2026-07-27",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23151,8 +23151,8 @@
         "アフレコ": "未着手",
         "初稿": "進行中",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
@@ -23166,7 +23166,8 @@
         "material": false,
         "stages": {
           "toukou": true,
-          "fb": true
+          "fb": true,
+          "shuusei": true
         }
       },
       "archived": false
