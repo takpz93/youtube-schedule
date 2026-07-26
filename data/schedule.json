@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-26T13:21:28.841Z",
+    "updatedAt": "2026-07-26T13:21:43.788Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -984,7 +984,7 @@
       "title": "ポルシェ911②",
       "type": "通常",
       "postDate": "2026-07-31",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -1009,8 +1009,8 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -1027,7 +1027,8 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "afureko": true
+          "afureko": true,
+          "shoko": true
         }
       }
     },
