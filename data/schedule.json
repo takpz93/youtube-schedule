@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-26T13:19:06.027Z",
+    "updatedAt": "2026-07-26T13:19:15.794Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -957,7 +957,7 @@
       },
       "no": 17,
       "postOrder": 43,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -971,7 +971,8 @@
           "m_teishutsu": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mqr836e296nc0v1d15v",
@@ -1687,7 +1688,7 @@
       },
       "no": 32,
       "postOrder": 34,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -1701,7 +1702,8 @@
           "kansei": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mqr8mf14g0e2q9f8ewp",
@@ -2546,7 +2548,7 @@
       },
       "no": 49,
       "postOrder": 36,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -2560,7 +2562,8 @@
           "kansei": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mqr921s56qk0o76yhql",
@@ -2855,7 +2858,7 @@
       "material": "https://84.gigafile.nu/0903-658d43e606fdfb2ca722239cb7b8779c",
       "no": 55,
       "postOrder": 1,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -2869,7 +2872,8 @@
           "shuusei": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mqr96xfwlgyvuh7umv",
@@ -22268,7 +22272,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mqytpk155may6qzihiu",
@@ -22579,7 +22584,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mr1gnrt9owg382o7fi",
@@ -23657,7 +23663,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mrd20cb9r9fa7zbd7z",
@@ -23990,7 +23997,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-26T13:19:14.988Z"
     },
     {
       "id": "mrd2a3lzag24w2brpa6",
