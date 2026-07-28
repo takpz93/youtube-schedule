@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:34:15.099Z",
+    "updatedAt": "2026-07-28T22:34:18.732Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24031,7 +24031,7 @@
       "title": "子供の歯を守るルール",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24051,10 +24051,10 @@
         "アフレコ": "未着手",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 434,
@@ -24067,7 +24067,9 @@
         "stages": {
           "toukou": true,
           "shoko": true,
-          "fb": true
+          "fb": true,
+          "shuusei": true,
+          "kansei": true
         }
       },
       "archived": false
