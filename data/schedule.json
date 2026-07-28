@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:54:49.774Z",
+    "updatedAt": "2026-07-28T23:00:09.732Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23271,8 +23271,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -23695,7 +23695,7 @@
       "title": "igl coatings洗車",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://125.gigafile.nu/1018-e643f37dabc1d628ea22c0bb2e315790",
       "enabledStages": [
         "shoko",
@@ -23714,8 +23714,8 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "完了",
-        "FB": "進行中",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -23730,7 +23730,8 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "shoko": true
+          "shoko": true,
+          "fb": true
         }
       },
       "archived": false
