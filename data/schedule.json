@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:34:36.286Z",
+    "updatedAt": "2026-07-28T22:52:47.634Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22294,7 +22294,7 @@
       "title": "あとから請求が来て焦るお金5選",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "https://119.gigafile.nu/0709-1db7c470641d11607025f4bffa2c1e6d",
       "enabledStages": [
         "shoko",
@@ -22313,8 +22313,8 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "進行中",
-        "FB": "未着手",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -22328,7 +22328,8 @@
         "currentStatus": true,
         "material": true,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "fb": true
         }
       },
       "archived": false
