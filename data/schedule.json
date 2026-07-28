@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:19:53.820Z",
+    "updatedAt": "2026-07-28T22:19:59.184Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -481,7 +481,7 @@
       },
       "no": 8,
       "postOrder": 93,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -495,7 +495,8 @@
           "kansei": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-28T22:19:58.377Z"
     },
     {
       "id": "mqr7w0bmepzrful6eth",
@@ -23176,7 +23177,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-28T22:19:58.377Z"
     },
     {
       "id": "mr6e9t5206z4x0cak7hs",
