@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:20:45.687Z",
+    "updatedAt": "2026-07-28T22:20:42.840Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25920,7 +25920,7 @@
       "title": "GRフェスタ後編",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "C提出",
       "material": "",
       "_userSet": {
         "postDate": true,
