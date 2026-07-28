@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:20:32.752Z",
+    "updatedAt": "2026-07-28T22:20:38.607Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -985,7 +985,7 @@
       "title": "ポルシェ911②",
       "type": "通常",
       "postDate": "2026-07-31",
-      "currentStatus": "FB",
+      "currentStatus": "M提出",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -1013,9 +1013,9 @@
         "初稿": "完了",
         "FB": "進行中",
         "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 18,
@@ -1029,7 +1029,9 @@
         "stages": {
           "toukou": true,
           "afureko": true,
-          "shoko": true
+          "shoko": true,
+          "kansei": true,
+          "m_teishutsu": true
         }
       }
     },
@@ -23831,7 +23833,7 @@
       "title": "プロが使う敷きパッド（夏）",
       "type": "通常",
       "postDate": "2026-07-30",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
