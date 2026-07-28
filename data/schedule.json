@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:20:10.357Z",
+    "updatedAt": "2026-07-28T22:20:13.269Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1863,7 +1863,7 @@
       "title": "大卒32万の中、個人店で働く理由",
       "type": "ショート",
       "postDate": "2026-07-30",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1884,9 +1884,9 @@
         "初稿": "進行中",
         "FB": "完了",
         "修正": "完了",
-        "完成": "進行中",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 36,
@@ -1900,7 +1900,8 @@
         "stages": {
           "toukou": true,
           "fb": true,
-          "shuusei": true
+          "shuusei": true,
+          "kansei": true
         }
       }
     },
