@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:20:35.018Z",
+    "updatedAt": "2026-07-28T22:21:02.622Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -985,7 +985,7 @@
       "title": "ポルシェ911②",
       "type": "通常",
       "postDate": "2026-07-31",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -25919,8 +25919,8 @@
       "staff": "三浦",
       "title": "GRフェスタ後編",
       "type": "通常",
-      "postDate": "2026-08-01",
-      "currentStatus": "C提出",
+      "postDate": "2026-07-30",
+      "currentStatus": "投稿",
       "material": "",
       "_userSet": {
         "postDate": true,
