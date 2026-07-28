@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-27T05:17:15.521Z",
+    "updatedAt": "2026-07-28T04:53:50.482Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -41,7 +41,7 @@
     },
     "綿久": {
       "postsPerWeek": 1,
-      "lastPost": "2026-08-27",
+      "lastPost": "2026-08-13",
       "nextShoot": "2026-07-15"
     },
     "天領盃": {
@@ -51,7 +51,7 @@
     },
     "SUMISYOU": {
       "postsPerWeek": 1,
-      "lastPost": "2026-08-08",
+      "lastPost": "2026-08-29",
       "nextShoot": "2026-07-28"
     },
     "千勝会": {
@@ -25920,8 +25920,7 @@
         }
       },
       "no": 470,
-      "postOrder": 2,
-      "archived": false
+      "postOrder": 2
     }
   ]
 }
