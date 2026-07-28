@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-28T22:20:30.770Z",
+    "updatedAt": "2026-07-28T22:20:32.752Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23831,7 +23831,7 @@
       "title": "プロが使う敷きパッド（夏）",
       "type": "通常",
       "postDate": "2026-07-30",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23854,8 +23854,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 430,
       "postOrder": 58,
@@ -23867,7 +23867,8 @@
         "stages": {
           "toukou": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
