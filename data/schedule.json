@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-29T21:38:33.955Z",
+    "updatedAt": "2026-07-29T21:59:24.173Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1400,7 +1400,7 @@
       },
       "no": 26,
       "postOrder": 44,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -1414,7 +1414,8 @@
           "kansei": true,
           "m_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-29T21:59:23.365Z"
     },
     {
       "id": "mqr8d88fr2zpouq76j",
