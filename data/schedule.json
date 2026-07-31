@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-31T05:13:09.683Z",
+    "updatedAt": "2026-07-31T05:13:16.885Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1895,7 +1895,7 @@
       },
       "no": 36,
       "postOrder": 35,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -1908,7 +1908,8 @@
           "kansei": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-07-31T05:13:16.078Z"
     },
     {
       "id": "mqr8qk5rc8vz4m35c2e",
@@ -23881,7 +23882,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-31T05:13:16.078Z"
     },
     {
       "id": "mrd25d6s0r9klzh57d49",
@@ -24054,8 +24056,8 @@
         "アフレコ": "未着手",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "進行中",
         "投稿": "未着手"
@@ -25945,7 +25947,8 @@
       },
       "no": 470,
       "postOrder": 2,
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-07-31T05:13:16.078Z"
     }
   ]
 }
