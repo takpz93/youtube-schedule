@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-31T05:13:43.299Z",
+    "updatedAt": "2026-07-31T05:13:46.016Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24182,7 +24182,7 @@
       "title": "純米吟醸",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24205,8 +24205,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 437,
       "postOrder": 37,
@@ -24219,7 +24219,8 @@
           "toukou": true,
           "fb": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
