@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-31T05:13:27.783Z",
+    "updatedAt": "2026-07-31T05:13:34.348Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22296,7 +22296,7 @@
       "title": "あとから請求が来て焦るお金5選",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "https://119.gigafile.nu/0709-1db7c470641d11607025f4bffa2c1e6d",
       "enabledStages": [
         "shoko",
@@ -22316,10 +22316,10 @@
         "アフレコ": "未着手",
         "初稿": "進行中",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 400,
@@ -22331,7 +22331,9 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "fb": true
+          "fb": true,
+          "shuusei": true,
+          "kansei": true
         }
       },
       "archived": false
@@ -24036,7 +24038,7 @@
       "title": "子供の歯を守るルール",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
