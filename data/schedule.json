@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-31T05:13:49.183Z",
+    "updatedAt": "2026-07-31T05:13:36.449Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22296,7 +22296,7 @@
       "title": "あとから請求が来て焦るお金5選",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "C提出",
       "material": "https://119.gigafile.nu/0709-1db7c470641d11607025f4bffa2c1e6d",
       "enabledStages": [
         "shoko",
@@ -23721,10 +23721,10 @@
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
-        "完成": "進行中",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 427,
       "postOrder": 69,
@@ -23737,7 +23737,9 @@
           "toukou": true,
           "shoko": true,
           "fb": true,
-          "shuusei": true
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
@@ -24183,7 +24185,7 @@
       "title": "純米吟醸",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shoko",
