@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-31T05:13:58.497Z",
+    "updatedAt": "2026-07-31T05:13:53.349Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23250,7 +23250,7 @@
       "title": "豆乳",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23700,7 +23700,7 @@
       "title": "igl coatings洗車",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "C提出",
       "material": "https://125.gigafile.nu/1018-e643f37dabc1d628ea22c0bb2e315790",
       "enabledStages": [
         "shoko",
