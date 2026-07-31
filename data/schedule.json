@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-07-31T05:13:53.349Z",
+    "updatedAt": "2026-07-31T05:14:16.298Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23250,7 +23250,7 @@
       "title": "豆乳",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23700,7 +23700,7 @@
       "title": "igl coatings洗車",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://125.gigafile.nu/1018-e643f37dabc1d628ea22c0bb2e315790",
       "enabledStages": [
         "shoko",
@@ -24093,7 +24093,7 @@
       "title": "ホワイトニングの勘違い5選",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24111,8 +24111,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -24127,7 +24127,8 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "shoko": true
         }
       },
       "archived": false
