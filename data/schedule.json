@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-02T02:55:49.400Z",
+    "updatedAt": "2026-08-02T02:55:52.366Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23208,7 +23208,7 @@
       "title": "ショート",
       "type": "ショート",
       "postDate": "2026-08-03",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23231,8 +23231,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 418,
       "postOrder": 59,
@@ -23244,7 +23244,8 @@
         "stages": {
           "toukou": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
