@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-02T02:56:15.816Z",
+    "updatedAt": "2026-08-02T02:56:18.100Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22866,7 +22866,7 @@
       "title": "店長に求めること",
       "type": "ショート",
       "postDate": "2026-08-06",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://93.gigafile.nu/1005-9752849ae7a6999618f775651d96f3e1",
       "enabledStages": [
         "shoko",
@@ -22886,8 +22886,8 @@
         "アフレコ": "未着手",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
@@ -22902,7 +22902,8 @@
         "stages": {
           "toukou": true,
           "shoko": true,
-          "fb": true
+          "fb": true,
+          "shuusei": true
         }
       },
       "archived": false
