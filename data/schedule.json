@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-02T02:56:32.250Z",
+    "updatedAt": "2026-08-02T02:56:26.983Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23912,7 +23912,7 @@
       "title": "2026年版マットレス",
       "type": "通常",
       "postDate": "2026-08-06",
-      "currentStatus": "FB",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "shoko",
