@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-02T02:56:26.983Z",
+    "updatedAt": "2026-08-02T02:56:44.202Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1045,7 +1045,7 @@
       "title": "メンテナンス",
       "type": "通常",
       "postDate": "2026-08-07",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "https://116.gigafile.nu/0927-609f20120d3286e5244bfb3f8eaf8442",
       "enabledStages": [
         "shoko",
@@ -1065,8 +1065,8 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -1081,7 +1081,8 @@
         "currentStatus": true,
         "material": true,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "fb": true
         }
       }
     },
@@ -23912,7 +23913,7 @@
       "title": "2026年版マットレス",
       "type": "通常",
       "postDate": "2026-08-06",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "shoko",
