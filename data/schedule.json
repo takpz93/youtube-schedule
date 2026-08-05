@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-04T07:34:48.967Z",
+    "updatedAt": "2026-08-05T03:32:08.584Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25323,11 +25323,11 @@
       "id": "mrimu9ionlv9pdpxay",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "Costco第2弾 xコスパ",
+      "title": "Costco第2弾 x夏バテ・コスパ",
       "type": "通常",
       "postDate": "2026-09-05",
       "currentStatus": "企画",
-      "material": "",
+      "material": "https://67.gigafile.nu/1113-3ceb943568a16981dc6d0192a936534b",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -25363,7 +25363,7 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "toukou": true,
           "kikaku": true,
