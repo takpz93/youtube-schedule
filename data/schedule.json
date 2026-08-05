@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-05T03:32:16.868Z",
+    "updatedAt": "2026-08-05T03:32:34.510Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24761,11 +24761,11 @@
       "id": "mrik303z1436ijvvnrvc",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "8/4",
+      "title": "大戸屋腸活",
       "type": "通常",
       "postDate": "2026-08-15",
       "currentStatus": "撮影",
-      "material": "",
+      "material": "https://19.gigafile.nu/1112-92e5deea827a5937495651e1d4e1d279",
       "enabledStages": [
         "satsuei",
         "shoko",
@@ -24800,7 +24800,7 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "toukou": true,
           "satsuei": true
