@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-06T22:35:27.570Z",
+    "updatedAt": "2026-08-06T22:35:39.867Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25392,7 +25392,7 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-07-25",
+        "kikaku": "2026-08-10",
         "satsuei": "2026-08-17",
         "shoko": "2026-08-25",
         "fb": "2026-08-27",
