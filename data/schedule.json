@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-06T22:35:59.260Z",
+    "updatedAt": "2026-08-06T22:36:02.678Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -31,7 +31,7 @@
     "KINS": {
       "postsPerWeek": 2,
       "lastPost": "2026-09-26",
-      "nextShoot": "2026-08-04",
+      "nextShoot": "2026-08-17",
       "nextNextShoot": "2026-08-07"
     },
     "iStory": {
