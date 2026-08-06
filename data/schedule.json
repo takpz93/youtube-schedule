@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-06T22:35:17.387Z",
+    "updatedAt": "2026-08-06T22:35:27.570Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26374,15 +26374,10 @@
       "enabledStages": [
         "kikaku",
         "satsuei",
-        "shikou",
-        "daihon",
-        "fb_shitai",
-        "afureko",
         "shoko",
         "fb",
         "shuusei",
         "kansei",
-        "m_teishutsu",
         "c_teishutsu",
         "toukou"
       ],
@@ -26391,7 +26386,7 @@
         "satsuei": "2026-08-17"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "進行中",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
