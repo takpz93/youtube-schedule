@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-06T22:34:43.611Z",
+    "updatedAt": "2026-08-06T22:34:54.370Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26457,7 +26457,10 @@
         "c_teishutsu",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "kikaku": "2026-08-10",
+        "satsuei": "2026-08-17"
+      },
       "channel": "KINS",
       "staff": "松金さん",
       "title": "8/17",
@@ -26471,7 +26474,9 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true
         }
       },
       "no": 480,
