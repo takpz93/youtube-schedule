@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-06T22:31:05.032Z",
+    "updatedAt": "2026-08-06T22:33:19.589Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -100,7 +100,7 @@
         "投稿": "未着手"
       },
       "no": 1,
-      "postOrder": 107,
+      "postOrder": 110,
       "archived": false,
       "_userSet": {
         "postDate": false,
@@ -21168,7 +21168,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 379,
-      "postOrder": 108,
+      "postOrder": 111,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -26255,6 +26255,180 @@
       "archived": false,
       "no": 476,
       "postOrder": 13
+    },
+    {
+      "id": "msi3dzkb8ing5fmgzqc",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "8/17",
+      "type": "通常",
+      "postDate": "2026-09-15",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-08-10",
+        "satsuei": "2026-08-17"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 477,
+      "postOrder": 107
+    },
+    {
+      "id": "msi3dzkbptk8n4wnkms",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "8/17",
+      "type": "通常",
+      "postDate": "2026-09-19",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-08-10",
+        "satsuei": "2026-08-17"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 478,
+      "postOrder": 108
+    },
+    {
+      "id": "msi3dzkbzyzw6xb9xj",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "8/17",
+      "type": "通常",
+      "postDate": "2026-09-22",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-08-10",
+        "satsuei": "2026-08-17"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 479,
+      "postOrder": 109
     }
   ]
 }
