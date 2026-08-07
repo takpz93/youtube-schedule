@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-07T08:52:11.178Z",
+    "updatedAt": "2026-08-07T08:52:35.445Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24940,7 +24940,7 @@
       "title": "キムチ格付け",
       "type": "通常",
       "postDate": "2026-09-01",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24954,7 +24954,7 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-25",
-        "satsuei": "2026-08-07",
+        "satsuei": "2026-08-17",
         "shoko": "2026-08-18",
         "fb": "2026-08-19",
         "shuusei": "2026-08-20",
