@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-07T08:51:53.779Z",
+    "updatedAt": "2026-08-07T08:52:11.178Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24939,7 +24939,7 @@
       "staff": "松金さん",
       "title": "キムチ格付け",
       "type": "通常",
-      "postDate": "2026-08-25",
+      "postDate": "2026-09-01",
       "currentStatus": "企画",
       "material": "",
       "enabledStages": [
@@ -24977,7 +24977,7 @@
         "投稿": "未着手"
       },
       "no": 451,
-      "postOrder": 101,
+      "postOrder": 103,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25048,7 +25048,7 @@
         }
       },
       "no": 452,
-      "postOrder": 102,
+      "postOrder": 101,
       "archived": false
     },
     {
@@ -25103,7 +25103,7 @@
         }
       },
       "no": 453,
-      "postOrder": 103,
+      "postOrder": 102,
       "archived": false
     },
     {
