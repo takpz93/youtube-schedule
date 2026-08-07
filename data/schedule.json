@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-07T14:54:44.556Z",
+    "updatedAt": "2026-08-07T14:54:50.256Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23444,7 +23444,7 @@
       "title": "痩せ菌特集",
       "type": "通常",
       "postDate": "2026-08-11",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23470,8 +23470,8 @@
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 422,
       "postOrder": 97,
@@ -23482,7 +23482,8 @@
         "material": false,
         "stages": {
           "toukou": true,
-          "satsuei": true
+          "satsuei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
