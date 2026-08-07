@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-07T08:52:35.445Z",
+    "updatedAt": "2026-08-07T08:53:04.077Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26442,8 +26442,8 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-08-10",
-        "satsuei": "2026-08-17"
+        "kikaku": "2026-08-31",
+        "satsuei": "2026-09-14"
       },
       "channel": "KINS",
       "staff": "松金さん",
