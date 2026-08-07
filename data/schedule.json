@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-07T14:16:05.189Z",
+    "updatedAt": "2026-08-07T14:54:40.158Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23323,7 +23323,7 @@
       "title": "お酒の飲む人の腸活",
       "type": "通常",
       "postDate": "2026-08-04",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23355,7 +23355,7 @@
         "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 420,
       "postOrder": 95,
