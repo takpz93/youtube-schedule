@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-08T07:14:26.183Z",
+    "updatedAt": "2026-08-08T07:14:31.998Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27345,9 +27345,11 @@
         "c_teishutsu",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "afureko": "2026-08-20"
+      },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "進行中",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -27367,7 +27369,8 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "afureko": true
         }
       },
       "archived": false,
