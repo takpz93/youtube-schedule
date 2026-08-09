@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:30.813Z",
+    "updatedAt": "2026-08-09T07:21:34.864Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22722,7 +22722,7 @@
       "title": "接客ルール",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "https://93.gigafile.nu/1005-f7759c93751c822d5db0e0c79fd72170",
       "enabledStages": [
         "shoko",
@@ -22747,7 +22747,7 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 408,
       "postOrder": 38,
