@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:04.699Z",
+    "updatedAt": "2026-08-09T07:21:07.541Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1044,7 +1044,7 @@
       "title": "メンテナンス",
       "type": "通常",
       "postDate": "2026-08-07",
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "material": "https://116.gigafile.nu/0927-609f20120d3286e5244bfb3f8eaf8442",
       "enabledStages": [
         "shoko",
