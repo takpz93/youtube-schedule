@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:20:50.214Z",
+    "updatedAt": "2026-08-09T07:21:01.451Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23916,7 +23916,7 @@
       "title": "2026年版5万マットレス",
       "type": "通常",
       "postDate": "2026-08-06",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23940,7 +23940,7 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 431,
       "postOrder": 60,
