@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:22:07.183Z",
+    "updatedAt": "2026-08-09T07:22:17.966Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22941,7 +22941,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
+        "初稿": "遅延",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -22957,7 +22957,8 @@
         "currentStatus": true,
         "material": true,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "shoko": true
         }
       },
       "archived": false
