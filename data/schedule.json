@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T11:12:36.743Z",
+    "updatedAt": "2026-08-09T23:50:35.591Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -36,7 +36,7 @@
     "iStory": {
       "postsPerWeek": 1,
       "lastPost": "2026-09-05",
-      "nextShoot": "2026-07-29"
+      "nextShoot": "2026-09-01"
     },
     "綿久": {
       "postsPerWeek": 1,
