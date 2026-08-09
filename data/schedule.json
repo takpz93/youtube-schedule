@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:42.126Z",
+    "updatedAt": "2026-08-09T07:21:50.737Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24140,7 +24140,7 @@
         "投稿": "未着手"
       },
       "no": 435,
-      "postOrder": 8,
+      "postOrder": 9,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -24159,7 +24159,7 @@
       "staff": "至さん",
       "title": "インプラントを始める前に知っておくべきこと",
       "type": "通常",
-      "postDate": "2026-08-15",
+      "postDate": "2026-08-08",
       "currentStatus": "FB",
       "material": "",
       "enabledStages": [
@@ -24184,10 +24184,10 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 436,
-      "postOrder": 9,
+      "postOrder": 8,
       "_userSet": {
         "postDate": true,
         "postMark": false,
