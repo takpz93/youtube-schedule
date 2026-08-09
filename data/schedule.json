@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T06:30:05.491Z",
+    "updatedAt": "2026-08-09T06:30:15.838Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25093,12 +25093,12 @@
       "type": "通常",
       "postDate": "2026-08-29",
       "currentStatus": "企画",
-      "material": "",
+      "material": "https://5.gigafile.nu/1117-e8a88fac545a646e21a665c7d0be1c8b",
       "_userSet": {
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "kikaku": true,
           "satsuei": true,
