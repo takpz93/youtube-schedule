@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:26:25.906Z",
+    "updatedAt": "2026-08-09T07:26:47.951Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24675,7 +24675,7 @@
       "id": "mrijp6hw1fgozmi0ojmj",
       "channel": "天領盃",
       "staff": "長尾さん",
-      "title": "7/30",
+      "title": "純米大吟醸5選",
       "type": "通常",
       "postDate": "2026-09-12",
       "currentStatus": "企画",
@@ -24692,7 +24692,7 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-14",
-        "satsuei": "2026-07-30"
+        "satsuei": "2026-08-01"
       },
       "stageStatuses": {
         "企画": "進行中",
