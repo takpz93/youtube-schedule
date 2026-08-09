@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:22:37.400Z",
+    "updatedAt": "2026-08-09T07:22:39.444Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22923,7 +22923,7 @@
       "title": "接客ルール",
       "type": "ショート",
       "postDate": "2026-08-13",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://93.gigafile.nu/1005-f7759c93751c822d5db0e0c79fd72170",
       "enabledStages": [
         "shoko",
