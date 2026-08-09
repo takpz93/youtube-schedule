@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:24:09.509Z",
+    "updatedAt": "2026-08-09T07:25:06.449Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24623,13 +24623,12 @@
       "id": "mrijp6hwx4pz1h5cg8",
       "channel": "天領盃",
       "staff": "長尾さん",
-      "title": "7/30",
+      "title": "秋の日本酒",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
-        "kikaku",
         "satsuei",
         "shoko",
         "fb",
@@ -24644,12 +24643,12 @@
       },
       "stageStatuses": {
         "企画": "進行中",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
