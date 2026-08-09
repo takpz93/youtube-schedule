@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:07.541Z",
+    "updatedAt": "2026-08-09T07:21:16.721Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1043,7 +1043,7 @@
       "staff": "YH",
       "title": "メンテナンス",
       "type": "通常",
-      "postDate": "2026-08-07",
+      "postDate": "2026-08-08",
       "currentStatus": "投稿",
       "material": "https://116.gigafile.nu/0927-609f20120d3286e5244bfb3f8eaf8442",
       "enabledStages": [
