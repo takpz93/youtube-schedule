@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T06:31:11.353Z",
+    "updatedAt": "2026-08-09T06:31:19.252Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25059,12 +25059,12 @@
       "id": "mrikkby91e34ta4z6aj",
       "stageStatuses": {
         "企画": "進行中",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -25092,7 +25092,7 @@
       "title": "便のタイプ",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "https://5.gigafile.nu/1117-e8a88fac545a646e21a665c7d0be1c8b",
       "_userSet": {
         "postDate": true,
