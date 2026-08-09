@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:34.864Z",
+    "updatedAt": "2026-08-09T07:21:42.126Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23769,7 +23769,7 @@
       "title": "車内の日常クリーニング",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "https://125.gigafile.nu/1018-6bb89c559b0d77a7c10fcf2e551e9030",
       "enabledStages": [
         "shoko",
@@ -23793,7 +23793,7 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 428,
       "postOrder": 70,
