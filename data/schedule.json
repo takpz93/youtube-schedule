@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:53.580Z",
+    "updatedAt": "2026-08-09T07:22:07.183Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1073,7 +1073,7 @@
       },
       "no": 19,
       "postOrder": 47,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -1083,7 +1083,8 @@
           "toukou": true,
           "fb": true
         }
-      }
+      },
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mqr836e23i66q27uahq",
@@ -1454,7 +1455,7 @@
       },
       "no": 27,
       "postOrder": 46,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -1468,7 +1469,8 @@
           "kansei": true,
           "m_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mqr8hduu5w6y6km2a3u",
@@ -2991,7 +2993,7 @@
       },
       "no": 57,
       "postOrder": 3,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -3005,7 +3007,8 @@
           "m_teishutsu": true,
           "toukou": true
         }
-      }
+      },
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mqr98ldd9b6ccv1tyx",
@@ -22386,7 +22389,8 @@
           "toukou": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mqytpk15q55mvyszkjd",
@@ -22760,7 +22764,8 @@
           "toukou": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mr1grogloavm1idy2ni",
@@ -22908,7 +22913,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mr1iyb4tdou0t7kewtv",
@@ -23253,7 +23259,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mr78c4po07ymxf4o0c4b",
@@ -23806,7 +23813,8 @@
           "toukou": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mrd24brjty771pnvipa",
@@ -23954,7 +23962,8 @@
           "shoko": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mrd25d6sqsvh4resdxp",
@@ -24198,7 +24207,8 @@
           "shoko": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mrfj2y87dh6fn4pctja",
@@ -24295,7 +24305,8 @@
           "toukou": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-09T07:22:06.376Z"
     },
     {
       "id": "mrfj2y87ykhp2z4eoh",
