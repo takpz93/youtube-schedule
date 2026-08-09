@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:50.737Z",
+    "updatedAt": "2026-08-09T07:21:53.580Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24160,7 +24160,7 @@
       "title": "インプラントを始める前に知っておくべきこと",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
