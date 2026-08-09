@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:21:01.451Z",
+    "updatedAt": "2026-08-09T07:21:04.699Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1069,7 +1069,7 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 19,
       "postOrder": 47,
@@ -2956,7 +2956,7 @@
       "title": "RC-F",
       "type": "通常",
       "postDate": "2026-08-07",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "https://6.gigafile.nu/0904-9bd8331afe01a6f23b4a6cb7934e769a",
       "enabledStages": [
         "shoko",
@@ -2987,7 +2987,7 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 57,
       "postOrder": 3,
