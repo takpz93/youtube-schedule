@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:27:26.533Z",
+    "updatedAt": "2026-08-09T07:51:29.583Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24322,7 +24322,7 @@
       "title": "蔵元おすすめ③",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24340,8 +24340,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -24356,7 +24356,8 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "shoko": true
         }
       },
       "archived": false
