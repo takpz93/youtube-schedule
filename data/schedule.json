@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T05:35:27.572Z",
+    "updatedAt": "2026-08-09T05:35:45.438Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23384,7 +23384,7 @@
       "title": "コーヒーと腸活",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
