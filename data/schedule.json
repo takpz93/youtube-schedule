@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:25:06.449Z",
+    "updatedAt": "2026-08-09T07:25:17.700Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24587,7 +24587,7 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-14",
-        "satsuei": "2026-07-30"
+        "satsuei": "2026-08-01"
       },
       "stageStatuses": {
         "企画": "進行中",
