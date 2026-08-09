@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T09:53:11.728Z",
+    "updatedAt": "2026-08-09T09:58:14.428Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26009,7 +26009,7 @@
       "type": "通常",
       "postDate": "2026-08-22",
       "currentStatus": "初稿",
-      "material": "",
+      "material": "https://14.gigafile.nu/1117-56c292c17e331e228e29460ccd2d8195",
       "enabledStages": [
         "shoko",
         "fb",
@@ -26026,7 +26026,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -26038,7 +26038,7 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "toukou": true
         }
