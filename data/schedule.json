@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T09:58:53.279Z",
+    "updatedAt": "2026-08-09T11:09:37.219Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27288,14 +27288,12 @@
       "id": "msk1fpkb5udh4p5ow1f",
       "channel": "BPP",
       "staff": "YH",
-      "title": "8/20アフ",
+      "title": "モデルY　大阪",
       "type": "通常",
       "postDate": "2026-09-11",
-      "currentStatus": "企画",
-      "material": "",
+      "currentStatus": "施工",
+      "material": "https://7.gigafile.nu/1117-2b55346a575faef1b0cf7f7465de937d",
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shikou",
         "daihon",
         "fb_shitai",
@@ -27314,7 +27312,7 @@
       "stageStatuses": {
         "企画": "進行中",
         "撮影": "未着手",
-        "施工": "未着手",
+        "施工": "進行中",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
@@ -27330,7 +27328,7 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "toukou": true,
           "afureko": true
