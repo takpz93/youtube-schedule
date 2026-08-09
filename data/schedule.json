@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T06:30:15.838Z",
+    "updatedAt": "2026-08-09T06:31:11.353Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25004,12 +25004,12 @@
       "id": "mrikcl4yhgp8paj0y8a",
       "stageStatuses": {
         "企画": "進行中",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -25037,7 +25037,7 @@
       "title": "寝ても疲れが取れない",
       "type": "通常",
       "postDate": "2026-08-25",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "https://109.gigafile.nu/1117-7f69940a8e3df41762b5fe50a82073a3",
       "_userSet": {
         "postDate": true,
