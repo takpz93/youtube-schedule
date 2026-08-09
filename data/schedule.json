@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-09T07:22:21.620Z",
+    "updatedAt": "2026-08-09T07:22:28.098Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22923,7 +22923,7 @@
       "title": "接客ルール",
       "type": "ショート",
       "postDate": "2026-08-13",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://93.gigafile.nu/1005-f7759c93751c822d5db0e0c79fd72170",
       "enabledStages": [
         "shoko",
@@ -22942,9 +22942,9 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "完了",
-        "FB": "進行中",
-        "修正": "未着手",
-        "完成": "未着手",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
@@ -22958,7 +22958,9 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "shoko": true
+          "shoko": true,
+          "fb": true,
+          "shuusei": true
         }
       },
       "archived": false
