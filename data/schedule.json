@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-10T00:01:58.049Z",
+    "updatedAt": "2026-08-10T00:39:46.255Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27346,7 +27346,7 @@
       "type": "通常",
       "postDate": "2026-09-18",
       "currentStatus": "施工",
-      "material": "",
+      "material": "https://127.gigafile.nu/1118-604012bb4a9ac519e4f96ad214495791",
       "enabledStages": [
         "shikou",
         "daihon",
@@ -27382,7 +27382,7 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "toukou": true,
           "afureko": true
