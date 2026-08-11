@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-11T22:34:35.486Z",
+    "updatedAt": "2026-08-11T22:34:39.175Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23981,7 +23981,7 @@
       "title": "プロが使う掛けパッド（夏）",
       "type": "通常",
       "postDate": "2026-08-13",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24002,10 +24002,10 @@
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
-        "完成": "進行中",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 432,
       "postOrder": 61,
@@ -24018,7 +24018,9 @@
           "toukou": true,
           "shoko": true,
           "fb": true,
-          "shuusei": true
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
