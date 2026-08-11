@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-11T22:34:42.307Z",
+    "updatedAt": "2026-08-11T22:34:45.944Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -2899,7 +2899,7 @@
       "title": "FD",
       "type": "通常",
       "postDate": "2026-08-14",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "https://29.gigafile.nu/0903-1b0a9ac2c0849244491065123c25b207",
       "enabledStages": [
         "shoko",
