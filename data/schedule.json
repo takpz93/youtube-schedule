@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-11T22:36:10.486Z",
+    "updatedAt": "2026-08-12T03:32:02.586Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23505,7 +23505,8 @@
           "kansei": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-12T03:32:01.778Z"
     },
     {
       "id": "mr7jh7w2ppjvpt2pzhp",
