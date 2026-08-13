@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:05:37.923Z",
+    "updatedAt": "2026-08-13T21:05:44.585Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22967,7 +22967,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-13T21:05:43.777Z"
     },
     {
       "id": "mr1iyb4t65ep0uiojc5",
@@ -24026,7 +24027,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-13T21:05:43.777Z"
     },
     {
       "id": "mrd2a3lz029dyjzgdx1r",
