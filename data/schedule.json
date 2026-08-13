@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:06:42.915Z",
+    "updatedAt": "2026-08-13T21:08:04.288Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24811,7 +24811,7 @@
       "title": "大戸屋腸活",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://19.gigafile.nu/1112-92e5deea827a5937495651e1d4e1d279",
       "enabledStages": [
         "satsuei",
@@ -24835,7 +24835,7 @@
         "アフレコ": "未着手",
         "初稿": "進行中",
         "FB": "進行中",
-        "修正": "未着手",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
