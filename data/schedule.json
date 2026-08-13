@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:06:29.606Z",
+    "updatedAt": "2026-08-13T21:06:18.744Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22781,13 +22781,14 @@
       "title": "社長のアンケート",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "M提出",
+      "currentStatus": "FB",
       "material": "https://93.gigafile.nu/1005-e0b0c196d1f0a88b206879d731f52715",
       "enabledStages": [
         "shoko",
         "fb",
         "shuusei",
         "kansei",
+        "m_teishutsu",
         "c_teishutsu",
         "toukou"
       ],
@@ -22801,7 +22802,7 @@
         "アフレコ": "未着手",
         "初稿": "進行中",
         "FB": "進行中",
-        "修正": "未着手",
+        "修正": "完了",
         "完成": "完了",
         "M提出": "進行中",
         "C提出": "未着手",
@@ -22816,7 +22817,8 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "kansei": true
+          "kansei": true,
+          "shuusei": true
         }
       },
       "archived": false
