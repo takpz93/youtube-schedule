@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-12T03:32:02.586Z",
+    "updatedAt": "2026-08-13T11:39:22.543Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24511,7 +24511,7 @@
         "投稿": "未着手"
       },
       "no": 442,
-      "postOrder": 72,
+      "postOrder": 73,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -24564,7 +24564,7 @@
         "投稿": "未着手"
       },
       "no": 443,
-      "postOrder": 73,
+      "postOrder": 74,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25539,9 +25539,9 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -25563,10 +25563,10 @@
       },
       "channel": "SUMISYOU",
       "staff": "加畑さん(MEK)",
-      "title": "【ドンキ縛り】ドン・キホーテの洗車用品だけで全部洗ってみた",
+      "title": "GR86 施工動画",
       "type": "通常",
-      "postDate": "2026-09-05",
-      "currentStatus": "撮影",
+      "postDate": "2026-08-15",
+      "currentStatus": "修正",
       "material": "",
       "_userSet": {
         "postDate": true,
@@ -25580,7 +25580,7 @@
         }
       },
       "no": 461,
-      "postOrder": 74,
+      "postOrder": 72,
       "archived": false
     },
     {
