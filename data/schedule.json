@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:05:58.973Z",
+    "updatedAt": "2026-08-13T21:05:55.406Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24143,7 +24143,7 @@
       "title": "ホワイトニングの勘違い5選",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "完成",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24166,8 +24166,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 435,
       "postOrder": 9,
@@ -24181,7 +24181,8 @@
           "shoko": true,
           "fb": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
