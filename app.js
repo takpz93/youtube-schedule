@@ -1643,7 +1643,7 @@ function filtered() {
 }
 
 // ── Tab switching ─────────────────────────────────────────────────────────────
-const VALID_TABS = new Set(['week', 'shoot', 'gantt', 'closed', 'subs', 'subsgraph']);
+const VALID_TABS = new Set(['week', 'shoot', 'gantt', 'closed', 'subs', 'subsgraph', 'cal']);
 const TAB_ALIASES = { tasks: 'shoot', list: 'week' };
 
 function normalizeTab(tab) {
@@ -1689,6 +1689,7 @@ function render() {
   const mobile = isMobile();
   if (mobile && S.tab === 'gantt') main.classList.add('main-gantt');
   if (S.tab === 'gantt') main.appendChild(buildGantt());
+  else if (S.tab === 'cal') main.appendChild(buildCalendar());
   else if (S.tab === 'closed') main.appendChild(buildClosed());
   else if (S.tab === 'shoot') main.appendChild(buildShootingSchedule());
   else if (S.tab === 'week') main.appendChild(buildTeamWeek());
@@ -4950,6 +4951,63 @@ async function bootstrap() {
       loadSharedData(true);
     }
   });
+}
+
+// ── Calendar view ─────────────────────────────────────────────────────────────
+function chanHue(name) {
+  let h = 0;
+  const s = name || '';
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
+  return h;
+}
+function buildCalendar() {
+  const wrap = document.createElement('div');
+  wrap.className = 'dash-wrap cal-wrap';
+  const projects = filtered().filter(p => p.postDate);
+  const edit = canEdit();
+  let html = `<div class="section-title" style="margin-bottom:6px">🗓 カレンダー</div>
+    <div style="font-size:12px;color:var(--muted);margin-bottom:10px">投稿予定日で表示 · 色＝クライアント別 · グレー✓＝投稿済/クローズ · 赤枠＝期限超過${edit ? ' · チップをクリックで編集' : ''}</div>`;
+  const base = new Date(TODAY.getFullYear(), TODAY.getMonth(), 1);
+  for (let m = 0; m < 3; m++) {
+    html += calMonthYT(base.getFullYear(), base.getMonth(), projects, edit);
+    base.setMonth(base.getMonth() + 1);
+  }
+  wrap.innerHTML = html;
+  if (edit) {
+    wrap.querySelectorAll('.cal-chip[data-id]').forEach(el => {
+      el.onclick = () => openEdit(el.getAttribute('data-id'));
+    });
+  }
+  return wrap;
+}
+function calMonthYT(y, mo, projects, edit) {
+  const dow = ['月', '火', '水', '木', '金', '土', '日'];
+  const first = new Date(y, mo, 1).getDay();
+  const blank = (first + 6) % 7;
+  const dim = new Date(y, mo + 1, 0).getDate();
+  let cells = dow.map(d => `<div class="cal-dow">${d}</div>`).join('');
+  for (let i = 0; i < blank; i++) cells += `<div class="cal-cell cal-empty"></div>`;
+  for (let dd = 1; dd <= dim; dd++) {
+    const cellDate = new Date(y, mo, dd);
+    const today = sameDay(cellDate, TODAY);
+    let chips = '';
+    projects.filter(p => sameDay(p.postDate, cellDate)).forEach(p => {
+      const done = !isActiveStatus(p.currentStatus);
+      const overdue = !done && p.postDate < TODAY;
+      let style, cls = 'cal-chip';
+      if (done) {
+        style = 'background:#eceff3;color:#8a94a6;border:1px solid #d8dee9;opacity:.85';
+      } else {
+        const h = chanHue(p.channel);
+        style = `background:hsl(${h} 80% 94%);color:hsl(${h} 70% 30%);border:1px solid hsl(${h} 65% 76%)`;
+      }
+      if (overdue) cls += ' cal-over';
+      const label = escHtml((p.title || '').slice(0, 12));
+      chips += `<div class="${cls}"${edit ? ` data-id="${escAttr(p.id)}"` : ''} style="${style}" title="${escAttr((p.title || '') + '（' + (p.channel || '') + '）')}">${done ? '✓' : ''}${label}</div>`;
+    });
+    cells += `<div class="cal-cell${today ? ' cal-today' : ''}"><span class="cal-dn">${dd}</span>${chips}</div>`;
+  }
+  return `<div class="cal-month"><div class="cal-mh">${y}年 ${mo + 1}月</div><div class="cal-grid">${cells}</div></div>`;
 }
 
 function showFatalError(detail) {

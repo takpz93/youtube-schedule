@@ -6,11 +6,11 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <title>YouTube 制作スケジュール管理 — Tak COO</title>
-  <link rel="stylesheet" href="styles.css?v=20260726a">
+  <link rel="stylesheet" href="styles.css?v=20260812cal">
   <link rel="canonical" href="https://takpz93.github.io/youtube-schedule/">
   <script>
   (function () {
-    var V = '20260726a';
+    var V = '20260812cal';
     var k = 'yt_schedule_html_v';
     try {
       var prev = localStorage.getItem(k);
@@ -90,6 +90,7 @@
   <button type="button" class="tab active" id="tab-week" onclick="switchTab('week')">📆 今週</button>
   <button type="button" class="tab" id="tab-shoot" onclick="switchTab('shoot')">📷 次回撮影日</button>
   <button type="button" class="tab" id="tab-gantt" onclick="switchTab('gantt')">📅 ガント</button>
+  <button type="button" class="tab" id="tab-cal" onclick="switchTab('cal')">🗓 カレンダー</button>
   <button type="button" class="tab" id="tab-closed" onclick="switchTab('closed')">✅ クローズ済</button>
   <button type="button" class="tab" id="tab-subs" onclick="switchTab('subs')">📈 登録者</button>
   <button type="button" class="tab" id="tab-subsgraph" onclick="switchTab('subsgraph')">📊 登録者グラフ</button>
@@ -236,7 +237,7 @@
 </div>
 
 <script src="sync-config.js?v=20260629a"></script>
-<script src="app.js?v=20260726a"></script>
+<script src="app.js?v=20260812cal"></script>
 <script>
 (function () {
   function showBootFailure(detail) {
