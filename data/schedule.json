@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:06:22.445Z",
+    "updatedAt": "2026-08-13T21:06:09.082Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22401,7 +22401,7 @@
       "title": "決算書の見方（損益計算書）",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "C提出",
       "material": "https://119.gigafile.nu/1012-08d64690995386d5f3af6a894c800482",
       "enabledStages": [
         "shoko",
@@ -22781,7 +22781,7 @@
       "title": "社長のアンケート",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "M提出",
+      "currentStatus": "FB",
       "material": "https://93.gigafile.nu/1005-e0b0c196d1f0a88b206879d731f52715",
       "enabledStages": [
         "shoko",
@@ -24344,7 +24344,7 @@
       "title": "蔵元おすすめ③",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "shoko",
