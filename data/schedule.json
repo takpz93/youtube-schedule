@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:08:25.764Z",
+    "updatedAt": "2026-08-13T21:08:18.159Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22984,7 +22984,7 @@
       "title": "社長のアンケート",
       "type": "ショート",
       "postDate": "2026-08-20",
-      "currentStatus": "投稿",
+      "currentStatus": "完成",
       "material": "https://93.gigafile.nu/1005-e0b0c196d1f0a88b206879d731f52715",
       "enabledStages": [
         "shoko",
