@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:06:06.585Z",
+    "updatedAt": "2026-08-13T21:06:11.541Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22401,7 +22401,7 @@
       "title": "決算書の見方（損益計算書）",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "https://119.gigafile.nu/1012-08d64690995386d5f3af6a894c800482",
       "enabledStages": [
         "shoko",
@@ -22424,8 +22424,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 402,
       "postOrder": 10,
@@ -22439,7 +22439,8 @@
           "shoko": true,
           "fb": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
@@ -24362,8 +24363,8 @@
         "アフレコ": "未着手",
         "初稿": "完了",
         "FB": "進行中",
-        "修正": "未着手",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
@@ -24377,7 +24378,8 @@
         "material": false,
         "stages": {
           "toukou": true,
-          "shoko": true
+          "shoko": true,
+          "shuusei": true
         }
       },
       "archived": false
