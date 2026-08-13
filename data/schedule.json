@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:06:35.041Z",
+    "updatedAt": "2026-08-13T21:06:42.915Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22781,7 +22781,7 @@
       "title": "社長のアンケート",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "https://93.gigafile.nu/1005-e0b0c196d1f0a88b206879d731f52715",
       "enabledStages": [
         "shoko",
@@ -25581,7 +25581,7 @@
       "title": "GR86 施工動画",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "",
       "_userSet": {
         "postDate": true,
