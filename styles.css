@@ -1984,5 +1984,17 @@ body.is-mobile .sg-cards { grid-template-columns: 1fr; }
   cursor: pointer;
 }
 .cal-over { outline: 1.5px solid var(--red); outline-offset: -1px; }
+.cal-short {
+  display: inline-block;
+  font-size: 8.5px;
+  font-weight: 800;
+  background: #dc2626;
+  color: #fff;
+  border-radius: 3px;
+  padding: 0 3px;
+  margin-right: 3px;
+  vertical-align: middle;
+  letter-spacing: .3px;
+}
 body.is-mobile .cal-cell { min-height: 56px; padding: 3px; }
 body.is-mobile .cal-chip { font-size: 9px; padding: 1px 3px; }

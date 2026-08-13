@@ -5002,8 +5002,9 @@ function calMonthYT(y, mo, projects, edit) {
         style = `background:hsl(${h} 80% 94%);color:hsl(${h} 70% 30%);border:1px solid hsl(${h} 65% 76%)`;
       }
       if (overdue) cls += ' cal-over';
+      const short = p.type === 'ショート' ? '<span class="cal-short">Short</span>' : '';
       const label = escHtml((p.title || '').slice(0, 12));
-      chips += `<div class="${cls}"${edit ? ` data-id="${escAttr(p.id)}"` : ''} style="${style}" title="${escAttr((p.title || '') + '（' + (p.channel || '') + '）')}">${done ? '✓' : ''}${label}</div>`;
+      chips += `<div class="${cls}"${edit ? ` data-id="${escAttr(p.id)}"` : ''} style="${style}" title="${escAttr((p.title || '') + '（' + (p.channel || '') + '）' + (p.type === 'ショート' ? ' [ショート]' : ''))}">${short}${done ? '✓' : ''}${label}</div>`;
     });
     cells += `<div class="cal-cell${today ? ' cal-today' : ''}"><span class="cal-dn">${dd}</span>${chips}</div>`;
   }
