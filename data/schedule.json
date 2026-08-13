@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:05:52.704Z",
+    "updatedAt": "2026-08-13T21:05:58.973Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1092,7 +1092,7 @@
       "title": "ランクル70②",
       "type": "通常",
       "postDate": "2026-08-14",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24143,7 +24143,7 @@
       "title": "ホワイトニングの勘違い5選",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24163,10 +24163,10 @@
         "アフレコ": "未着手",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 435,
@@ -24179,7 +24179,9 @@
         "stages": {
           "toukou": true,
           "shoko": true,
-          "fb": true
+          "fb": true,
+          "shuusei": true,
+          "kansei": true
         }
       },
       "archived": false
