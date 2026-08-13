@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-13T21:06:11.541Z",
+    "updatedAt": "2026-08-13T21:06:14.265Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24343,7 +24343,7 @@
       "title": "蔵元おすすめ③",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "FB",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24364,9 +24364,9 @@
         "初稿": "完了",
         "FB": "進行中",
         "修正": "完了",
-        "完成": "進行中",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 439,
@@ -24379,7 +24379,8 @@
         "stages": {
           "toukou": true,
           "shoko": true,
-          "shuusei": true
+          "shuusei": true,
+          "kansei": true
         }
       },
       "archived": false
