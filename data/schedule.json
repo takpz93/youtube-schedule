@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-14T03:35:34.726Z",
+    "updatedAt": "2026-08-14T03:35:37.374Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24816,7 +24816,7 @@
       "title": "大戸屋腸活",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "M提出",
+      "currentStatus": "C提出",
       "material": "https://19.gigafile.nu/1112-92e5deea827a5937495651e1d4e1d279",
       "enabledStages": [
         "satsuei",
@@ -25564,9 +25564,9 @@
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
-        "完成": "進行中",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "enabledStages": [
@@ -25599,7 +25599,8 @@
           "toukou": true,
           "kikaku": true,
           "satsuei": true,
-          "shuusei": true
+          "shuusei": true,
+          "kansei": true
         }
       },
       "no": 461,
