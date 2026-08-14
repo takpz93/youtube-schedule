@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-14T03:35:37.374Z",
+    "updatedAt": "2026-08-14T03:35:44.476Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -2932,7 +2932,7 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "完了",
-        "投稿": "進行中"
+        "投稿": "完了"
       },
       "no": 56,
       "postOrder": 4,
@@ -24816,7 +24816,7 @@
       "title": "大戸屋腸活",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://19.gigafile.nu/1112-92e5deea827a5937495651e1d4e1d279",
       "enabledStages": [
         "satsuei",
@@ -24843,8 +24843,8 @@
         "修正": "進行中",
         "完成": "完了",
         "M提出": "完了",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 448,
       "postOrder": 98,
@@ -24857,7 +24857,8 @@
           "toukou": true,
           "satsuei": true,
           "kansei": true,
-          "m_teishutsu": true
+          "m_teishutsu": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
@@ -25566,8 +25567,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "enabledStages": [
         "kikaku",
@@ -25588,7 +25589,7 @@
       "title": "GR86 施工動画",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "",
       "_userSet": {
         "postDate": true,
@@ -25600,7 +25601,8 @@
           "kikaku": true,
           "satsuei": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "no": 461,
