@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-14T06:39:15.541Z",
+    "updatedAt": "2026-08-15T23:04:16.064Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27433,14 +27433,12 @@
       "id": "msk1fpkb3nxke0hayl",
       "channel": "BPP",
       "staff": "YH",
-      "title": "8/20アフ",
+      "title": "マスタング",
       "type": "通常",
       "postDate": "2026-09-25",
-      "currentStatus": "企画",
+      "currentStatus": "施工",
       "material": "",
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shikou",
         "daihon",
         "fb_shitai",
@@ -27459,7 +27457,7 @@
       "stageStatuses": {
         "企画": "進行中",
         "撮影": "未着手",
-        "施工": "未着手",
+        "施工": "進行中",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
