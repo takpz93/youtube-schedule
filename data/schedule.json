@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-17T10:39:30.093Z",
+    "updatedAt": "2026-08-17T10:39:32.528Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24870,7 +24870,7 @@
       "title": "おならと腸",
       "type": "通常",
       "postDate": "2026-08-18",
-      "currentStatus": "FB",
+      "currentStatus": "完成",
       "material": "https://18.gigafile.nu/1115-9dc3de87b2a6c6eeac38b03f1451cc14",
       "enabledStages": [
         "kikaku",
@@ -24903,8 +24903,8 @@
         "修正": "完了",
         "完成": "進行中",
         "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 449,
       "postOrder": 99,
