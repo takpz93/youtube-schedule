@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-18T03:07:43.079Z",
+    "updatedAt": "2026-08-18T07:41:51.084Z",
     "updatedBy": "管理者",
-    "version": 3
+    "version": 1
   },
   "options": {
     "channels": [
@@ -59,7 +59,7 @@
     },
     "Actvision": {
       "postsPerWeek": 1,
-      "lastPost": "2026-09-05",
+      "lastPost": "2026-09-19",
       "nextShoot": "2026-08-20"
     },
     "GARAGE-R": {
@@ -25613,9 +25613,9 @@
       "id": "mrtzx9ki3k9wdm2hd0o",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "お悩み別マットレス選び",
+      "title": "マットレス格付け",
       "type": "通常",
-      "postDate": "2026-09-03",
+      "postDate": "2026-08-20",
       "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
@@ -25660,7 +25660,7 @@
       "id": "mrtzx9kiolflbveli",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "お悩み別まくら選び",
+      "title": "枕格付け",
       "type": "通常",
       "postDate": "2026-08-27",
       "currentStatus": "撮影",
@@ -25709,7 +25709,7 @@
       "staff": "小島さん",
       "title": "カメラマンの睡眠スコア",
       "type": "通常",
-      "postDate": "2026-08-20",
+      "postDate": "2026-09-03",
       "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
@@ -26428,7 +26428,7 @@
       "type": "通常",
       "postDate": "2026-09-22",
       "currentStatus": "企画",
-      "material": "",
+      "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378",
       "enabledStages": [
         "kikaku",
         "satsuei",
