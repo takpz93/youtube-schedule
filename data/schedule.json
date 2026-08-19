@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:28:42.559Z",
+    "updatedAt": "2026-08-19T05:30:05.605Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -3143,7 +3143,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 60,
-      "postOrder": 55,
+      "postOrder": 60,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3195,7 +3195,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 61,
-      "postOrder": 56,
+      "postOrder": 61,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3247,7 +3247,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 62,
-      "postOrder": 57,
+      "postOrder": 62,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -23562,7 +23562,7 @@
         "投稿": "未着手"
       },
       "no": 423,
-      "postOrder": 49,
+      "postOrder": 50,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -23617,7 +23617,7 @@
         "投稿": "未着手"
       },
       "no": 424,
-      "postOrder": 50,
+      "postOrder": 52,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -23671,7 +23671,7 @@
         "投稿": "未着手"
       },
       "no": 425,
-      "postOrder": 51,
+      "postOrder": 54,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27373,7 +27373,7 @@
       },
       "archived": false,
       "no": 496,
-      "postOrder": 52
+      "postOrder": 56
     },
     {
       "id": "msk1fpkbexq97egyb3o",
@@ -27427,7 +27427,7 @@
       },
       "archived": false,
       "no": 497,
-      "postOrder": 53
+      "postOrder": 58
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -27481,7 +27481,228 @@
       },
       "archived": false,
       "no": 498,
-      "postOrder": 54
+      "postOrder": 59
+    },
+    {
+      "id": "msznk64xb87mtescg16",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "ランクル②",
+      "type": "ショート",
+      "postDate": "2026-08-19",
+      "currentStatus": "投稿",
+      "material": "",
+      "enabledStages": [
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 499,
+      "postOrder": 49
+    },
+    {
+      "id": "msznk64xfc9juznh46f",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "磨き紹介",
+      "type": "ショート",
+      "postDate": "2026-08-26",
+      "currentStatus": "投稿",
+      "material": "",
+      "enabledStages": [
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 500,
+      "postOrder": 51
+    },
+    {
+      "id": "msznk64x9qdp9co9tbr",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "メンテナンス",
+      "type": "ショート",
+      "postDate": "2026-09-02",
+      "currentStatus": "投稿",
+      "material": "",
+      "enabledStages": [
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 501,
+      "postOrder": 53
+    },
+    {
+      "id": "msznk64xto6qn96lnun",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "ゲレンデ",
+      "type": "ショート",
+      "postDate": "2026-09-09",
+      "currentStatus": "投稿",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 502,
+      "postOrder": 55
+    },
+    {
+      "id": "msznk64x1xddnril5uw",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "サンバートラック",
+      "type": "ショート",
+      "postDate": "2026-09-16",
+      "currentStatus": "投稿",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 503,
+      "postOrder": 57
     }
   ]
 }
