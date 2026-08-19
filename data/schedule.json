@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:31:12.709Z",
+    "updatedAt": "2026-08-19T05:31:27.989Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25625,7 +25625,7 @@
       "title": "マットレス格付け",
       "type": "通常",
       "postDate": "2026-08-20",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -25860,153 +25860,6 @@
       "archived": false
     },
     {
-      "id": "mrym0g4q32hyr26bv55",
-      "channel": "GARAGE-R",
-      "staff": "YH",
-      "title": "8/14",
-      "type": "通常",
-      "postDate": "2026-08-21",
-      "currentStatus": "企画",
-      "material": "",
-      "enabledStages": [
-        "kikaku",
-        "satsuei",
-        "shoko",
-        "fb",
-        "shuusei",
-        "kansei",
-        "m_teishutsu",
-        "c_teishutsu",
-        "toukou"
-      ],
-      "manualStageDates": {},
-      "stageStatuses": {
-        "企画": "未着手",
-        "撮影": "未着手",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
-      },
-      "no": 467,
-      "postOrder": 5,
-      "_userSet": {
-        "postDate": true,
-        "postMark": false,
-        "currentStatus": true,
-        "material": false,
-        "stages": {
-          "toukou": true
-        }
-      },
-      "archived": false
-    },
-    {
-      "id": "mrym0g4qe65ci5nnxn7",
-      "channel": "GARAGE-R",
-      "staff": "YH",
-      "title": "8/14",
-      "type": "通常",
-      "postDate": "2026-08-28",
-      "currentStatus": "企画",
-      "material": "",
-      "enabledStages": [
-        "kikaku",
-        "satsuei",
-        "shoko",
-        "fb",
-        "shuusei",
-        "kansei",
-        "m_teishutsu",
-        "c_teishutsu",
-        "toukou"
-      ],
-      "manualStageDates": {},
-      "stageStatuses": {
-        "企画": "未着手",
-        "撮影": "未着手",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
-      },
-      "no": 468,
-      "postOrder": 6,
-      "_userSet": {
-        "postDate": true,
-        "postMark": false,
-        "currentStatus": true,
-        "material": false,
-        "stages": {
-          "toukou": true
-        }
-      },
-      "archived": false
-    },
-    {
-      "id": "mrym0g4qlvcpc5i95ps",
-      "channel": "GARAGE-R",
-      "staff": "YH",
-      "title": "8/14",
-      "type": "通常",
-      "postDate": "2026-09-04",
-      "currentStatus": "企画",
-      "material": "",
-      "enabledStages": [
-        "kikaku",
-        "satsuei",
-        "shoko",
-        "fb",
-        "shuusei",
-        "kansei",
-        "m_teishutsu",
-        "c_teishutsu",
-        "toukou"
-      ],
-      "manualStageDates": {},
-      "stageStatuses": {
-        "企画": "未着手",
-        "撮影": "未着手",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
-      },
-      "no": 469,
-      "postOrder": 7,
-      "_userSet": {
-        "postDate": true,
-        "postMark": false,
-        "currentStatus": true,
-        "material": false,
-        "stages": {
-          "toukou": true
-        }
-      },
-      "archived": false
-    },
-    {
       "id": "mrzgpxp18b17mkispkh",
       "stageStatuses": {
         "企画": "未着手",
@@ -26045,7 +25898,7 @@
           "c_teishutsu": true
         }
       },
-      "no": 470,
+      "no": 467,
       "postOrder": 2,
       "archived": true,
       "archivedAt": "2026-07-31T05:13:16.078Z"
@@ -26093,7 +25946,7 @@
         }
       },
       "archived": false,
-      "no": 471,
+      "no": 468,
       "postOrder": 42
     },
     {
@@ -26139,7 +25992,7 @@
         }
       },
       "archived": false,
-      "no": 472,
+      "no": 469,
       "postOrder": 43
     },
     {
@@ -26185,7 +26038,7 @@
         }
       },
       "archived": false,
-      "no": 473,
+      "no": 470,
       "postOrder": 44
     },
     {
@@ -26231,7 +26084,7 @@
         }
       },
       "archived": false,
-      "no": 474,
+      "no": 471,
       "postOrder": 11
     },
     {
@@ -26277,7 +26130,7 @@
         }
       },
       "archived": false,
-      "no": 475,
+      "no": 472,
       "postOrder": 12
     },
     {
@@ -26323,7 +26176,7 @@
         }
       },
       "archived": false,
-      "no": 476,
+      "no": 473,
       "postOrder": 13
     },
     {
@@ -26376,7 +26229,7 @@
         }
       },
       "archived": false,
-      "no": 477,
+      "no": 474,
       "postOrder": 107
     },
     {
@@ -26429,7 +26282,7 @@
         }
       },
       "archived": false,
-      "no": 478,
+      "no": 475,
       "postOrder": 108
     },
     {
@@ -26482,7 +26335,7 @@
         }
       },
       "archived": false,
-      "no": 479,
+      "no": 476,
       "postOrder": 109
     },
     {
@@ -26534,7 +26387,7 @@
           "satsuei": true
         }
       },
-      "no": 480,
+      "no": 477,
       "postOrder": 110,
       "archived": false
     },
@@ -26588,7 +26441,7 @@
         }
       },
       "archived": false,
-      "no": 481,
+      "no": 478,
       "postOrder": 111
     },
     {
@@ -26641,7 +26494,7 @@
         }
       },
       "archived": false,
-      "no": 482,
+      "no": 479,
       "postOrder": 112
     },
     {
@@ -26694,7 +26547,7 @@
         }
       },
       "archived": false,
-      "no": 483,
+      "no": 480,
       "postOrder": 113
     },
     {
@@ -26747,7 +26600,7 @@
         }
       },
       "archived": false,
-      "no": 484,
+      "no": 481,
       "postOrder": 114
     },
     {
@@ -26800,7 +26653,7 @@
         }
       },
       "archived": false,
-      "no": 485,
+      "no": 482,
       "postOrder": 115
     },
     {
@@ -26853,7 +26706,7 @@
         }
       },
       "archived": false,
-      "no": 486,
+      "no": 483,
       "postOrder": 116
     },
     {
@@ -26906,7 +26759,7 @@
         }
       },
       "archived": false,
-      "no": 487,
+      "no": 484,
       "postOrder": 117
     },
     {
@@ -26959,7 +26812,7 @@
         }
       },
       "archived": false,
-      "no": 488,
+      "no": 485,
       "postOrder": 118
     },
     {
@@ -27012,7 +26865,7 @@
         }
       },
       "archived": false,
-      "no": 489,
+      "no": 486,
       "postOrder": 119
     },
     {
@@ -27065,7 +26918,7 @@
         }
       },
       "archived": false,
-      "no": 490,
+      "no": 487,
       "postOrder": 120
     },
     {
@@ -27118,7 +26971,7 @@
         }
       },
       "archived": false,
-      "no": 491,
+      "no": 488,
       "postOrder": 121
     },
     {
@@ -27171,7 +27024,7 @@
         }
       },
       "archived": false,
-      "no": 492,
+      "no": 489,
       "postOrder": 14
     },
     {
@@ -27224,7 +27077,7 @@
         }
       },
       "archived": false,
-      "no": 493,
+      "no": 490,
       "postOrder": 15
     },
     {
@@ -27277,7 +27130,7 @@
         }
       },
       "archived": false,
-      "no": 494,
+      "no": 491,
       "postOrder": 16
     },
     {
@@ -27330,7 +27183,7 @@
         }
       },
       "archived": false,
-      "no": 495,
+      "no": 492,
       "postOrder": 17
     },
     {
@@ -27384,7 +27237,7 @@
         }
       },
       "archived": false,
-      "no": 496,
+      "no": 493,
       "postOrder": 56
     },
     {
@@ -27438,7 +27291,7 @@
         }
       },
       "archived": false,
-      "no": 497,
+      "no": 494,
       "postOrder": 58
     },
     {
@@ -27492,7 +27345,7 @@
         }
       },
       "archived": false,
-      "no": 498,
+      "no": 495,
       "postOrder": 59
     },
     {
@@ -27533,7 +27386,7 @@
         }
       },
       "archived": false,
-      "no": 499,
+      "no": 496,
       "postOrder": 49
     },
     {
@@ -27578,7 +27431,7 @@
         }
       },
       "archived": false,
-      "no": 500,
+      "no": 497,
       "postOrder": 51
     },
     {
@@ -27623,7 +27476,7 @@
         }
       },
       "archived": false,
-      "no": 501,
+      "no": 498,
       "postOrder": 53
     },
     {
@@ -27668,7 +27521,7 @@
         }
       },
       "archived": false,
-      "no": 502,
+      "no": 499,
       "postOrder": 55
     },
     {
@@ -27713,7 +27566,7 @@
         }
       },
       "archived": false,
-      "no": 503,
+      "no": 500,
       "postOrder": 57
     }
   ]
