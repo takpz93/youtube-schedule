@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:31:57.117Z",
+    "updatedAt": "2026-08-19T05:32:03.485Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24941,7 +24941,7 @@
       "title": "コレステロール",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://85.gigafile.nu/1117-96e88fc7eb2978d56d04fc1d8ba15d46",
       "enabledStages": [
         "kikaku",
@@ -24969,8 +24969,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
