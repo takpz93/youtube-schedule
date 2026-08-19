@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:31:10.442Z",
+    "updatedAt": "2026-08-19T05:31:14.674Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25625,7 +25625,7 @@
       "title": "マットレス格付け",
       "type": "通常",
       "postDate": "2026-08-20",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -25649,8 +25649,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 462,
       "postOrder": 62,
@@ -25662,7 +25662,8 @@
         "stages": {
           "toukou": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
