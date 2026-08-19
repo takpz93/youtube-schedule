@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:31:14.674Z",
+    "updatedAt": "2026-08-19T05:31:12.709Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25625,7 +25625,7 @@
       "title": "マットレス格付け",
       "type": "通常",
       "postDate": "2026-08-20",
-      "currentStatus": "投稿",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "satsuei",
