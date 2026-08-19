@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:31:27.989Z",
+    "updatedAt": "2026-08-19T05:31:57.117Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25910,7 +25910,7 @@
       "title": "恵比寿店ルームツアー",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "https://14.gigafile.nu/1117-56c292c17e331e228e29460ccd2d8195",
       "enabledStages": [
         "shoko",
@@ -25929,8 +25929,8 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "進行中",
-        "FB": "未着手",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -25942,7 +25942,8 @@
         "currentStatus": true,
         "material": true,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "fb": true
         }
       },
       "archived": false,
