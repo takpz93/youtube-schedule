@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-19T05:30:45.221Z",
+    "updatedAt": "2026-08-19T05:30:58.969Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -1121,7 +1121,7 @@
       },
       "no": 20,
       "postOrder": 48,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -1132,7 +1132,8 @@
           "m_teishutsu": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mqr8d88fj5lxr03jlxn",
@@ -2936,7 +2937,7 @@
       },
       "no": 56,
       "postOrder": 4,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -2951,7 +2952,8 @@
           "toukou": true,
           "c_teishutsu": true
         }
-      }
+      },
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mqr96xfwrlszdbtv46",
@@ -22443,7 +22445,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mr083qk8n0r294ha2g",
@@ -22821,7 +22824,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mr1iyb4thr6e527sra6",
@@ -24195,7 +24199,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mrd2a3lzd481zhd667m",
@@ -24391,7 +24396,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mrfj2y87dt0tok7jjbm",
@@ -24861,7 +24867,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mrik303ztewjlali6n",
@@ -24924,7 +24931,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mrik303zitqb6qet9ll",
@@ -25607,7 +25615,8 @@
       },
       "no": 461,
       "postOrder": 71,
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-19T05:30:58.162Z"
     },
     {
       "id": "mrtzx9ki3k9wdm2hd0o",
