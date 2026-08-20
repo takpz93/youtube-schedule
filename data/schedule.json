@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:19:34.889Z",
+    "updatedAt": "2026-08-20T23:19:54.263Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27672,7 +27672,12 @@
         "kansei",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "shoko": "2026-08-28",
+        "fb": "2026-08-29",
+        "shuusei": "2026-08-30",
+        "kansei": "2026-08-30"
+      },
       "stageStatuses": {
         "企画": "未着手",
         "撮影": "未着手",
@@ -27694,7 +27699,11 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true
         }
       },
       "archived": false,
