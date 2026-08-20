@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:24:05.400Z",
+    "updatedAt": "2026-08-20T23:24:07.257Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25945,7 +25945,7 @@
       "title": "恵比寿店ルームツアー",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://14.gigafile.nu/1117-56c292c17e331e228e29460ccd2d8195",
       "enabledStages": [
         "shoko",
