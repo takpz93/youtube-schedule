@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:31:41.525Z",
+    "updatedAt": "2026-08-20T23:32:20.542Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26294,7 +26294,7 @@
       "title": "甘いものが食べたい理由は腸が原因",
       "type": "通常",
       "postDate": "2026-09-15",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -26317,12 +26317,12 @@
       },
       "stageStatuses": {
         "企画": "進行中",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
