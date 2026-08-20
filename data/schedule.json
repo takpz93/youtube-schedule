@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:29:40.298Z",
+    "updatedAt": "2026-08-20T23:29:51.317Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24537,7 +24537,8 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-14",
-        "satsuei": "2026-07-28"
+        "satsuei": "2026-07-28",
+        "fb": "2026-08-21"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -24565,7 +24566,8 @@
           "toukou": true,
           "kikaku": true,
           "satsuei": true,
-          "shoko": true
+          "shoko": true,
+          "fb": true
         }
       },
       "archived": false
