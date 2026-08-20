@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:33:31.821Z",
+    "updatedAt": "2026-08-20T23:34:13.033Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -76,12 +76,15 @@
       "title": "TAKRAM会議",
       "type": "通常",
       "postDate": null,
-      "currentStatus": "投稿",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
+        "kansei",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "kansei": "2026-08-23"
+      },
       "stageStatuses": {
         "企画": "未着手",
         "撮影": "未着手",
@@ -92,7 +95,7 @@
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
-        "完成": "未着手",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
@@ -101,11 +104,13 @@
       "postOrder": 122,
       "archived": false,
       "_userSet": {
-        "postDate": false,
+        "postDate": true,
         "postMark": false,
         "currentStatus": true,
         "material": false,
-        "stages": {}
+        "stages": {
+          "kansei": true
+        }
       }
     },
     {
