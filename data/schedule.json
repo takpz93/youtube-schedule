@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T14:01:43.099Z",
+    "updatedAt": "2026-08-20T14:02:32.863Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23652,12 +23652,16 @@
         "fb",
         "shuusei",
         "kansei",
-        "m_teishutsu",
         "c_teishutsu",
         "toukou"
       ],
       "manualStageDates": {
-        "afureko": "2026-08-20"
+        "afureko": "2026-08-20",
+        "shoko": "2026-09-15",
+        "fb": "2026-09-17",
+        "shuusei": "2026-09-19",
+        "kansei": "2026-09-20",
+        "c_teishutsu": "2026-09-21"
       },
       "stageStatuses": {
         "企画": "未着手",
@@ -23683,7 +23687,12 @@
         "material": true,
         "stages": {
           "toukou": true,
-          "afureko": true
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
