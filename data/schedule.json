@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T15:08:08.648Z",
+    "updatedAt": "2026-08-20T15:08:13.680Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24950,7 +24950,7 @@
       "title": "コレステロール",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "https://85.gigafile.nu/1117-96e88fc7eb2978d56d04fc1d8ba15d46",
       "enabledStages": [
         "kikaku",
@@ -24981,10 +24981,10 @@
         "初稿": "完了",
         "FB": "進行中",
         "修正": "未着手",
-        "完成": "未着手",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 450,
       "postOrder": 100,
