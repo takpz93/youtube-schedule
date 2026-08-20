@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:27:22.228Z",
+    "updatedAt": "2026-08-20T23:27:24.500Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24419,7 +24419,7 @@
       "title": "関西の日本酒",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
