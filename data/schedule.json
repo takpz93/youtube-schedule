@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:32:58.438Z",
+    "updatedAt": "2026-08-20T23:33:31.821Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27265,7 +27265,7 @@
       "id": "msjsn52ewmtuq3vomj8",
       "channel": "Actvision",
       "staff": "YH",
-      "title": "9/5",
+      "title": "9/15",
       "type": "通常",
       "postDate": "2026-10-03",
       "currentStatus": "企画",
@@ -27281,8 +27281,8 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-08-29",
-        "satsuei": "2026-09-05"
+        "kikaku": "2026-09-01",
+        "satsuei": "2026-09-15"
       },
       "stageStatuses": {
         "企画": "進行中",
