@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T15:08:16.336Z",
+    "updatedAt": "2026-08-20T15:09:06.758Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25406,7 +25406,7 @@
       "title": "Costco第2弾 x夏バテ・コスパ",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "https://67.gigafile.nu/1113-3ceb943568a16981dc6d0192a936534b",
       "enabledStages": [
         "kikaku",
@@ -25420,16 +25420,21 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-25",
-        "satsuei": "2026-08-04"
+        "satsuei": "2026-08-04",
+        "shoko": "2026-08-21",
+        "fb": "2026-08-23",
+        "shuusei": "2026-08-25",
+        "kansei": "2026-08-27",
+        "c_teishutsu": "2026-08-28"
       },
       "stageStatuses": {
         "企画": "進行中",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -25447,7 +25452,12 @@
         "stages": {
           "toukou": true,
           "kikaku": true,
-          "satsuei": true
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
