@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:34:13.033Z",
+    "updatedAt": "2026-08-20T23:34:30.330Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -75,7 +75,7 @@
       "staff": "松金さん",
       "title": "TAKRAM会議",
       "type": "通常",
-      "postDate": null,
+      "postDate": "2026-08-24",
       "currentStatus": "完成",
       "material": "",
       "enabledStages": [
@@ -101,7 +101,7 @@
         "投稿": "未着手"
       },
       "no": 1,
-      "postOrder": 122,
+      "postOrder": 101,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -25075,7 +25075,7 @@
         "投稿": "未着手"
       },
       "no": 451,
-      "postOrder": 103,
+      "postOrder": 104,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25154,7 +25154,7 @@
         }
       },
       "no": 452,
-      "postOrder": 101,
+      "postOrder": 102,
       "archived": false
     },
     {
@@ -25217,7 +25217,7 @@
         }
       },
       "no": 453,
-      "postOrder": 102,
+      "postOrder": 103,
       "archived": false
     },
     {
@@ -25478,7 +25478,7 @@
         "投稿": "未着手"
       },
       "no": 458,
-      "postOrder": 104,
+      "postOrder": 105,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25541,7 +25541,7 @@
         "投稿": "未着手"
       },
       "no": 459,
-      "postOrder": 105,
+      "postOrder": 106,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25604,7 +25604,7 @@
         "投稿": "未着手"
       },
       "no": 460,
-      "postOrder": 106,
+      "postOrder": 107,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26353,7 +26353,7 @@
       },
       "archived": false,
       "no": 474,
-      "postOrder": 107
+      "postOrder": 108
     },
     {
       "id": "msi3dzkbptk8n4wnkms",
@@ -26416,7 +26416,7 @@
       },
       "archived": false,
       "no": 475,
-      "postOrder": 108
+      "postOrder": 109
     },
     {
       "id": "msi3dzkbzyzw6xb9xj",
@@ -26469,7 +26469,7 @@
       },
       "archived": false,
       "no": 476,
-      "postOrder": 109
+      "postOrder": 110
     },
     {
       "id": "msi3fsvqwmrpafeflsj",
@@ -26521,7 +26521,7 @@
         }
       },
       "no": 477,
-      "postOrder": 110,
+      "postOrder": 111,
       "archived": false
     },
     {
@@ -26575,7 +26575,7 @@
       },
       "archived": false,
       "no": 478,
-      "postOrder": 111
+      "postOrder": 112
     },
     {
       "id": "msiplbxd6i5ujwr03ys",
@@ -26628,7 +26628,7 @@
       },
       "archived": false,
       "no": 479,
-      "postOrder": 112
+      "postOrder": 113
     },
     {
       "id": "msiplbxdmv53agvh8rq",
@@ -26681,7 +26681,7 @@
       },
       "archived": false,
       "no": 480,
-      "postOrder": 113
+      "postOrder": 114
     },
     {
       "id": "msipop64d4nxdd3iypo",
@@ -26734,7 +26734,7 @@
       },
       "archived": false,
       "no": 481,
-      "postOrder": 114
+      "postOrder": 115
     },
     {
       "id": "msipop644xjd38yk66",
@@ -26787,7 +26787,7 @@
       },
       "archived": false,
       "no": 482,
-      "postOrder": 115
+      "postOrder": 116
     },
     {
       "id": "msipop64hfqdeloiddu",
@@ -26840,7 +26840,7 @@
       },
       "archived": false,
       "no": 483,
-      "postOrder": 116
+      "postOrder": 117
     },
     {
       "id": "msipop64hkonx8jfak",
@@ -26893,7 +26893,7 @@
       },
       "archived": false,
       "no": 484,
-      "postOrder": 117
+      "postOrder": 118
     },
     {
       "id": "msipqckgwss6lpm2db",
@@ -26946,7 +26946,7 @@
       },
       "archived": false,
       "no": 485,
-      "postOrder": 118
+      "postOrder": 119
     },
     {
       "id": "msipqckgvj2k67zqpqh",
@@ -26999,7 +26999,7 @@
       },
       "archived": false,
       "no": 486,
-      "postOrder": 119
+      "postOrder": 120
     },
     {
       "id": "msipqckg49oc1vjx66a",
@@ -27052,7 +27052,7 @@
       },
       "archived": false,
       "no": 487,
-      "postOrder": 120
+      "postOrder": 121
     },
     {
       "id": "msipqckggr83phii2tq",
@@ -27105,7 +27105,7 @@
       },
       "archived": false,
       "no": 488,
-      "postOrder": 121
+      "postOrder": 122
     },
     {
       "id": "msjsn52djdpfh4wu79",
