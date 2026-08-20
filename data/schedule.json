@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T14:02:32.863Z",
+    "updatedAt": "2026-08-20T15:08:08.648Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25099,7 +25099,11 @@
       "manualStageDates": {
         "kikaku": "2026-07-25",
         "satsuei": "2026-08-07",
-        "shoko": "2026-08-19"
+        "shoko": "2026-08-21",
+        "fb": "2026-08-22",
+        "shuusei": "2026-08-23",
+        "kansei": "2026-08-23",
+        "c_teishutsu": "2026-08-23"
       },
       "channel": "KINS",
       "staff": "松金さん",
@@ -25117,7 +25121,11 @@
           "toukou": true,
           "kikaku": true,
           "satsuei": true,
-          "shoko": true
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "no": 452,
