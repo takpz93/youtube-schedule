@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:31:15.909Z",
+    "updatedAt": "2026-08-20T23:31:41.525Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23607,10 +23607,10 @@
       ],
       "manualStageDates": {
         "afureko": "2026-07-08",
-        "fb": "2026-08-21",
-        "shuusei": "2026-08-23",
-        "kansei": "2026-08-24",
-        "c_teishutsu": "2026-08-24"
+        "fb": "2026-08-23",
+        "shuusei": "2026-08-24",
+        "kansei": "2026-08-25",
+        "c_teishutsu": "2026-08-25"
       },
       "stageStatuses": {
         "企画": "未着手",
