@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:26:36.019Z",
+    "updatedAt": "2026-08-20T23:26:43.003Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23532,7 +23532,7 @@
       "title": "ゲレンデ",
       "type": "通常",
       "postDate": "2026-08-21",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -25688,7 +25688,7 @@
         "完成": "完了",
         "M提出": "未着手",
         "C提出": "完了",
-        "投稿": "進行中"
+        "投稿": "完了"
       },
       "no": 462,
       "postOrder": 62,
