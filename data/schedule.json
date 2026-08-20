@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:47:04.205Z",
+    "updatedAt": "2026-08-20T23:47:20.173Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25852,7 +25852,7 @@
       "staff": "小島さん",
       "title": "ルームツアー",
       "type": "通常",
-      "postDate": "2026-09-10",
+      "postDate": null,
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -25882,7 +25882,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 65,
+      "postOrder": 66,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25936,7 +25936,7 @@
         "投稿": "未着手"
       },
       "no": 466,
-      "postOrder": 66,
+      "postOrder": 65,
       "_userSet": {
         "postDate": true,
         "postMark": false,
