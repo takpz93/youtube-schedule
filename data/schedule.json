@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:27:20.026Z",
+    "updatedAt": "2026-08-20T23:27:16.886Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24419,7 +24419,7 @@
       "title": "関西の日本酒",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "完成",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24442,8 +24442,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 440,
       "postOrder": 40,
@@ -24455,7 +24455,8 @@
         "stages": {
           "toukou": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
