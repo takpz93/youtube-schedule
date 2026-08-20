@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:28:24.515Z",
+    "updatedAt": "2026-08-20T23:28:22.613Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24468,7 +24468,7 @@
       "title": "水シミだらけのハリアー",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "C提出",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "kikaku",
