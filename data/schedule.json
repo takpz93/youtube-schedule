@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:27:14.546Z",
+    "updatedAt": "2026-08-20T23:27:20.026Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24419,7 +24419,7 @@
       "title": "関西の日本酒",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "初稿",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24440,9 +24440,9 @@
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "完了",
-        "完成": "進行中",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "進行中",
         "投稿": "未着手"
       },
       "no": 440,
@@ -24454,7 +24454,8 @@
         "material": false,
         "stages": {
           "toukou": true,
-          "shuusei": true
+          "shuusei": true,
+          "kansei": true
         }
       },
       "archived": false
@@ -26117,7 +26118,7 @@
       "title": "売上高いのに潰れる会社",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "https://115.gigafile.nu/1117-e6b3d5556f4919f66ea0acb41103f24f",
       "enabledStages": [
         "shoko",
