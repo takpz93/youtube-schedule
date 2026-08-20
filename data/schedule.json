@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:28:22.613Z",
+    "updatedAt": "2026-08-20T23:29:36.703Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24468,7 +24468,7 @@
       "title": "水シミだらけのハリアー",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24520,7 +24520,7 @@
       "id": "mrijjwy4dnblsb3ixbv",
       "channel": "SUMISYOU",
       "staff": "加畑さん(MEK)",
-      "title": "はじめてのリンサークリーナー（+光触媒）",
+      "title": "はじめてのリンサークリーナー",
       "type": "通常",
       "postDate": "2026-08-29",
       "currentStatus": "撮影",
