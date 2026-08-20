@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:29:36.703Z",
+    "updatedAt": "2026-08-20T23:29:40.298Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24523,7 +24523,7 @@
       "title": "はじめてのリンサークリーナー",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "撮影",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24546,8 +24546,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -24564,7 +24564,8 @@
         "stages": {
           "toukou": true,
           "kikaku": true,
-          "satsuei": true
+          "satsuei": true,
+          "shoko": true
         }
       },
       "archived": false
