@@ -15,6 +15,20 @@ const TEAM_VIEW_URL = `${CANONICAL_URL}?view=1&tab=week`;
 const GITHUB_REPO = 'takpz93/youtube-schedule';
 const GITHUB_SCHEDULE_PATH = 'data/schedule.json';
 const GITHUB_SYNC_TOKEN_KEY = 'yt_gh_sync';
+// 撮影日（Googleカレンダーから抽出、data/shoot-dates.json に保存）
+const SHOOT_DATES_URL = 'data/shoot-dates.json';
+let SHOOT_DATES = new Set();
+let SHOOT_LABELS = {};
+async function loadShootDates() {
+  try {
+    const r = await fetch(`${SHOOT_DATES_URL}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!r.ok) return;
+    const j = await r.json();
+    SHOOT_DATES = new Set(j.dates || []);
+    SHOOT_LABELS = j.labels || {};
+    if (S.tab === 'gantt') render();
+  } catch (e) { /* 撮影日ファイル未取得は無視 */ }
+}
 const VIEWER_POLL_MS = 10000;
 /** 最終投稿日から撮影期限までの日数（週本数 → 日数） */
 const SHOOT_DEADLINE_DAYS = { 1: 14, 2: 18 };
@@ -1948,9 +1962,12 @@ function buildGantt() {
     th.className = 'c-date';
     const isToday   = sameDay(d, TODAY);
     const isWeekend = d.getDay()===0 || d.getDay()===6;
+    const isShoot   = SHOOT_DATES.has(dateToInput(d));
     if (isToday)   th.classList.add('today-col');
+    else if(isShoot) th.classList.add('shoot-col');
     else if(isWeekend) th.classList.add('weekend-col');
-    th.innerHTML = `${d.getMonth()+1}/${d.getDate()}<br><span style="font-size:9px;opacity:.8">${weekday[d.getDay()]}</span>`;
+    if (isShoot && SHOOT_LABELS[dateToInput(d)]) th.title = '撮影: ' + SHOOT_LABELS[dateToInput(d)];
+    th.innerHTML = `${d.getMonth()+1}/${d.getDate()}<br><span style="font-size:9px;opacity:.8">${weekday[d.getDay()]}${isShoot?' 📷':''}</span>`;
     hr.appendChild(th);
   });
 
@@ -2067,7 +2084,9 @@ function buildGantt() {
       cell.className = 'c-date';
       const isToday   = sameDay(d, TODAY);
       const isWeekend = d.getDay()===0 || d.getDay()===6;
+      const isShoot   = SHOOT_DATES.has(dateToInput(d));
       if (isToday) cell.classList.add('today-col');
+      else if (isShoot) cell.classList.add('shoot-col');
       else if (isWeekend) cell.classList.add('weekend-col');
 
       const hit = sds.find(s => sameDay(s.date, d));
@@ -4937,6 +4956,7 @@ async function bootstrap() {
   renderLegend();
   switchTab(normalizeTab(S.tab));
   window.__YT_BOOT_OK__ = true;
+  loadShootDates();
 
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden' && S.syncPending && canCloudWrite()) {
