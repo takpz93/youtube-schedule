@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T15:09:48.048Z",
+    "updatedAt": "2026-08-20T15:13:20.754Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25028,10 +25028,10 @@
       "manualStageDates": {
         "kikaku": "2026-07-25",
         "satsuei": "2026-08-17",
-        "shoko": "2026-08-25",
-        "fb": "2026-08-26",
-        "shuusei": "2026-08-28",
-        "kansei": "2026-08-29",
+        "shoko": "2026-08-28",
+        "fb": "2026-08-29",
+        "shuusei": "2026-08-30",
+        "kansei": "2026-08-30",
         "c_teishutsu": "2026-08-30"
       },
       "stageStatuses": {
