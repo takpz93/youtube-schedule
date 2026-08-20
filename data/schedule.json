@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:45:21.624Z",
+    "updatedAt": "2026-08-20T23:46:52.304Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25898,9 +25898,9 @@
       "id": "mrtzx9kiafx8rer1rfm",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "みうち先生1日密着",
+      "title": "みうち先生1日密着（アルビレックス）",
       "type": "通常",
-      "postDate": "2026-10-15",
+      "postDate": "2026-09-10",
       "currentStatus": "企画",
       "material": "",
       "enabledStages": [
@@ -25913,7 +25913,13 @@
         "c_teishutsu",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "shoko": "2026-09-04",
+        "fb": "2026-09-05",
+        "shuusei": "2026-09-07",
+        "kansei": "2026-09-08",
+        "c_teishutsu": "2026-09-08"
+      },
       "stageStatuses": {
         "企画": "進行中",
         "撮影": "未着手",
@@ -25937,7 +25943,12 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
