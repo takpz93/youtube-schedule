@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-20T23:43:29.126Z",
+    "updatedAt": "2026-08-20T23:43:46.803Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25771,7 +25771,7 @@
         "投稿": "未着手"
       },
       "no": 463,
-      "postOrder": 63,
+      "postOrder": 64,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25794,7 +25794,7 @@
       "staff": "小島さん",
       "title": "カメラマンの睡眠スコア",
       "type": "通常",
-      "postDate": "2026-09-03",
+      "postDate": "2026-08-20",
       "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
@@ -25809,8 +25809,8 @@
       ],
       "manualStageDates": {},
       "stageStatuses": {
-        "企画": "未着手",
-        "撮影": "未着手",
+        "企画": "完了",
+        "撮影": "進行中",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -25824,7 +25824,7 @@
         "投稿": "未着手"
       },
       "no": 464,
-      "postOrder": 64,
+      "postOrder": 63,
       "_userSet": {
         "postDate": true,
         "postMark": false,
