@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T07:41:23.028Z",
+    "updatedAt": "2026-08-21T23:13:36.319Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25368,7 +25368,7 @@
         "投稿": "未着手"
       },
       "no": 456,
-      "postOrder": 12,
+      "postOrder": 13,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25388,7 +25388,7 @@
       "staff": "至さん",
       "title": "歯間ブラシの使い方",
       "type": "通常",
-      "postDate": "2026-09-12",
+      "postDate": "2026-08-29",
       "currentStatus": "企画",
       "material": "",
       "enabledStages": [
@@ -25403,7 +25403,12 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-16",
-        "satsuei": "2026-07-23"
+        "satsuei": "2026-07-23",
+        "shoko": "2026-08-21",
+        "fb": "2026-08-23",
+        "shuusei": "2026-08-25",
+        "kansei": "2026-08-26",
+        "c_teishutsu": "2026-08-26"
       },
       "stageStatuses": {
         "企画": "進行中",
@@ -25421,7 +25426,7 @@
         "投稿": "未着手"
       },
       "no": 457,
-      "postOrder": 13,
+      "postOrder": 12,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25430,7 +25435,12 @@
         "stages": {
           "toukou": true,
           "kikaku": true,
-          "satsuei": true
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
