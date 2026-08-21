@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T05:49:16.315Z",
+    "updatedAt": "2026-08-21T07:41:23.028Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26473,7 +26473,12 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-08-10",
-        "satsuei": "2026-08-17"
+        "satsuei": "2026-08-17",
+        "shoko": "2026-09-15",
+        "fb": "2026-09-17",
+        "shuusei": "2026-09-19",
+        "kansei": "2026-09-20",
+        "c_teishutsu": "2026-09-20"
       },
       "stageStatuses": {
         "企画": "進行中",
@@ -26498,7 +26503,12 @@
         "stages": {
           "kikaku": true,
           "satsuei": true,
-          "toukou": true
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false,
