@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T00:01:49.493Z",
+    "updatedAt": "2026-08-21T05:49:11.769Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25226,7 +25226,7 @@
       "title": "歯医者が言ったら気をつけるべきワード",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25254,8 +25254,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "未着手",
-        "C提出": "進行中",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "進行中"
       },
       "no": 454,
       "postOrder": 10,
@@ -25269,7 +25269,8 @@
           "kikaku": true,
           "satsuei": true,
           "shuusei": true,
-          "kansei": true
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
