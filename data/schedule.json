@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T23:35:30.742Z",
+    "updatedAt": "2026-08-21T23:36:12.886Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28176,7 +28176,13 @@
         "c_teishutsu",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "shoko": "2026-09-06",
+        "fb": "2026-09-07",
+        "shuusei": "2026-09-08",
+        "kansei": "2026-09-08",
+        "c_teishutsu": "2026-09-08"
+      },
       "stageStatuses": {
         "企画": "未着手",
         "撮影": "未着手",
@@ -28184,7 +28190,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -28198,7 +28204,12 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "toukou": true
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false,
