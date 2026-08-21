@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T23:14:33.447Z",
+    "updatedAt": "2026-08-21T23:15:48.655Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25345,7 +25345,7 @@
       "staff": "至さん",
       "title": "詰め物3選",
       "type": "通常",
-      "postDate": "2026-09-05",
+      "postDate": "2026-09-12",
       "currentStatus": "企画",
       "material": "",
       "enabledStages": [
@@ -25360,7 +25360,12 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-16",
-        "satsuei": "2026-07-23"
+        "satsuei": "2026-07-23",
+        "shoko": "2026-08-29",
+        "fb": "2026-08-31",
+        "shuusei": "2026-09-02",
+        "kansei": "2026-09-04",
+        "c_teishutsu": "2026-09-05"
       },
       "stageStatuses": {
         "企画": "進行中",
@@ -25387,7 +25392,12 @@
         "stages": {
           "toukou": true,
           "kikaku": true,
-          "satsuei": true
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
