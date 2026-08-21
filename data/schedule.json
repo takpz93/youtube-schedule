@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T23:13:36.319Z",
+    "updatedAt": "2026-08-21T23:14:33.447Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25282,7 +25282,7 @@
       "staff": "至さん",
       "title": "親知らず",
       "type": "通常",
-      "postDate": "2026-08-29",
+      "postDate": "2026-09-05",
       "currentStatus": "企画",
       "material": "",
       "enabledStages": [
@@ -25297,7 +25297,12 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-16",
-        "satsuei": "2026-07-23"
+        "satsuei": "2026-07-23",
+        "shoko": "2026-08-23",
+        "fb": "2026-08-25",
+        "shuusei": "2026-08-27",
+        "kansei": "2026-08-28",
+        "c_teishutsu": "2026-08-29"
       },
       "stageStatuses": {
         "企画": "進行中",
@@ -25315,7 +25320,7 @@
         "投稿": "未着手"
       },
       "no": 455,
-      "postOrder": 11,
+      "postOrder": 12,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25324,7 +25329,12 @@
         "stages": {
           "toukou": true,
           "kikaku": true,
-          "satsuei": true
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false
@@ -25426,7 +25436,7 @@
         "投稿": "未着手"
       },
       "no": 457,
-      "postOrder": 12,
+      "postOrder": 11,
       "_userSet": {
         "postDate": true,
         "postMark": false,
