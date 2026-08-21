@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T23:17:51.283Z",
+    "updatedAt": "2026-08-21T23:19:15.301Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25473,7 +25473,7 @@
       "title": "Costco第2弾 x夏バテ・コスパ",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://67.gigafile.nu/1113-3ceb943568a16981dc6d0192a936534b",
       "enabledStages": [
         "kikaku",
@@ -25501,8 +25501,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
