@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-21T23:19:15.301Z",
+    "updatedAt": "2026-08-21T23:34:30.992Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26136,7 +26136,7 @@
       },
       "archived": false,
       "no": 469,
-      "postOrder": 43
+      "postOrder": 44
     },
     {
       "id": "ms8uibp6lv6aeva6ov",
@@ -26193,7 +26193,7 @@
       },
       "archived": false,
       "no": 470,
-      "postOrder": 44
+      "postOrder": 46
     },
     {
       "id": "ms8v0x5xo0j33ck1lz",
@@ -28057,6 +28057,142 @@
       "archived": false,
       "no": 504,
       "postOrder": 63
+    },
+    {
+      "id": "mt3l6gnxuy86o988dfm",
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "恵比寿ツアー",
+      "type": "ショート",
+      "postDate": "2026-08-27",
+      "currentStatus": "修正",
+      "material": "",
+      "enabledStages": [
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 505,
+      "postOrder": 43
+    },
+    {
+      "id": "mt3l6gnxvbvc1h79iwg",
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "飲食あるあるトラブル",
+      "type": "ショート",
+      "postDate": "2026-09-03",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 506,
+      "postOrder": 45
+    },
+    {
+      "id": "mt3l6gnxw22gk3oshik",
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "働いてほしくない人",
+      "type": "ショート",
+      "postDate": "2026-09-10",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 507,
+      "postOrder": 47
     }
   ]
 }
