@@ -1926,6 +1926,20 @@ function buildGantt() {
   const DAYS = 55;
   const dates = Array.from({length:DAYS}, (_,i) => addDays(gStart, i));
 
+  // 各日付の「FB未完了」本数（完了に変更・FB日付変更で再描画時に自動更新）
+  const FB_STAGE = STAGES.find(s => s.id === 'fb');
+  const fbOpenByDate = {};
+  projects.forEach(p => {
+    if (!isActiveStatus(p.currentStatus)) return;
+    if (!isStageEnabled(p, 'fb')) return;
+    const st = p.stageStatuses && p.stageStatuses['FB'];
+    if (st === '完了' || st === 'スキップ') return;
+    const fd = computeStageDate(p, FB_STAGE);
+    if (!fd) return;
+    const k = dateToInput(fd);
+    fbOpenByDate[k] = (fbOpenByDate[k] || 0) + 1;
+  });
+
   const tbl = document.createElement('table');
   tbl.className = 'gantt-tbl' + (compact ? ' gantt-tbl-compact gantt-tbl-compact-slim' : '');
 
@@ -1967,7 +1981,8 @@ function buildGantt() {
     else if(isShoot) th.classList.add('shoot-col');
     else if(isWeekend) th.classList.add('weekend-col');
     if (isShoot && SHOOT_LABELS[dateToInput(d)]) th.title = '撮影: ' + SHOOT_LABELS[dateToInput(d)];
-    th.innerHTML = `${d.getMonth()+1}/${d.getDate()}<br><span style="font-size:9px;opacity:.8">${weekday[d.getDay()]}${isShoot?' 📷':''}</span>`;
+    const fbc = fbOpenByDate[dateToInput(d)] || 0;
+    th.innerHTML = `<div class="fb-hd">${fbc ? `<span class="fb-badge" title="FB未完了 ${fbc}件">${fbc}</span>` : ''}</div>${d.getMonth()+1}/${d.getDate()}<br><span style="font-size:9px;opacity:.8">${weekday[d.getDay()]}${isShoot?' 📷':''}</span>`;
     hr.appendChild(th);
   });
 
