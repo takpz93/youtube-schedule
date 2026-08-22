@@ -722,6 +722,9 @@ body.view-mode .legend-hint::after { content: '（閲覧モード）'; }
 .today-col { background: var(--today) !important; }
 .weekend-col { background: #f1f5f9 !important; }
 .shoot-col { background: #cfe8ff !important; }
+.fb-hd { height: 15px; line-height: 15px; margin-bottom: 1px; }
+.fb-badge { display: inline-block; min-width: 15px; font-size: 9px; font-weight: 800; color: #7c2d12; background: #fbbf24; border-radius: 8px; padding: 0 3px; }
+th.today-col .fb-badge, th.shoot-col .fb-badge { color: #7c2d12; }
 th.today-col { background: #b91c1c !important; color: #fff !important; }
 th.weekend-col { background: #64748b !important; }
 th.shoot-col { background: #2f7fd1 !important; color: #fff !important; }
