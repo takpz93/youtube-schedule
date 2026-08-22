@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-22T01:14:51.632Z",
+    "updatedAt": "2026-08-22T01:16:31.831Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28314,6 +28314,58 @@
       "archived": false,
       "no": 509,
       "postOrder": 76
+    },
+    {
+      "id": "mt3otnsfw4r9r2sg2q",
+      "stageStatuses": {
+        "企画": "進行中",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "クルザード新商品発表会②",
+      "type": "通常",
+      "postDate": "2026-10-03",
+      "currentStatus": "企画",
+      "material": "",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true
+        }
+      },
+      "no": 510,
+      "postOrder": 77
     }
   ]
 }
