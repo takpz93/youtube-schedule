@@ -3211,7 +3211,7 @@ const WEEK_SUBMIT_STAGES = ['M提出', 'C提出'];
 const TAK_WAITING_STAGES = ['FB', 'FB（施工・台本）', '完成'];
 
 const WEEK_WAITING_SECTIONS = [
-  { title: '三浦対応待ち', stages: TAK_WAITING_STAGES, icon: '👤' },
+  { title: '俺のFB・完成待ち', stages: TAK_WAITING_STAGES, icon: '👤' },
 ];
 
 function isTakWaitingStage(p, stageName) {
@@ -3678,14 +3678,13 @@ function buildTeamWeek() {
     ? (S.mineOnly ? `${S.viewerName} の担当` : `全員（${S.viewerName} 選択中）`)
     : 'チーム全体';
 
-  const hasAny = waitingSections.some(s => s.items.length)
-    || delayedItems.length || weekSubmitItems.length || weekPostItems.length;
+  const hasAny = waitingSections.some(s => s.items.length) || delayedItems.length;
 
   let html = `
     <div style="display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:12px;gap:12px;flex-wrap:wrap">
       <div>
         <div class="section-title" style="margin-bottom:4px">📆 今週のタスク</div>
-        <div style="font-size:12px;color:var(--muted)">${viewerLabel} · グレー行は完了済み · 三浦対応待ちは担当フィルター非適用</div>
+        <div style="font-size:12px;color:var(--muted)">${viewerLabel} · グレー行は完了済み · FB・完成待ちは担当フィルター非適用</div>
       </div>
     </div>`;
 
@@ -3702,14 +3701,8 @@ function buildTeamWeek() {
   for (const sec of waitingSections) {
     html += renderWeekSection(sec.title, sec.items, { mode: 'wait', emptyIcon: sec.icon });
   }
-  html += renderWeekSection('⚠ 現状の遅れ', delayedItems, {
+  html += renderWeekSection('⚠ 進捗遅れ案件', delayedItems, {
     mode: 'delayed', delayed: true, emptyIcon: '✅',
-  });
-  html += renderWeekSection('今週の提出', weekSubmitItems, {
-    mode: 'submit', stageNames: WEEK_SUBMIT_STAGES, emptyIcon: '📤',
-  });
-  html += renderWeekSection('今週の投稿', weekPostItems, {
-    mode: 'post', emptyIcon: '📅',
   });
 
   wrap.innerHTML = html;
