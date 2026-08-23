@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-23T11:24:42.384Z",
+    "updatedAt": "2026-08-23T11:24:44.879Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25179,7 +25179,7 @@
       "title": "寝ても疲れが取れない",
       "type": "通常",
       "postDate": "2026-08-25",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "https://109.gigafile.nu/1117-7f69940a8e3df41762b5fe50a82073a3",
       "_userSet": {
         "postDate": true,
