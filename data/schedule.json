@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-23T05:04:18.031Z",
+    "updatedAt": "2026-08-23T05:06:55.596Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24627,7 +24627,7 @@
         "投稿": "未着手"
       },
       "no": 443,
-      "postOrder": 78,
+      "postOrder": 77,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28275,7 +28275,7 @@
       "staff": "加畑さん(MEK)",
       "title": "コーティング車のメンテナンス",
       "type": "通常",
-      "postDate": "2026-09-19",
+      "postDate": "2026-09-26",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -28313,7 +28313,7 @@
       },
       "archived": false,
       "no": 508,
-      "postOrder": 77
+      "postOrder": 78
     },
     {
       "id": "mt5cb9ttkg4ai7qe35l",
