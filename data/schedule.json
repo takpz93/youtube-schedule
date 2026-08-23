@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-23T04:37:40.536Z",
+    "updatedAt": "2026-08-23T04:37:58.515Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24472,7 +24472,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-23T04:37:47.358Z"
     },
     {
       "id": "mrijjwy4ifsn56a2xj",
@@ -24528,7 +24529,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-23T04:37:47.358Z"
     },
     {
       "id": "mrijjwy4dnblsb3ixbv",
@@ -24646,7 +24648,7 @@
       "title": "サケタイム中国地方",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25070,7 +25072,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-23T04:37:47.358Z"
     },
     {
       "id": "mrik303zg4fqafdnjjm",
@@ -25315,7 +25318,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-23T04:37:47.358Z"
     },
     {
       "id": "mrimobmkvkor22vvtap",
@@ -26117,9 +26121,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 468,
-      "postOrder": 42
+      "postOrder": 42,
+      "archivedAt": "2026-08-23T04:37:47.358Z"
     },
     {
       "id": "ms8uibp6lik3b8heocg",
@@ -26280,9 +26285,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 471,
-      "postOrder": 11
+      "postOrder": 11,
+      "archivedAt": "2026-08-23T04:37:47.358Z"
     },
     {
       "id": "ms8v0x5xxrp03i7qun",
