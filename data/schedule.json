@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-23T05:02:36.603Z",
+    "updatedAt": "2026-08-23T05:02:57.299Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28313,7 +28313,7 @@
       },
       "archived": false,
       "no": 508,
-      "postOrder": 76
+      "postOrder": 77
     },
     {
       "id": "mt5cb9ttkg4ai7qe35l",
@@ -28405,7 +28405,7 @@
       },
       "archived": false,
       "no": 510,
-      "postOrder": 77
+      "postOrder": 78
     },
     {
       "id": "mt5cb9ttiq9dhwqktfe",
@@ -28413,7 +28413,7 @@
       "staff": "加畑さん(MEK)",
       "title": "クルザード新商品会②",
       "type": "通常",
-      "postDate": "2026-10-03",
+      "postDate": "2026-09-12",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -28432,7 +28432,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -28451,7 +28451,7 @@
       },
       "archived": false,
       "no": 511,
-      "postOrder": 78
+      "postOrder": 76
     }
   ]
 }
