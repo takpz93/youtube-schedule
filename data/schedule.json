@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-24T02:35:00.637Z",
+    "updatedAt": "2026-08-24T03:58:21.547Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27743,10 +27743,10 @@
         "toukou"
       ],
       "manualStageDates": {
-        "fb": "2026-08-21",
-        "shuusei": "2026-08-22",
-        "kansei": "2026-08-22",
-        "m_teishutsu": "2026-08-22"
+        "fb": "2026-08-29",
+        "shuusei": "2026-08-31",
+        "kansei": "2026-08-31",
+        "m_teishutsu": "2026-08-31"
       },
       "stageStatuses": {
         "企画": "未着手",
