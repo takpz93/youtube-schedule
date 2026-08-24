@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-24T05:11:17.812Z",
+    "updatedAt": "2026-08-24T05:19:08.020Z",
     "updatedBy": "管理者",
-    "version": 1
+    "version": 2
   },
   "options": {
     "channels": [
@@ -28485,6 +28485,246 @@
       "archived": false,
       "no": 511,
       "postOrder": 75
+    },
+    {
+      "id": "cmt6sdddg0",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "腰痛マットレス",
+      "type": "ショート",
+      "postDate": "2026-08-31",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-08-29"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "no": 512,
+      "postOrder": 512,
+      "archived": false,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": false,
+        "material": false,
+        "stages": {
+          "shoko": true
+        }
+      }
+    },
+    {
+      "id": "cmt6sdddg1",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "快眠法",
+      "type": "ショート",
+      "postDate": "2026-09-07",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-05"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "no": 513,
+      "postOrder": 513,
+      "archived": false,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": false,
+        "material": false,
+        "stages": {
+          "shoko": true
+        }
+      }
+    },
+    {
+      "id": "cmt6sdddg2",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "枕の寿命",
+      "type": "ショート",
+      "postDate": "2026-09-14",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-12"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "no": 514,
+      "postOrder": 514,
+      "archived": false,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": false,
+        "material": false,
+        "stages": {
+          "shoko": true
+        }
+      }
+    },
+    {
+      "id": "cmt6sdddg3",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "羽毛布団大手メーカーを徹底比較",
+      "type": "ショート",
+      "postDate": "2026-09-21",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-19"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "no": 515,
+      "postOrder": 515,
+      "archived": false,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": false,
+        "material": false,
+        "stages": {
+          "shoko": true
+        }
+      }
+    },
+    {
+      "id": "cmt6sdddg4",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "プロが使わないあったかアイテム",
+      "type": "ショート",
+      "postDate": "2026-09-28",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-26"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "no": 516,
+      "postOrder": 516,
+      "archived": false,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": false,
+        "material": false,
+        "stages": {
+          "shoko": true
+        }
+      }
     }
   ]
 }
