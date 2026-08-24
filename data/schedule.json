@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-23T11:25:49.661Z",
+    "updatedAt": "2026-08-24T02:09:57.362Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28380,7 +28380,7 @@
       "type": "通常",
       "postDate": "2026-09-05",
       "currentStatus": "初稿",
-      "material": "",
+      "material": "https://121.gigafile.nu/1202-ae1797cbf89fe014aa58ad360ae7eee5",
       "enabledStages": [
         "shoko",
         "fb",
@@ -28415,7 +28415,7 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "toukou": true,
           "shoko": true,
