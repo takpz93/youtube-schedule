@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T22:22:54.339Z",
+    "updatedAt": "2026-08-25T22:27:57.744Z",
     "updatedBy": "管理者",
-    "version": 4
+    "version": 1
   },
   "options": {
     "channels": [
@@ -1545,7 +1545,7 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "未着手",
-        "FB": "未着手",
+        "FB": "未着���",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -2604,7 +2604,7 @@
       "manualStageDates": {},
       "stageStatuses": {
         "企画": "未着手",
-        "撮影": "未着手",
+        "撮��": "未着手",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -2615,7 +2615,8 @@
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "未着手",
+        "撮影": "未着手"
       },
       "no": 50,
       "postOrder": 48,
@@ -3149,7 +3150,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 60,
-      "postOrder": 64,
+      "postOrder": 65,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3201,7 +3202,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 61,
-      "postOrder": 65,
+      "postOrder": 66,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3253,7 +3254,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 62,
-      "postOrder": 66,
+      "postOrder": 67,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -20658,11 +20659,12 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "完了",
+        "修���": "完了",
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "完了"
+        "投稿": "完了",
+        "修正": "未着手"
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
@@ -23264,7 +23266,7 @@
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
-        "FB（施工・台本）": "未着手",
+        "FB（施工・台本）": "��着手",
         "アフレコ": "未着手",
         "初稿": "未着手",
         "FB": "未着手",
@@ -23633,7 +23635,7 @@
         "投稿": "未着手"
       },
       "no": 424,
-      "postOrder": 52,
+      "postOrder": 53,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -23696,7 +23698,7 @@
         "投稿": "未着手"
       },
       "no": 425,
-      "postOrder": 59,
+      "postOrder": 60,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25797,7 +25799,7 @@
         "投稿": "未着手"
       },
       "no": 462,
-      "postOrder": 64,
+      "postOrder": 65,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25960,7 +25962,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 66,
+      "postOrder": 71,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26014,7 +26016,7 @@
         "投稿": "未着手"
       },
       "no": 466,
-      "postOrder": 65,
+      "postOrder": 67,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27502,7 +27504,7 @@
       },
       "archived": false,
       "no": 493,
-      "postOrder": 56
+      "postOrder": 57
     },
     {
       "id": "msk1fpkbexq97egyb3o",
@@ -27565,7 +27567,7 @@
       },
       "archived": false,
       "no": 494,
-      "postOrder": 58
+      "postOrder": 59
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -27628,7 +27630,7 @@
       },
       "archived": false,
       "no": 495,
-      "postOrder": 54
+      "postOrder": 55
     },
     {
       "id": "msznk64xb87mtescg16",
@@ -27724,7 +27726,7 @@
       },
       "archived": false,
       "no": 497,
-      "postOrder": 53
+      "postOrder": 54
     },
     {
       "id": "msznk64x9qdp9co9tbr",
@@ -27781,7 +27783,7 @@
       },
       "archived": false,
       "no": 498,
-      "postOrder": 55
+      "postOrder": 56
     },
     {
       "id": "msznk64xto6qn96lnun",
@@ -27889,7 +27891,7 @@
       },
       "archived": false,
       "no": 500,
-      "postOrder": 57
+      "postOrder": 58
     },
     {
       "id": "mt259rkc1jkj4b290e3",
@@ -27943,7 +27945,7 @@
       },
       "archived": false,
       "no": 501,
-      "postOrder": 60
+      "postOrder": 61
     },
     {
       "id": "mt259rkdd0ydkkyjxh",
@@ -27997,7 +27999,7 @@
       },
       "archived": false,
       "no": 502,
-      "postOrder": 61
+      "postOrder": 62
     },
     {
       "id": "mt259rkdrkadze3ckhs",
@@ -28051,7 +28053,7 @@
       },
       "archived": false,
       "no": 503,
-      "postOrder": 62
+      "postOrder": 63
     },
     {
       "id": "mt259rkdyvic2w8v58m",
@@ -28105,7 +28107,7 @@
       },
       "archived": false,
       "no": 504,
-      "postOrder": 63
+      "postOrder": 64
     },
     {
       "id": "mt3l6gnxuy86o988dfm",
@@ -28525,7 +28527,7 @@
         "投稿": "未着手"
       },
       "no": 512,
-      "postOrder": 512,
+      "postOrder": 64,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28573,7 +28575,7 @@
         "投稿": "未着手"
       },
       "no": 513,
-      "postOrder": 513,
+      "postOrder": 66,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28621,7 +28623,7 @@
         "投稿": "未着手"
       },
       "no": 514,
-      "postOrder": 514,
+      "postOrder": 68,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28669,7 +28671,7 @@
         "投稿": "未着手"
       },
       "no": 515,
-      "postOrder": 515,
+      "postOrder": 69,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28717,7 +28719,7 @@
         "投稿": "未着手"
       },
       "no": 516,
-      "postOrder": 516,
+      "postOrder": 70,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28769,7 +28771,7 @@
         "投稿": "未着手"
       },
       "no": 517,
-      "postOrder": 517,
+      "postOrder": 52,
       "archived": false,
       "_userSet": {
         "postDate": true,
