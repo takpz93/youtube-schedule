@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T09:19:39.482Z",
+    "updatedAt": "2026-08-25T09:19:45.614Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27628,7 +27628,7 @@
       },
       "archived": false,
       "no": 495,
-      "postOrder": 55
+      "postOrder": 54
     },
     {
       "id": "msznk64xb87mtescg16",
@@ -27732,7 +27732,7 @@
       "staff": "YH",
       "title": "メンテナンス",
       "type": "ショート",
-      "postDate": "2026-09-02",
+      "postDate": "2026-09-09",
       "currentStatus": "FB",
       "material": "",
       "enabledStages": [
@@ -27778,7 +27778,7 @@
       },
       "archived": false,
       "no": 498,
-      "postOrder": 54
+      "postOrder": 55
     },
     {
       "id": "msznk64xto6qn96lnun",
