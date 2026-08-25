@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T09:19:45.614Z",
+    "updatedAt": "2026-08-25T09:20:00.513Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27733,7 +27733,7 @@
       "title": "メンテナンス",
       "type": "ショート",
       "postDate": "2026-09-09",
-      "currentStatus": "FB",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "fb",
