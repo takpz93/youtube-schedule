@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T09:19:06.540Z",
+    "updatedAt": "2026-08-25T09:19:30.582Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23633,7 +23633,7 @@
         "投稿": "未着手"
       },
       "no": 424,
-      "postOrder": 52,
+      "postOrder": 53,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27628,7 +27628,7 @@
       },
       "archived": false,
       "no": 495,
-      "postOrder": 54
+      "postOrder": 55
     },
     {
       "id": "msznk64xb87mtescg16",
@@ -27778,7 +27778,7 @@
       },
       "archived": false,
       "no": 498,
-      "postOrder": 53
+      "postOrder": 54
     },
     {
       "id": "msznk64xto6qn96lnun",
@@ -27786,7 +27786,7 @@
       "staff": "YH",
       "title": "ゲレンデ",
       "type": "ショート",
-      "postDate": "2026-09-09",
+      "postDate": "2026-08-26",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -27832,7 +27832,7 @@
       },
       "archived": false,
       "no": 499,
-      "postOrder": 55
+      "postOrder": 52
     },
     {
       "id": "msznk64x1xddnril5uw",
