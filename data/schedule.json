@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T11:05:33.806Z",
+    "updatedAt": "2026-08-25T11:05:35.472Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27790,7 +27790,7 @@
       "title": "ゲレンデ",
       "type": "ショート",
       "postDate": "2026-08-26",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shoko",
