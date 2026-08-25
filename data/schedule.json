@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T21:36:53.349Z",
+    "updatedAt": "2026-08-25T22:15:13.241Z",
     "updatedBy": "管理者",
-    "version": 2
+    "version": 3
   },
   "options": {
     "channels": [
@@ -28726,6 +28726,58 @@
         "material": false,
         "stages": {
           "shoko": true
+        }
+      }
+    },
+    {
+      "id": "cmt983x3t",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "遮熱マニュアル",
+      "type": "通常",
+      "postDate": "2026-08-30",
+      "currentStatus": "C提出",
+      "material": "",
+      "enabledStages": [
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "c_teishutsu": "2026-08-26"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "no": 517,
+      "postOrder": 517,
+      "archived": false,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "c_teishutsu": true
         }
       }
     }
