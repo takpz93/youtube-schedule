@@ -4930,11 +4930,13 @@ async function bootstrap() {
         S.serverSnapshot = describeServerData(raw);
         if (!hadLocal) {
           await applyServerPayload(raw, { persistLocal: true, silent: true });
+        } else if (shouldPreferServerData(raw)) {
+          // サーバーが新しく、未保存のローカル変更が無い場合は自動で取り込む
+          await applyServerPayload(raw, { persistLocal: true, silent: true });
         } else if (isLocalAheadOfServer(raw) && canCloudWrite()) {
           S.hasUnpublishedChanges = true;
           await pushScheduleToServer();
         }
-        // hadLocal がある限りサーバーで自動上書きしない（手動「サーバーから更新」のみ）
       } catch (e) {
         console.warn('起動時サーバー同期失敗:', e);
       }
@@ -4966,18 +4968,36 @@ async function bootstrap() {
   window.__YT_BOOT_OK__ = true;
   loadShootDates();
 
+  // サーバー最新の自動取り込み（未保存のローカル変更がある時は保護＝取り込まない）
+  async function pollAndAdopt() {
+    if (isLockedTeamViewer() || location.protocol === 'file:') return;
+    if (S.syncPending || S.hasUnpublishedChanges) return;
+    try {
+      const raw = await fetchSharedRaw();
+      S.serverSnapshot = describeServerData(raw);
+      if (shouldPreferServerData(raw)) {
+        await applyServerPayload(raw, { persistLocal: true, silent: true });
+        render();
+      }
+    } catch (e) { /* サーバー未取得は無視 */ }
+  }
+  window.__ytPollAndAdopt = pollAndAdopt;
+  if (location.protocol !== 'file:' && !isLockedTeamViewer()) {
+    setInterval(pollAndAdopt, 45000);
+  }
+
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden' && S.syncPending && canCloudWrite()) {
       scheduleServerPush(true);
     }
-    if (document.visibilityState === 'visible' && isLockedTeamViewer() && location.protocol !== 'file:') {
-      loadSharedData(true);
+    if (document.visibilityState === 'visible') {
+      if (isLockedTeamViewer() && location.protocol !== 'file:') loadSharedData(true);
+      else pollAndAdopt();
     }
   });
   window.addEventListener('focus', () => {
-    if (isLockedTeamViewer() && location.protocol !== 'file:') {
-      loadSharedData(true);
-    }
+    if (isLockedTeamViewer() && location.protocol !== 'file:') loadSharedData(true);
+    else pollAndAdopt();
   });
 }
 
