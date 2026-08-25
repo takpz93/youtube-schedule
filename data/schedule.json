@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-24T22:43:21.259Z",
+    "updatedAt": "2026-08-25T04:21:33.248Z",
     "updatedBy": "管理者",
-    "version": 2
+    "version": 1
   },
   "options": {
     "channels": [
@@ -25210,9 +25210,9 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
-        "修正": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
@@ -25242,7 +25242,7 @@
       "title": "便のタイプ",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://5.gigafile.nu/1117-e8a88fac545a646e21a665c7d0be1c8b",
       "_userSet": {
         "postDate": true,
