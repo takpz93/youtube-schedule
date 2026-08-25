@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T04:55:24.233Z",
+    "updatedAt": "2026-08-25T04:55:27.283Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25822,7 +25822,7 @@
       "title": "枕格付け",
       "type": "通常",
       "postDate": "2026-08-27",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "satsuei",
