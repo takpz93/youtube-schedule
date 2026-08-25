@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T09:19:30.582Z",
+    "updatedAt": "2026-08-25T09:19:39.482Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23633,7 +23633,7 @@
         "投稿": "未着手"
       },
       "no": 424,
-      "postOrder": 53,
+      "postOrder": 52,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27678,7 +27678,7 @@
       "staff": "YH",
       "title": "磨き紹介",
       "type": "ショート",
-      "postDate": "2026-08-26",
+      "postDate": "2026-09-02",
       "currentStatus": "修正",
       "material": "",
       "enabledStages": [
@@ -27724,7 +27724,7 @@
       },
       "archived": false,
       "no": 497,
-      "postOrder": 51
+      "postOrder": 53
     },
     {
       "id": "msznk64x9qdp9co9tbr",
@@ -27832,7 +27832,7 @@
       },
       "archived": false,
       "no": 499,
-      "postOrder": 52
+      "postOrder": 51
     },
     {
       "id": "msznk64x1xddnril5uw",
