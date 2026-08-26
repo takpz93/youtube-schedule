@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-25T22:28:49.474Z",
+    "updatedAt": "2026-08-26T02:23:04.834Z",
     "updatedBy": "管理者",
-    "version": 1
+    "version": 2
   },
   "options": {
     "channels": [
@@ -26357,7 +26357,7 @@
       "title": "税理士に丸投げ",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://115.gigafile.nu/1117-e6b3d5556f4919f66ea0acb41103f24f",
       "enabledStages": [
         "shoko",
@@ -26381,7 +26381,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -27577,7 +27577,7 @@
       "title": "マスタング",
       "type": "通常",
       "postDate": "2026-09-04",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
@@ -27606,7 +27606,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
