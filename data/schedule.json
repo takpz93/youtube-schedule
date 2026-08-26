@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-26T09:30:40.245Z",
+    "updatedAt": "2026-08-26T09:30:42.765Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25245,7 +25245,7 @@
       "title": "便のタイプ",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "https://5.gigafile.nu/1117-e8a88fac545a646e21a665c7d0be1c8b",
       "_userSet": {
         "postDate": true,
