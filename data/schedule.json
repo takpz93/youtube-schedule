@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-26T09:31:10.545Z",
+    "updatedAt": "2026-08-26T09:31:14.645Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25218,7 +25218,7 @@
         "修正": "完了",
         "完成": "進行中",
         "M提出": "未着手",
-        "C提出": "完了",
+        "C提出": "未着手",
         "投稿": "進行中"
       },
       "enabledStages": [
@@ -25245,7 +25245,7 @@
       "title": "便のタイプ",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://5.gigafile.nu/1117-e8a88fac545a646e21a665c7d0be1c8b",
       "_userSet": {
         "postDate": true,
