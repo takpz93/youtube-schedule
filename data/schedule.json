@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-28T05:59:42.240Z",
+    "updatedAt": "2026-08-28T05:59:45.589Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26136,7 +26136,7 @@
       "title": "飲食店あるある",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "https://14.gigafile.nu/1117-4abb9b9deca8364ac965a4feeb511e55",
       "enabledStages": [
         "shoko",
@@ -26162,8 +26162,8 @@
         "アフレコ": "未着手",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
