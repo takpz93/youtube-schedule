@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-28T05:59:45.589Z",
+    "updatedAt": "2026-08-28T05:59:49.289Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26136,7 +26136,7 @@
       "title": "飲食店あるある",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "https://14.gigafile.nu/1117-4abb9b9deca8364ac965a4feeb511e55",
       "enabledStages": [
         "shoko",
