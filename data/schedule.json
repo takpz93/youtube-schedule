@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-28T05:59:27.911Z",
+    "updatedAt": "2026-08-28T05:59:33.643Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25457,7 +25457,7 @@
       "title": "歯間ブラシの使い方",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "kikaku",
