@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-30T12:13:25.325Z",
+    "updatedAt": "2026-08-30T12:13:32.865Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25770,7 +25770,7 @@
       "title": "マットレス格付け",
       "type": "通常",
       "postDate": "2026-09-03",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -28177,7 +28177,7 @@
       "title": "飲食あるあるトラブル",
       "type": "ショート",
       "postDate": "2026-09-03",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
