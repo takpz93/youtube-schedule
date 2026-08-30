@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-30T08:18:13.046Z",
+    "updatedAt": "2026-08-30T12:12:29.912Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25491,7 +25491,7 @@
         "完成": "完了",
         "M提出": "未着手",
         "C提出": "進行中",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "no": 457,
       "postOrder": 11,
@@ -28502,7 +28502,7 @@
       "title": "腰痛マットレス",
       "type": "ショート",
       "postDate": "2026-08-31",
-      "currentStatus": "企画",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28526,8 +28526,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -28540,7 +28540,7 @@
       "_userSet": {
         "postDate": true,
         "postMark": false,
-        "currentStatus": false,
+        "currentStatus": true,
         "material": false,
         "stages": {
           "shoko": true,
