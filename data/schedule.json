@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-30T12:12:38.243Z",
+    "updatedAt": "2026-08-30T12:12:56.764Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23651,7 +23651,8 @@
           "shoko": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "mr7jh7w2qmjlecb97gk",
@@ -24704,7 +24705,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "mrijp6hwx4pz1h5cg8",
@@ -25265,7 +25267,8 @@
       },
       "no": 453,
       "postOrder": 102,
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "mrimobmjk8fhd9d024r",
@@ -25511,7 +25514,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "mrimu9ionlv9pdpxay",
@@ -26183,9 +26187,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 469,
-      "postOrder": 44
+      "postOrder": 44,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "ms8uibp6lv6aeva6ov",
@@ -26347,9 +26352,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 472,
-      "postOrder": 12
+      "postOrder": 12,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "ms8v0x5x3lxq9i18mgo",
@@ -28377,9 +28383,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 509,
-      "postOrder": 73
+      "postOrder": 73,
+      "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
       "id": "mt5cb9ttgao8zorbph6",
