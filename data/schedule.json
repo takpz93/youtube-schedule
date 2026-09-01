@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-01T22:57:41.658Z",
+    "updatedAt": "2026-09-01T22:59:31.524Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28892,7 +28892,64 @@
         }
       },
       "no": 518,
-      "postOrder": 48
+      "postOrder": 48,
+      "archived": false
+    },
+    {
+      "id": "mtj9rs0egvjao4s8vas",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "未着手",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "未着手",
+        "初稿": "進行中",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-14",
+        "fb": "2026-09-15"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "幹事が知っておくべきお店の選び方",
+      "type": "通常",
+      "postDate": "2026-09-19",
+      "currentStatus": "初稿",
+      "material": "https://106.gigafile.nu/1211-5a7b8e0eefafa3edbad621cb1df03c95",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "shoko": true,
+          "fb": true,
+          "toukou": true
+        }
+      },
+      "no": 519,
+      "postOrder": 49,
+      "archived": false
     }
   ]
 }
