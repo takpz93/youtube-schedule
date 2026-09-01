@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-08-30T12:13:32.865Z",
+    "updatedAt": "2026-09-01T22:57:41.658Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28838,6 +28838,61 @@
           "c_teishutsu": true
         }
       }
+    },
+    {
+      "id": "mtj9pgv0ah7bt7wz91k",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "未着手",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "未着手",
+        "初稿": "進行中",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-07",
+        "fb": "2026-09-08"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "損するお店選び",
+      "type": "通常",
+      "postDate": "2026-09-12",
+      "currentStatus": "初稿",
+      "material": "https://106.gigafile.nu/1211-ba10a2c7c265ed60eb79f57fdadd3c6f",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "shoko": true,
+          "fb": true,
+          "toukou": true
+        }
+      },
+      "no": 518,
+      "postOrder": 48
     }
   ]
 }
