@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:50:29.749Z",
+    "updatedAt": "2026-09-02T06:50:31.754Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -61,9 +61,6 @@
       "postsPerWeek": 1,
       "lastPost": "2026-09-26",
       "nextShoot": "2026-09-15"
-    },
-    "GARAGE-R": {
-      "nextShoot": "2026-08-14"
     }
   },
   "projects": [
