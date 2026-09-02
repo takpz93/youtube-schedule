@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:08:05.779Z",
+    "updatedAt": "2026-09-02T06:08:30.780Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27689,7 +27689,7 @@
       "title": "磨き紹介",
       "type": "ショート",
       "postDate": "2026-09-02",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "fb",
