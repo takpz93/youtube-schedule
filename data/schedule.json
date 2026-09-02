@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:50:31.754Z",
+    "updatedAt": "2026-09-02T10:21:15.998Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27580,7 +27580,7 @@
       "title": "マスタング",
       "type": "通常",
       "postDate": "2026-09-04",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
