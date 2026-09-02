@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:04:40.779Z",
+    "updatedAt": "2026-09-02T06:06:27.780Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25086,7 +25086,7 @@
       "title": "キムチ格付け",
       "type": "通常",
       "postDate": "2026-09-01",
-      "currentStatus": "修正",
+      "currentStatus": "クローズ",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
