@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T10:39:24.038Z",
+    "updatedAt": "2026-09-02T10:39:43.828Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25136,7 +25136,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-09-02T10:39:43.020Z"
     },
     {
       "id": "mrikcl4yhgp8paj0y8a",
@@ -27728,9 +27729,10 @@
           "m_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 497,
-      "postOrder": 54
+      "postOrder": 54,
+      "archivedAt": "2026-09-02T10:39:43.020Z"
     },
     {
       "id": "msznk64x9qdp9co9tbr",
@@ -28539,7 +28541,7 @@
       },
       "no": 512,
       "postOrder": 64,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28553,7 +28555,8 @@
           "c_teishutsu": true,
           "toukou": true
         }
-      }
+      },
+      "archivedAt": "2026-09-02T10:39:43.020Z"
     },
     {
       "id": "cmt96qmhx1",
