@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-01T22:59:31.524Z",
+    "updatedAt": "2026-09-02T05:01:04.170Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -16431,7 +16431,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 295,
-      "postOrder": 45,
+      "postOrder": 49,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -28950,6 +28950,206 @@
       "no": 519,
       "postOrder": 49,
       "archived": false
+    },
+    {
+      "id": "mtjmory47et30kcwt6q",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "四国SAKETIME",
+      "type": "通常",
+      "postDate": "2026-09-26",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-09"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 520,
+      "postOrder": 45
+    },
+    {
+      "id": "mtjmory4pd2pbtbskkk",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "人気銘柄はなぜ買えないのか",
+      "type": "通常",
+      "postDate": "2026-10-03",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-09"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 521,
+      "postOrder": 46
+    },
+    {
+      "id": "mtjmory4kyvh98imts",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "蔵元が悔しかった日本酒",
+      "type": "通常",
+      "postDate": "2026-10-10",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-09"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 522,
+      "postOrder": 47
+    },
+    {
+      "id": "mtjmory4nv5ilbds8bi",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "天領盃と同世代の蔵が作る日本酒",
+      "type": "通常",
+      "postDate": "2026-10-17",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-09"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 523,
+      "postOrder": 48
     }
   ]
 }
