@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T10:38:47.011Z",
+    "updatedAt": "2026-09-02T10:38:52.027Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25583,7 +25583,7 @@
       "title": "腸活はカレー",
       "type": "通常",
       "postDate": "2026-09-08",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -27483,8 +27483,8 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
