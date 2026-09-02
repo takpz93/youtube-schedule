@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T10:38:33.612Z",
+    "updatedAt": "2026-09-02T10:38:35.728Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25520,7 +25520,7 @@
       "title": "Costco第2弾 x夏バテ・コスパ",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "https://67.gigafile.nu/1113-3ceb943568a16981dc6d0192a936534b",
       "enabledStages": [
         "kikaku",
