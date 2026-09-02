@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T10:38:52.027Z",
+    "updatedAt": "2026-09-02T10:38:55.644Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27454,7 +27454,7 @@
       "title": "モデルY　大阪",
       "type": "通常",
       "postDate": "2026-09-11",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://7.gigafile.nu/1117-2b55346a575faef1b0cf7f7465de937d / https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
