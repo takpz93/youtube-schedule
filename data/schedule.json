@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:06:48.779Z",
+    "updatedAt": "2026-09-02T06:07:46.779Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27855,7 +27855,7 @@
       "title": "サンバートラック",
       "type": "ショート",
       "postDate": "2026-09-16",
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
