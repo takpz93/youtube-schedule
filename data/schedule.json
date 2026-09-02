@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T10:35:25.362Z",
+    "updatedAt": "2026-09-02T10:35:28.714Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27739,7 +27739,7 @@
       "title": "メンテナンス",
       "type": "ショート",
       "postDate": "2026-09-09",
-      "currentStatus": "修正",
+      "currentStatus": "完成",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -27769,7 +27769,7 @@
         "完成": "進行中",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
