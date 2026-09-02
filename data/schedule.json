@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T19:07:10.627Z",
+    "updatedAt": "2026-09-02T21:04:48.577Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26603,8 +26603,8 @@
     {
       "id": "msi3fsvqwmrpafeflsj",
       "stageStatuses": {
-        "企画": "進行中",
-        "撮影": "未着手",
+        "企画": "完了",
+        "撮影": "進行中",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -26636,7 +26636,7 @@
       "title": "9/14",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "_userSet": {
         "postDate": true,
