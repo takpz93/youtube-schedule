@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T10:35:28.714Z",
+    "updatedAt": "2026-09-02T10:35:32.996Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27739,7 +27739,7 @@
       "title": "メンテナンス",
       "type": "ショート",
       "postDate": "2026-09-09",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
