@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:49:59.495Z",
+    "updatedAt": "2026-09-02T06:50:26.123Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -63,7 +63,6 @@
       "nextShoot": "2026-09-15"
     },
     "GARAGE-R": {
-      "postsPerWeek": 1,
       "lastPost": "2026-08-14",
       "nextShoot": "2026-08-14"
     }
