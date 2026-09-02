@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-02T06:09:27.781Z",
+    "updatedAt": "2026-09-02T06:49:36.858Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -44,7 +44,8 @@
     },
     "天領盃": {
       "postsPerWeek": 1,
-      "lastPost": "2026-10-17"
+      "lastPost": "2026-10-17",
+      "nextShoot": "2026-10-08"
     },
     "SUMISYOU": {
       "postsPerWeek": 1,
