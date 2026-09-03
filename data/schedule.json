@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-03T02:08:10.688Z",
+    "updatedAt": "2026-09-03T02:08:46.398Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29402,7 +29402,7 @@
       "id": "mtktzhvj90q9owyi8mj",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "9/16",
+      "title": "10/7",
       "type": "通常",
       "postDate": "2026-10-29",
       "currentStatus": "撮影",
@@ -29417,11 +29417,11 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-16"
+        "satsuei": "2026-10-07"
       },
       "stageStatuses": {
         "企画": "未着手",
-        "撮影": "未着手",
+        "撮影": "進行中",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
