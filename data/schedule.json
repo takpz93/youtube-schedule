@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-03T03:27:43.719Z",
+    "updatedAt": "2026-09-03T03:28:01.378Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29452,7 +29452,7 @@
       "id": "mtktzhvjj8s7n42qk9",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "9/16",
+      "title": "不眠症の人の対策",
       "type": "通常",
       "postDate": "2026-11-05",
       "currentStatus": "撮影",
@@ -29467,11 +29467,11 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-16"
+        "satsuei": "2026-09-17"
       },
       "stageStatuses": {
         "企画": "未着手",
-        "撮影": "未着手",
+        "撮影": "進行中",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
