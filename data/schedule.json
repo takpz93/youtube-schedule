@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-03T01:05:05.737Z",
+    "updatedAt": "2026-09-03T01:13:07.641Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25965,7 +25965,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 71,
+      "postOrder": 78,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28712,7 +28712,7 @@
         "投稿": "未着手"
       },
       "no": 515,
-      "postOrder": 69,
+      "postOrder": 70,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28769,7 +28769,7 @@
         "投稿": "未着手"
       },
       "no": 516,
-      "postOrder": 70,
+      "postOrder": 71,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -29149,6 +29149,356 @@
       "archived": false,
       "no": 523,
       "postOrder": 48
+    },
+    {
+      "id": "mtktzhvjthr7vh6ndor",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "NGベッドフレーム",
+      "type": "通常",
+      "postDate": "2026-09-17",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-04"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 524,
+      "postOrder": 69
+    },
+    {
+      "id": "mtktzhvjxq6zqnbkwmp",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "睡眠と音の関係性",
+      "type": "通常",
+      "postDate": "2026-10-01",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-04"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 525,
+      "postOrder": 72
+    },
+    {
+      "id": "mtktzhvjqo219md2pl",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "アメリカの最先端の睡眠",
+      "type": "通常",
+      "postDate": "2026-10-08",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-04"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 526,
+      "postOrder": 73
+    },
+    {
+      "id": "mtktzhvj9cm1r4uebk9",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "9/16",
+      "type": "通常",
+      "postDate": "2026-10-15",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-16"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 527,
+      "postOrder": 74
+    },
+    {
+      "id": "mtktzhvjw9d4v2x8yxd",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "9/16",
+      "type": "通常",
+      "postDate": "2026-10-22",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-16"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 528,
+      "postOrder": 75
+    },
+    {
+      "id": "mtktzhvj90q9owyi8mj",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "9/16",
+      "type": "通常",
+      "postDate": "2026-10-29",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-16"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 529,
+      "postOrder": 76
+    },
+    {
+      "id": "mtktzhvjj8s7n42qk9",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "9/16",
+      "type": "通常",
+      "postDate": "2026-11-05",
+      "currentStatus": "撮影",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-16"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 530,
+      "postOrder": 77
     }
   ]
 }
