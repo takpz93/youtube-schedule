@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-03T06:39:41.910Z",
+    "updatedAt": "2026-09-03T08:27:26.976Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26195,7 +26195,7 @@
       "title": "働いて欲しくない人",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://14.gigafile.nu/1117-33d6bf20eedf8d7c8f075caf3637361d",
       "enabledStages": [
         "shoko",
@@ -26220,8 +26220,8 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "完了",
-        "FB": "進行中",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "進行中",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
