@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-03T01:13:07.641Z",
+    "updatedAt": "2026-09-03T01:13:20.390Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25935,7 +25935,7 @@
       "staff": "小島さん",
       "title": "ルームツアー",
       "type": "通常",
-      "postDate": null,
+      "postDate": "2026-09-17",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -25965,7 +25965,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 78,
+      "postOrder": 69,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28712,7 +28712,7 @@
         "投稿": "未着手"
       },
       "no": 515,
-      "postOrder": 70,
+      "postOrder": 71,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28769,7 +28769,7 @@
         "投稿": "未着手"
       },
       "no": 516,
-      "postOrder": 71,
+      "postOrder": 72,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -29198,7 +29198,7 @@
       },
       "archived": false,
       "no": 524,
-      "postOrder": 69
+      "postOrder": 70
     },
     {
       "id": "mtktzhvjxq6zqnbkwmp",
@@ -29248,7 +29248,7 @@
       },
       "archived": false,
       "no": 525,
-      "postOrder": 72
+      "postOrder": 73
     },
     {
       "id": "mtktzhvjqo219md2pl",
@@ -29298,7 +29298,7 @@
       },
       "archived": false,
       "no": 526,
-      "postOrder": 73
+      "postOrder": 74
     },
     {
       "id": "mtktzhvj9cm1r4uebk9",
@@ -29348,7 +29348,7 @@
       },
       "archived": false,
       "no": 527,
-      "postOrder": 74
+      "postOrder": 75
     },
     {
       "id": "mtktzhvjw9d4v2x8yxd",
@@ -29398,7 +29398,7 @@
       },
       "archived": false,
       "no": 528,
-      "postOrder": 75
+      "postOrder": 76
     },
     {
       "id": "mtktzhvj90q9owyi8mj",
@@ -29448,7 +29448,7 @@
       },
       "archived": false,
       "no": 529,
-      "postOrder": 76
+      "postOrder": 77
     },
     {
       "id": "mtktzhvjj8s7n42qk9",
@@ -29498,7 +29498,7 @@
       },
       "archived": false,
       "no": 530,
-      "postOrder": 77
+      "postOrder": 78
     }
   ]
 }
