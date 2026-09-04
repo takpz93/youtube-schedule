@@ -6,12 +6,15 @@
  *   【B】自チャンネル本編の再生数上位N本
  *   【C】指名動画の実測値
  *
- * 取得手段は2系統。どちらか使える方で動く。
- *   1) YouTube Data API v3 … 環境変数 YOUTUBE_API_KEY（推奨・速い。8検索で約 900 units）
- *   2) yt-dlp            … PATH にあれば自動フォールバック（キー不要・遅い）
+ * 取得手段は2系統。どちらか使える方で動く（環境の準備手順は research/README.md）。
+ *   1) YouTube Data API v3 … YOUTUBE_API_KEY（推奨・速い。8検索で約 900 units）。
+ *                            Claude Code cloud 環境の API credentials にキーを登録済みならキー指定不要。
+ *   2) yt-dlp            … PATH にあれば自動フォールバック（キー不要・遅い・youtube.com への通信が必要）
  *
  * 用法:
  *   YOUTUBE_API_KEY=xxxx node scripts/youtube-thumbnail-research.js [--out path.md]
+ *   node scripts/youtube-thumbnail-research.js --key xxxx
+ *   echo 'YOUTUBE_API_KEY=xxxx' > .env.local && node scripts/youtube-thumbnail-research.js   # .env.local は git 管理外
  *   node scripts/youtube-thumbnail-research.js --mode ytdlp
  *   node scripts/youtube-thumbnail-research.js --config research/xxx.json   # 条件を差し替える
  *
@@ -58,11 +61,44 @@ const ROOT = path.resolve(__dirname, '..');
 const config = { ...DEFAULT_CONFIG };
 if (arg('--config')) Object.assign(config, JSON.parse(fs.readFileSync(arg('--config'), 'utf8')));
 if (arg('--out')) config.out = arg('--out');
-const API_KEY = process.env.YOUTUBE_API_KEY || '';
-let mode = arg('--mode') || (API_KEY ? 'api' : 'ytdlp');
-if (mode === 'api' && !API_KEY) {
-  console.error('YOUTUBE_API_KEY が未設定です。--mode ytdlp か環境変数で API キーを渡してください。');
+// API キーの探索順: --key → 環境変数 YOUTUBE_API_KEY → .env / .env.local（リポジトリ直下・git 管理外）
+function loadApiKey() {
+  if (arg('--key')) return arg('--key');
+  if (process.env.YOUTUBE_API_KEY) return process.env.YOUTUBE_API_KEY;
+  for (const f of ['.env.local', '.env']) {
+    const fp = path.join(ROOT, f);
+    if (!fs.existsSync(fp)) continue;
+    const m = /^\s*YOUTUBE_API_KEY\s*=\s*["']?([^"'\s#]+)/m.exec(fs.readFileSync(fp, 'utf8'));
+    if (m) return m[1];
+  }
+  return '';
+}
+const API_KEY = loadApiKey();
+// mode は resolveMode() で確定する: 'api' | 'ytdlp'
+let mode = arg('--mode') || null;
+
+// キーが手元に無くても、Claude Code の cloud 環境「API credentials」で www.googleapis.com に
+// X-Goog-Api-Key が自動付与される設定なら API モードで動く。その判定を1リクエストで行う。
+async function resolveMode() {
+  if (mode) return mode;
+  if (API_KEY) return (mode = 'api');
+  try {
+    await apiGet('channels', { part: 'id', id: config.ownChannelId });
+    log('APIキー未指定ですが googleapis に認証済みで到達できたため API モードで実行します（環境の API credentials 経由）');
+    return (mode = 'api');
+  } catch (e) {
+    log(`googleapis へキー無しで到達できず（${String(e.message).slice(0, 80)}…）`);
+  }
+  if (hasYtDlp()) return (mode = 'ytdlp');
+  console.error('取得手段がありません。次のいずれかを用意してください:');
+  console.error('  1) 環境変数 YOUTUBE_API_KEY=xxxx   2) --key xxxx   3) リポジトリ直下の .env.local に YOUTUBE_API_KEY=xxxx');
+  console.error('  4) Claude Code cloud 環境の API credentials に www.googleapis.com / X-Goog-Api-Key でキー登録（research/README.md 参照）');
+  console.error('  5) yt-dlp を PATH に入れて --mode ytdlp（youtube.com への通信許可が必要）');
   process.exit(1);
+}
+
+function hasYtDlp() {
+  try { execFileSync('yt-dlp', ['--version'], { stdio: 'ignore' }); return true; } catch (_) { return false; }
 }
 
 // ---------- 共通ユーティリティ ----------
@@ -88,8 +124,9 @@ function isoDurationToSec(iso) {
 // ---------- 取得系: YouTube Data API v3 ----------
 async function apiGet(endpoint, params) {
   const u = new URL(`https://www.googleapis.com/youtube/v3/${endpoint}`);
-  Object.entries({ ...params, key: API_KEY }).forEach(([k, v]) => v != null && u.searchParams.set(k, v));
-  const res = await fetch(u);
+  Object.entries(params).forEach(([k, v]) => v != null && u.searchParams.set(k, v));
+  // キーは URL ではなくヘッダーで渡す（プロキシ側でキーが付与される構成と同じ経路）
+  const res = await fetch(u, API_KEY ? { headers: { 'X-Goog-Api-Key': API_KEY } } : undefined);
   const json = await res.json();
   if (!res.ok) throw new Error(`${endpoint}: ${res.status} ${JSON.stringify(json.error || json).slice(0, 300)}`);
   return json;
@@ -345,6 +382,7 @@ function esc(s) {
 
 (async () => {
   try {
+    await resolveMode();
     const A = await collectA();
     const B = await collectB();
     const C = await collectC();

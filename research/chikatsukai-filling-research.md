@@ -3,14 +3,12 @@
 作成日: 2026-09-04（暫定版）
 
 > **数値未取得の暫定版です。** 作成環境から youtube.com / i.ytimg.com への通信が遮断されており、再生数・登録者数・尺・向きが取得できませんでした。
-> 手元で下記を1回実行すると、A/B/C すべてを条件適用済み・倍率順でこのファイルに上書き出力します。
+> APIキーを1つ用意すれば、この cloud 環境からでも完成版（A/B/C すべて条件適用・倍率順）を自動生成できます。設定手順は **[research/README.md](./README.md)**。
 >
 > ```bash
-> # 推奨: YouTube Data API v3 キー（Google Cloud Console → YouTube Data API v3 を有効化 → APIキー作成。無料枠で足ります）
-> YOUTUBE_API_KEY=xxxx node scripts/youtube-thumbnail-research.js
->
-> # キー無しの場合: yt-dlp（fetch-subscribers.js と同じ）で取得。全候補の詳細を1本ずつ引くため10〜20分かかります
-> node scripts/youtube-thumbnail-research.js --mode ytdlp
+> node scripts/youtube-thumbnail-research.js            # 環境の API credentials か環境変数にキーがあれば、このファイルを完成版で上書き
+> node scripts/youtube-thumbnail-research.js --key AIza...   # その場でキーを渡す場合
+> node scripts/youtube-thumbnail-research.js --mode ytdlp    # 手元の Mac（yt-dlp あり）で回す場合
 > ```
 >
 > 本暫定版の候補・公開日は Web検索結果の表示に基づくもので、公開日は要確認です。サムネURLは動画IDから組み立てた maxresdefault で、存在未確認です（無い場合は `hqdefault.jpg` に読み替え）。
