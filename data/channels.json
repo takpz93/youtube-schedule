@@ -1,0 +1,130 @@
+{
+  "_meta": {
+    "updatedAt": "2026-09-04T22:25:01.730Z",
+    "note": "週次チャンネル分析用のチャンネル定義。youtube-scheduleアプリ本体はこのファイルを読まない（独立ファイル）。分析対象は通常尺のみ・ショートは除外。"
+  },
+  "channels": [
+    {
+      "key": "miura",
+      "name": "みうらくんと管理人",
+      "youtubeName": "みうらくんと管理人",
+      "handle": "@miurakun_kanrinin",
+      "channelId": "UCFjLrwYSZgkw-2TydXJNZgw",
+      "kind": "own",
+      "source": "media-board",
+      "track": "miura",
+      "analyze": true
+    },
+    {
+      "key": "ronin",
+      "name": "Tak in Suburban Japan",
+      "youtubeName": "Tak in Suburban Japan",
+      "handle": "@takinsuburbanjapan",
+      "channelId": "UCSxIdAR51eB-AxYIg0yPn3Q",
+      "kind": "own",
+      "source": "media-board",
+      "track": "ronin",
+      "analyze": true
+    },
+    {
+      "key": "KINS",
+      "name": "KINS",
+      "youtubeName": "【下川先生】の菌ケア大学",
+      "handle": "@yutaka_shimokawa_official",
+      "channelId": "UCXAU7ks-wPVoFJykHn08zvA",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true
+    },
+    {
+      "key": "BPP",
+      "name": "BPP",
+      "youtubeName": "BUDDICA PHOENIX PRO / バディカフェニックスプロ",
+      "handle": "@buddica_phoenix_pro",
+      "channelId": "UCzXvkcnU4Pho3k65564Py2Q",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true,
+      "note": "ショートが大半"
+    },
+    {
+      "key": "綿久",
+      "name": "綿久",
+      "youtubeName": "みうち先生 眠りの相談所",
+      "handle": "@watakyu616",
+      "channelId": "UCxz-Av19JTYzVbfuv4pZuGg",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true,
+      "note": "ショートが大半"
+    },
+    {
+      "key": "千勝会",
+      "name": "千勝会",
+      "youtubeName": "歯が痛くならない予防チャンネル",
+      "handle": "@chikatsukai",
+      "channelId": "UCqGpNSBrcuKv_qTLeiD7hvg",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true
+    },
+    {
+      "key": "天領盃",
+      "name": "天領盃",
+      "youtubeName": "加登仙一の日本酒大学",
+      "handle": "@senichi_kato_tenryohai",
+      "channelId": "UCx8tnZhehtNYsHBHpeHqHOg",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true
+    },
+    {
+      "key": "iStory",
+      "name": "iStory",
+      "youtubeName": "のりさん / 居酒屋店長日誌",
+      "handle": "@odenya_norisan",
+      "channelId": "UCvClVdCdSr6_R8Y5LOURCaw",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true
+    },
+    {
+      "key": "SUMISYOU",
+      "name": "SUMISYOU",
+      "youtubeName": "クルマの輝き請負人 のり",
+      "handle": "@sumisyou.fullpower",
+      "channelId": "UC9QpHFv5YLQsWOhYzljchUw",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true
+    },
+    {
+      "key": "Actvision",
+      "name": "Actvision",
+      "youtubeName": "しおたに先生 社長の教科書",
+      "handle": "@shiotani_zeirishi",
+      "channelId": "UCp4fsj7i-Wb2iOk1C5lQRww",
+      "kind": "client",
+      "source": "youtube-schedule",
+      "analyze": true
+    }
+  ],
+  "excluded": [
+    {
+      "name": "おはTube",
+      "reason": "Takの指示で分析対象外（月1本）"
+    },
+    {
+      "name": "半導体note",
+      "reason": "YouTubeではない／対象外"
+    },
+    {
+      "name": "半導体X",
+      "reason": "YouTubeではない／対象外"
+    },
+    {
+      "name": "日記note",
+      "reason": "YouTubeではない／対象外"
+    }
+  ]
+}
