@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-07T03:31:42.215Z",
+    "updatedAt": "2026-09-07T09:18:55.106Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25557,7 +25557,7 @@
         "投稿": "進行中"
       },
       "no": 458,
-      "postOrder": 105,
+      "postOrder": 106,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25620,7 +25620,7 @@
         "投稿": "完了"
       },
       "no": 459,
-      "postOrder": 106,
+      "postOrder": 105,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25964,7 +25964,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 69,
+      "postOrder": 71,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26018,7 +26018,7 @@
         "投稿": "未着手"
       },
       "no": 466,
-      "postOrder": 66,
+      "postOrder": 67,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27906,7 +27906,7 @@
       "title": "マスタング",
       "type": "ショート",
       "postDate": "2026-09-25",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -27928,8 +27928,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -28597,7 +28597,7 @@
         "投稿": "未着手"
       },
       "no": 513,
-      "postOrder": 70,
+      "postOrder": 68,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28654,7 +28654,7 @@
         "投稿": "未着手"
       },
       "no": 514,
-      "postOrder": 71,
+      "postOrder": 66,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28711,7 +28711,7 @@
         "投稿": "未着手"
       },
       "no": 515,
-      "postOrder": 68,
+      "postOrder": 70,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -29197,7 +29197,7 @@
       },
       "archived": false,
       "no": 524,
-      "postOrder": 67
+      "postOrder": 69
     },
     {
       "id": "mtktzhvjxq6zqnbkwmp",
