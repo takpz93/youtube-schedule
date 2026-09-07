@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-07T09:28:43.107Z",
+    "updatedAt": "2026-09-07T10:16:30.040Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24763,7 +24763,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "mrijp6hw1fgozmi0ojmj",
@@ -25384,7 +25385,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "mrimobmkx7ymar9hi97",
@@ -25637,7 +25639,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "mrimu9iocwhu5pmrlor",
@@ -25815,8 +25818,8 @@
           "fb": true
         }
       },
-      "archived": false,
-      "archivedAt": null
+      "archived": true,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "mrtzx9kiolflbveli",
@@ -26241,9 +26244,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 470,
-      "postOrder": 46
+      "postOrder": 46,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "ms8v0x5xo0j33ck1lz",
@@ -26406,9 +26410,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 473,
-      "postOrder": 13
+      "postOrder": 13,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "msi3dzkb8ing5fmgzqc",
@@ -27632,9 +27637,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 495,
-      "postOrder": 55
+      "postOrder": 55,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "msznk64xb87mtescg16",
@@ -28220,9 +28226,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 506,
-      "postOrder": 45
+      "postOrder": 45,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "mt3l6gnxw22gk3oshik",
@@ -28438,9 +28445,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 510,
-      "postOrder": 74
+      "postOrder": 74,
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "mt5cb9ttiq9dhwqktfe",
@@ -28655,7 +28663,7 @@
       },
       "no": 514,
       "postOrder": 66,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28669,7 +28677,8 @@
           "c_teishutsu": true,
           "toukou": true
         }
-      }
+      },
+      "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
       "id": "cmt96qmhx3",
