@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-07T02:52:01.218Z",
+    "updatedAt": "2026-09-07T02:57:57.218Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28564,7 +28564,7 @@
       "title": "快眠法",
       "type": "ショート",
       "postDate": "2026-09-14",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28582,7 +28582,7 @@
         "c_teishutsu": "2026-09-06"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
