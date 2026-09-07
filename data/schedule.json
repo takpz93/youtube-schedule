@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-06T09:56:47.647Z",
+    "updatedAt": "2026-09-07T02:50:38.217Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25582,8 +25582,8 @@
       "staff": "松金さん",
       "title": "腸活はカレー",
       "type": "通常",
-      "postDate": "2026-09-08",
-      "currentStatus": "修正",
+      "postDate": "2026-09-04",
+      "currentStatus": "投稿",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -25605,19 +25605,19 @@
         "c_teishutsu": "2026-09-06"
       },
       "stageStatuses": {
-        "企画": "進行中",
+        "企画": "完了",
         "撮影": "完了",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "no": 459,
       "postOrder": 106,
@@ -25964,7 +25964,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 71,
+      "postOrder": 69,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26018,7 +26018,7 @@
         "投稿": "未着手"
       },
       "no": 466,
-      "postOrder": 67,
+      "postOrder": 66,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28563,7 +28563,7 @@
       "staff": "松金さん",
       "title": "快眠法",
       "type": "ショート",
-      "postDate": "2026-09-07",
+      "postDate": "2026-09-13",
       "currentStatus": "企画",
       "material": "",
       "enabledStages": [
@@ -28597,7 +28597,7 @@
         "投稿": "未着手"
       },
       "no": 513,
-      "postOrder": 66,
+      "postOrder": 70,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28620,8 +28620,8 @@
       "staff": "松金さん",
       "title": "枕の寿命",
       "type": "ショート",
-      "postDate": "2026-09-14",
-      "currentStatus": "企画",
+      "postDate": "2026-09-06",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28639,22 +28639,22 @@
         "c_teishutsu": "2026-09-13"
       },
       "stageStatuses": {
-        "企画": "未着手",
-        "撮影": "未着手",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "no": 514,
-      "postOrder": 68,
+      "postOrder": 71,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28711,7 +28711,7 @@
         "投稿": "未着手"
       },
       "no": 515,
-      "postOrder": 70,
+      "postOrder": 68,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -29197,7 +29197,7 @@
       },
       "archived": false,
       "no": 524,
-      "postOrder": 69
+      "postOrder": 67
     },
     {
       "id": "mtktzhvjxq6zqnbkwmp",
