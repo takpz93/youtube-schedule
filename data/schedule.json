@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-07T11:42:23.618Z",
+    "updatedAt": "2026-09-08T22:45:52.309Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25649,7 +25649,7 @@
       "title": "Costco 購入品紹介",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://70.gigafile.nu/1113-9f43b50e7f0d62ea31987e537b8dce6f",
       "enabledStages": [
         "kikaku",
@@ -25677,7 +25677,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -26823,7 +26823,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26840,7 +26840,7 @@
         "satsuei": "2026-09-23"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -26876,7 +26876,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-13",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26893,7 +26893,7 @@
         "satsuei": "2026-09-23"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -26929,7 +26929,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-17",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26946,7 +26946,7 @@
         "satsuei": "2026-09-23"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -26982,7 +26982,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-20",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26999,7 +26999,7 @@
         "satsuei": "2026-09-23"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
