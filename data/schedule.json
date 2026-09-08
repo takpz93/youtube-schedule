@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-08T22:45:52.309Z",
+    "updatedAt": "2026-09-08T23:25:21.140Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27576,7 +27576,7 @@
       },
       "archived": false,
       "no": 494,
-      "postOrder": 62
+      "postOrder": 61
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -27911,8 +27911,8 @@
       "staff": "YH",
       "title": "マスタング",
       "type": "ショート",
-      "postDate": "2026-09-25",
-      "currentStatus": "修正",
+      "postDate": "2026-09-23",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -27925,7 +27925,8 @@
         "shoko": "2026-09-04",
         "fb": "2026-09-05",
         "shuusei": "2026-09-06",
-        "kansei": "2026-09-06"
+        "kansei": "2026-09-06",
+        "toukou": "2026-09-23"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -27936,11 +27937,11 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "完了",
         "M提出": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "進行中"
       },
       "_userSet": {
         "postDate": true,
@@ -27957,7 +27958,7 @@
       },
       "archived": false,
       "no": 501,
-      "postOrder": 61
+      "postOrder": 62
     },
     {
       "id": "mt259rkdd0ydkkyjxh",
