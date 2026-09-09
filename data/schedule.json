@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-09T08:01:21.333Z",
+    "updatedAt": "2026-09-09T08:23:42.281Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25368,7 +25368,7 @@
         "投稿": "完了"
       },
       "no": 455,
-      "postOrder": 12,
+      "postOrder": 11,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25395,7 +25395,7 @@
       "title": "詰め物3選",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25424,7 +25424,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "進行中",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -25432,7 +25432,7 @@
         "投稿": "未着手"
       },
       "no": 456,
-      "postOrder": 13,
+      "postOrder": 12,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25495,7 +25495,7 @@
         "投稿": "完了"
       },
       "no": 457,
-      "postOrder": 11,
+      "postOrder": 13,
       "_userSet": {
         "postDate": true,
         "postMark": false,
