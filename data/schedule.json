@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-09T10:10:47.608Z",
+    "updatedAt": "2026-09-09T10:10:58.131Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -58,7 +58,7 @@
     },
     "Actvision": {
       "postsPerWeek": 1,
-      "lastPost": "2026-10-26",
+      "lastPost": "2026-10-17",
       "nextShoot": "2026-09-15"
     }
   },
