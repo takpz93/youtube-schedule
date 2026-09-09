@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-08T23:25:21.140Z",
+    "updatedAt": "2026-09-09T04:30:28.470Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23694,7 +23694,7 @@
         "投稿": "未着手"
       },
       "no": 425,
-      "postOrder": 60,
+      "postOrder": 61,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25986,7 +25986,7 @@
       "title": "みうち先生1日密着（アルビレックス）",
       "type": "通常",
       "postDate": "2026-09-10",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26013,11 +26013,11 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "進行中",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "no": 466,
@@ -27576,7 +27576,7 @@
       },
       "archived": false,
       "no": 494,
-      "postOrder": 61
+      "postOrder": 62
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -27958,7 +27958,7 @@
       },
       "archived": false,
       "no": 501,
-      "postOrder": 62
+      "postOrder": 60
     },
     {
       "id": "mt259rkdd0ydkkyjxh",
