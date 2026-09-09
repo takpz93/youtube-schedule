@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-09T08:23:42.281Z",
+    "updatedAt": "2026-09-09T08:52:03.500Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24570,7 +24570,7 @@
         "投稿": "未着手"
       },
       "no": 442,
-      "postOrder": 76,
+      "postOrder": 75,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -24625,7 +24625,7 @@
         "投稿": "未着手"
       },
       "no": 443,
-      "postOrder": 77,
+      "postOrder": 76,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28335,7 +28335,7 @@
       },
       "archived": false,
       "no": 508,
-      "postOrder": 78
+      "postOrder": 77
     },
     {
       "id": "mt5cb9ttkg4ai7qe35l",
@@ -28460,7 +28460,7 @@
       "title": "クルザード新商品会②",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28484,8 +28484,8 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -28508,7 +28508,7 @@
       },
       "archived": false,
       "no": 511,
-      "postOrder": 75
+      "postOrder": 78
     },
     {
       "id": "cmt96qmhx0",
