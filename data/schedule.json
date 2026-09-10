@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-10T07:46:46.253Z",
+    "updatedAt": "2026-09-10T21:21:44.293Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25650,7 +25650,7 @@
       "staff": "松金さん",
       "title": "Costco 購入品紹介",
       "type": "通常",
-      "postDate": "2026-09-12",
+      "postDate": "2026-09-15",
       "currentStatus": "FB",
       "material": "https://70.gigafile.nu/1113-9f43b50e7f0d62ea31987e537b8dce6f",
       "enabledStages": [
@@ -25667,10 +25667,10 @@
         "kikaku": "2026-07-25",
         "satsuei": "2026-08-04",
         "shoko": "2026-09-02",
-        "fb": "2026-09-03",
-        "shuusei": "2026-09-04",
-        "kansei": "2026-09-04",
-        "c_teishutsu": "2026-09-04"
+        "fb": "2026-09-13",
+        "shuusei": "2026-09-14",
+        "kansei": "2026-09-14",
+        "c_teishutsu": "2026-09-14"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -26424,7 +26424,7 @@
       "staff": "松金さん",
       "title": "甘いものが食べたい理由は腸が原因",
       "type": "通常",
-      "postDate": "2026-09-15",
+      "postDate": "2026-09-12",
       "currentStatus": "M提出",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
@@ -26440,11 +26440,11 @@
       "manualStageDates": {
         "kikaku": "2026-08-10",
         "satsuei": "2026-08-17",
-        "shoko": "2026-09-11",
-        "fb": "2026-09-12",
-        "shuusei": "2026-09-13",
-        "kansei": "2026-09-13",
-        "c_teishutsu": "2026-09-13"
+        "shoko": "2026-09-08",
+        "fb": "2026-09-09",
+        "shuusei": "2026-09-10",
+        "kansei": "2026-09-10",
+        "c_teishutsu": "2026-09-11"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28967,7 +28967,7 @@
         }
       },
       "no": 519,
-      "postOrder": 49,
+      "postOrder": 50,
       "archived": false
     },
     {
@@ -29619,7 +29619,7 @@
       },
       "archived": false,
       "no": 532,
-      "postOrder": 50
+      "postOrder": 49
     }
   ]
 }
