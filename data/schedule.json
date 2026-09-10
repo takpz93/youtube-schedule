@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-10T03:42:53.525Z",
+    "updatedAt": "2026-09-10T03:43:01.587Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25,7 +25,7 @@
   "shootingSchedule": {
     "BPP": {
       "postsPerWeek": 1,
-      "lastPost": "2026-09-25",
+      "lastPost": "2026-10-02",
       "nextShoot": "2026-09-19"
     },
     "KINS": {
