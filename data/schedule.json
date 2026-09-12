@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-10T21:21:44.293Z",
+    "updatedAt": "2026-09-12T22:07:32.476Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25688,7 +25688,7 @@
         "投稿": "未着手"
       },
       "no": 460,
-      "postOrder": 107,
+      "postOrder": 108,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26479,7 +26479,7 @@
       },
       "archived": false,
       "no": 474,
-      "postOrder": 108
+      "postOrder": 107
     },
     {
       "id": "msi3dzkbptk8n4wnkms",
@@ -29571,7 +29571,7 @@
       "title": "損するお店選び",
       "type": "ショート",
       "postDate": "2026-09-17",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -29596,7 +29596,7 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -29620,6 +29620,258 @@
       "archived": false,
       "no": 532,
       "postOrder": 49
+    },
+    {
+      "id": "isenkatsu20260919shinkei",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "神経治療",
+      "type": "通常",
+      "postDate": "2026-09-19",
+      "currentStatus": "FB",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-08-20",
+        "satsuei": "2026-08-27",
+        "shoko": "2026-09-05",
+        "fb": "2026-09-13",
+        "shuusei": "2026-09-16",
+        "kansei": "2026-09-17",
+        "c_teishutsu": "2026-09-18"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 533,
+      "postOrder": 14
+    },
+    {
+      "id": "isenkatsu20260926kowai",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "歯医者が怖い人の克服法",
+      "type": "通常",
+      "postDate": "2026-09-26",
+      "currentStatus": "FB",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-08-27",
+        "satsuei": "2026-09-03",
+        "shoko": "2026-09-12",
+        "fb": "2026-09-14",
+        "shuusei": "2026-09-16",
+        "kansei": "2026-09-18",
+        "c_teishutsu": "2026-09-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 534,
+      "postOrder": 15
+    },
+    {
+      "id": "isenkatsu20261003mitei",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "（企画名未定・撮影済み）",
+      "type": "通常",
+      "postDate": "2026-10-03",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-09-03",
+        "satsuei": "2026-09-10",
+        "shoko": "2026-09-19",
+        "fb": "2026-09-21",
+        "shuusei": "2026-09-23",
+        "kansei": "2026-09-25",
+        "c_teishutsu": "2026-09-26"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 535,
+      "postOrder": 16
+    },
+    {
+      "id": "isenkatsu20261010mitei",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "（企画名未定・撮影済み）",
+      "type": "通常",
+      "postDate": "2026-10-10",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-09-10",
+        "satsuei": "2026-09-17",
+        "shoko": "2026-09-26",
+        "fb": "2026-09-28",
+        "shuusei": "2026-09-30",
+        "kansei": "2026-10-02",
+        "c_teishutsu": "2026-10-03"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 536,
+      "postOrder": 17
     }
   ]
 }
