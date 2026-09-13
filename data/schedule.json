@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-12T22:07:32.476Z",
+    "updatedAt": "2026-09-13T00:01:28.501Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27306,10 +27306,10 @@
       "id": "msjsn52evx5f50x7coa",
       "channel": "Actvision",
       "staff": "YH",
-      "title": "8/20",
+      "title": "銀行が来なくなった会社は危険",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27323,7 +27323,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-08-10",
-        "satsuei": "2026-08-18"
+        "satsuei": "2026-08-18",
+        "shoko": "2026-09-13",
+        "fb": "2026-09-14",
+        "shuusei": "2026-09-16",
+        "kansei": "2026-09-17",
+        "c_teishutsu": "2026-09-18",
+        "toukou": "2026-09-19"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -27332,7 +27338,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
