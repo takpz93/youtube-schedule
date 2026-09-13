@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-13T00:01:28.501Z",
+    "updatedAt": "2026-09-13T07:47:14.385Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25651,7 +25651,7 @@
       "title": "Costco 購入品紹介",
       "type": "通常",
       "postDate": "2026-09-15",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://70.gigafile.nu/1113-9f43b50e7f0d62ea31987e537b8dce6f",
       "enabledStages": [
         "kikaku",
@@ -25680,7 +25680,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
