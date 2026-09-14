@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-14T04:00:05.333Z",
+    "updatedAt": "2026-09-14T13:02:10.548Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27537,7 +27537,7 @@
       "title": "フェアレディZ",
       "type": "通常",
       "postDate": "2026-10-02",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://127.gigafile.nu/1118-604012bb4a9ac519e4f96ad214495791 / https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
@@ -27566,7 +27566,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -28929,7 +28929,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -28959,7 +28959,7 @@
       "title": "幹事が知っておくべきお店の選び方",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://106.gigafile.nu/1211-5a7b8e0eefafa3edbad621cb1df03c95",
       "_userSet": {
         "postDate": true,
@@ -29074,7 +29074,7 @@
       },
       "archived": false,
       "no": 521,
-      "postOrder": 46
+      "postOrder": 48
     },
     {
       "id": "mtjmory4kyvh98imts",
@@ -29124,7 +29124,7 @@
       },
       "archived": false,
       "no": 522,
-      "postOrder": 47
+      "postOrder": 46
     },
     {
       "id": "mtjmory4nv5ilbds8bi",
@@ -29174,7 +29174,7 @@
       },
       "archived": false,
       "no": 523,
-      "postOrder": 48
+      "postOrder": 47
     },
     {
       "id": "mtktzhvjthr7vh6ndor",
