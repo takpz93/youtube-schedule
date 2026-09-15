@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-15T03:48:49.170Z",
+    "updatedAt": "2026-09-15T03:49:02.170Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28930,7 +28930,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -28959,7 +28959,7 @@
       "title": "幹事が知っておくべきお店の選び方",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://106.gigafile.nu/1211-5a7b8e0eefafa3edbad621cb1df03c95",
       "_userSet": {
         "postDate": true,
