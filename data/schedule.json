@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-15T09:08:09.971Z",
+    "updatedAt": "2026-09-15T09:11:22.411Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24513,7 +24513,7 @@
         "投稿": "完了"
       },
       "no": 441,
-      "postOrder": 72,
+      "postOrder": 71,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -24537,7 +24537,7 @@
       "staff": "加畑さん(MEK)",
       "title": "はじめてのリンサークリーナー",
       "type": "通常",
-      "postDate": "2026-09-19",
+      "postDate": "2026-10-17",
       "currentStatus": "修正",
       "material": "",
       "enabledStages": [
@@ -24571,7 +24571,7 @@
         "投稿": "未着手"
       },
       "no": 442,
-      "postOrder": 76,
+      "postOrder": 72,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -25760,7 +25760,7 @@
         }
       },
       "no": 461,
-      "postOrder": 71,
+      "postOrder": 73,
       "archived": true,
       "archivedAt": "2026-08-19T05:30:58.162Z"
     },
@@ -26488,7 +26488,7 @@
       "title": "ビタミン全解説",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -26516,7 +26516,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -27309,7 +27309,7 @@
       "title": "銀行が来なくなった会社は危険",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27339,7 +27339,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -28407,7 +28407,7 @@
       },
       "archived": true,
       "no": 509,
-      "postOrder": 73,
+      "postOrder": 74,
       "archivedAt": "2026-08-30T12:12:55.955Z"
     },
     {
@@ -28465,7 +28465,7 @@
       },
       "archived": true,
       "no": 510,
-      "postOrder": 74,
+      "postOrder": 75,
       "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
@@ -28523,7 +28523,7 @@
       },
       "archived": false,
       "no": 511,
-      "postOrder": 75
+      "postOrder": 76
     },
     {
       "id": "cmt96qmhx0",
@@ -30114,6 +30114,114 @@
       "archived": false,
       "no": 540,
       "postOrder": 69
+    },
+    {
+      "id": "sumisyou20260919buddicafc",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "BUDDICA FC動画",
+      "type": "通常",
+      "postDate": "2026-09-19",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-15"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 541,
+      "postOrder": 79
+    },
+    {
+      "id": "sumisyou20261010fukitori",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "初めての拭き取り",
+      "type": "通常",
+      "postDate": "2026-10-10",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-15"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 542,
+      "postOrder": 80
     }
   ]
 }
