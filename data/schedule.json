@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-15T04:28:26.896Z",
+    "updatedAt": "2026-09-15T09:05:09.729Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -50,7 +50,7 @@
     },
     "SUMISYOU": {
       "postsPerWeek": 1,
-      "lastPost": "2026-09-03",
+      "lastPost": "2026-10-17",
       "nextShoot": "2026-09-07"
     },
     "千勝会": {
@@ -28136,7 +28136,7 @@
       },
       "archived": false,
       "no": 504,
-      "postOrder": 65
+      "postOrder": 66
     },
     {
       "id": "mt3l6gnxuy86o988dfm",
@@ -29936,7 +29936,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 66
+      "postOrder": 65
     },
     {
       "id": "bpp20261016bike",
