@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-15T00:37:23.062Z",
+    "updatedAt": "2026-09-15T03:48:49.170Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25969,7 +25969,7 @@
         "投稿": "未着手"
       },
       "no": 465,
-      "postOrder": 69,
+      "postOrder": 71,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28738,7 +28738,7 @@
         "投稿": "完了"
       },
       "no": 515,
-      "postOrder": 71,
+      "postOrder": 68,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -29224,7 +29224,7 @@
       },
       "archived": false,
       "no": 524,
-      "postOrder": 68
+      "postOrder": 69
     },
     {
       "id": "mtktzhvjxq6zqnbkwmp",
@@ -29634,7 +29634,7 @@
       "title": "神経治療",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -29663,7 +29663,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
