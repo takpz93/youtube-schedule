@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-15T03:49:02.170Z",
+    "updatedAt": "2026-09-15T04:28:26.896Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -3146,7 +3146,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 60,
-      "postOrder": 66,
+      "postOrder": 70,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3198,7 +3198,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 61,
-      "postOrder": 67,
+      "postOrder": 71,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3250,7 +3250,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 62,
-      "postOrder": 68,
+      "postOrder": 72,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -29878,6 +29878,242 @@
       "archived": false,
       "no": 536,
       "postOrder": 17
+    },
+    {
+      "id": "bpp20261009mustangbg",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "マスタング 車内（バイオガード）",
+      "type": "通常",
+      "postDate": "2026-10-09",
+      "currentStatus": "台本",
+      "material": "",
+      "enabledStages": [
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "daihon": "2026-09-18",
+        "afureko": "2026-09-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "進行中",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "toukou": true,
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 537,
+      "postOrder": 66
+    },
+    {
+      "id": "bpp20261016bike",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "バイク 遮熱（ヒートガード）",
+      "type": "通常",
+      "postDate": "2026-10-16",
+      "currentStatus": "台本",
+      "material": "",
+      "enabledStages": [
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "daihon": "2026-09-18",
+        "afureko": "2026-09-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "進行中",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "toukou": true,
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 538,
+      "postOrder": 67
+    },
+    {
+      "id": "bpp20261023landcruiser",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "傷が目立つ黒のランクル250",
+      "type": "通常",
+      "postDate": "2026-10-23",
+      "currentStatus": "台本",
+      "material": "",
+      "enabledStages": [
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "daihon": "2026-09-18",
+        "afureko": "2026-09-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "進行中",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "toukou": true,
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 539,
+      "postOrder": 68
+    },
+    {
+      "id": "bpp20261030delica",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "デリカ 新車＋遮熱フルオプション",
+      "type": "通常",
+      "postDate": "2026-10-30",
+      "currentStatus": "台本",
+      "material": "",
+      "enabledStages": [
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "daihon": "2026-09-18",
+        "afureko": "2026-09-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "進行中",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "toukou": true,
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 540,
+      "postOrder": 69
     }
   ]
 }
