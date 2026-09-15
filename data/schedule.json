@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-15T21:36:35.273Z",
+    "updatedAt": "2026-09-15T21:46:40.258Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26610,23 +26610,14 @@
     {
       "id": "msi3fsvqwmrpafeflsj",
       "stageStatuses": {
-        "企画": "完了",
-        "撮影": "進行中",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
-        "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
       },
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shoko",
         "fb",
         "shuusei",
@@ -26635,16 +26626,20 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-08-31",
-        "satsuei": "2026-09-14"
+        "shoko": "2026-09-19",
+        "fb": "2026-09-21",
+        "shuusei": "2026-09-22",
+        "kansei": "2026-09-23",
+        "c_teishutsu": "2026-09-23",
+        "toukou": "2026-09-26"
       },
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/14",
+      "title": "サバ缶格付け",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6",
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26664,14 +26659,12 @@
       "id": "msiplbxdm2uuh8so0p",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/14",
+      "title": "青汁",
       "type": "通常",
       "postDate": "2026-09-29",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6",
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shoko",
         "fb",
         "shuusei",
@@ -26680,21 +26673,18 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-08-31",
-        "satsuei": "2026-09-14"
+        "shoko": "2026-09-22",
+        "fb": "2026-09-24",
+        "shuusei": "2026-09-25",
+        "kansei": "2026-09-26",
+        "c_teishutsu": "2026-09-26",
+        "toukou": "2026-09-29"
       },
       "stageStatuses": {
-        "企画": "完了",
-        "撮影": "進行中",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
-        "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
       },
@@ -26717,14 +26707,12 @@
       "id": "msiplbxd6i5ujwr03ys",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/14",
+      "title": "いびき",
       "type": "通常",
       "postDate": "2026-10-03",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6",
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shoko",
         "fb",
         "shuusei",
@@ -26733,21 +26721,18 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-08-31",
-        "satsuei": "2026-09-14"
+        "shoko": "2026-09-26",
+        "fb": "2026-09-28",
+        "shuusei": "2026-09-29",
+        "kansei": "2026-09-30",
+        "c_teishutsu": "2026-09-30",
+        "toukou": "2026-10-03"
       },
       "stageStatuses": {
-        "企画": "完了",
-        "撮影": "進行中",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
-        "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
       },
@@ -26770,14 +26755,12 @@
       "id": "msiplbxdmv53agvh8rq",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/14",
+      "title": "推し菌",
       "type": "通常",
       "postDate": "2026-10-06",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6\nhttps://48.gigafile.nu/1225-73a555597cad822154e53a8a565c2fee",
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shoko",
         "fb",
         "shuusei",
@@ -26786,21 +26769,18 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-08-31",
-        "satsuei": "2026-09-14"
+        "shoko": "2026-09-29",
+        "fb": "2026-10-01",
+        "shuusei": "2026-10-02",
+        "kansei": "2026-10-03",
+        "c_teishutsu": "2026-10-03",
+        "toukou": "2026-10-06"
       },
       "stageStatuses": {
-        "企画": "完了",
-        "撮影": "進行中",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
-        "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
       },
@@ -26823,14 +26803,12 @@
       "id": "msipop64d4nxdd3iypo",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/23",
+      "title": "脂肪肝",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://48.gigafile.nu/1225-73a555597cad822154e53a8a565c2fee",
       "enabledStages": [
-        "kikaku",
-        "satsuei",
         "shoko",
         "fb",
         "shuusei",
@@ -26839,21 +26817,18 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-09-09",
-        "satsuei": "2026-09-23"
+        "shoko": "2026-10-03",
+        "fb": "2026-10-05",
+        "shuusei": "2026-10-06",
+        "kansei": "2026-10-07",
+        "c_teishutsu": "2026-10-07",
+        "toukou": "2026-10-10"
       },
       "stageStatuses": {
-        "企画": "完了",
-        "撮影": "未着手",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
-        "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
       },
