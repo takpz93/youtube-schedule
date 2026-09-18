@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-18T06:37:17.315Z",
+    "updatedAt": "2026-09-18T06:37:33.314Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -30232,6 +30232,57 @@
       "archived": false,
       "no": 542,
       "postOrder": 80
+    },
+    {
+      "id": "istory20260924shortkanji",
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "飲み会の予約でわかるできる幹事とダメな幹事",
+      "type": "ショート",
+      "postDate": "2026-09-24",
+      "currentStatus": "投稿",
+      "material": "9/24 19:00 公開予約済み https://youtube.com/shorts/SVHI2-g-Y4Y\n通常尺「幹事が知っておくべきお店の選び方」（9/19投稿）の切り抜き",
+      "enabledStages": [
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {},
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 543,
+      "postOrder": 51
     }
   ]
 }
