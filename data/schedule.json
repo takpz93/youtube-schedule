@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-17T22:02:28.400Z",
+    "updatedAt": "2026-09-18T06:37:17.315Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -25969,7 +25969,7 @@
         "投稿": "完了"
       },
       "no": 465,
-      "postOrder": 66,
+      "postOrder": 69,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26024,7 +26024,7 @@
         "投稿": "完了"
       },
       "no": 466,
-      "postOrder": 68,
+      "postOrder": 67,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -26551,7 +26551,7 @@
       "title": "味噌格付け",
       "type": "通常",
       "postDate": "2026-09-22",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -26579,7 +26579,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -28690,7 +28690,7 @@
         "投稿": "完了"
       },
       "no": 514,
-      "postOrder": 67,
+      "postOrder": 66,
       "archived": true,
       "_userSet": {
         "postDate": true,
@@ -28748,7 +28748,7 @@
         "投稿": "完了"
       },
       "no": 515,
-      "postOrder": 69,
+      "postOrder": 68,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -28805,7 +28805,7 @@
         "投稿": "未着手"
       },
       "no": 516,
-      "postOrder": 71,
+      "postOrder": 72,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -29193,7 +29193,7 @@
       "title": "NGベッドフレーム",
       "type": "通常",
       "postDate": "2026-09-24",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29214,7 +29214,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -29234,7 +29234,7 @@
       },
       "archived": false,
       "no": 524,
-      "postOrder": 72
+      "postOrder": 71
     },
     {
       "id": "mtktzhvjxq6zqnbkwmp",
@@ -29644,8 +29644,8 @@
       "title": "神経治療",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "修正",
-      "material": "",
+      "currentStatus": "投稿",
+      "material": "9/19 19:00 公開予約済み https://youtu.be/JDypkkm9F20",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -29674,10 +29674,10 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -29767,11 +29767,11 @@
       "id": "isenkatsu20261003mitei",
       "channel": "千勝会",
       "staff": "至さん",
-      "title": "（企画名未定・撮影済み）",
+      "title": "抜かなければならない歯について",
       "type": "通常",
       "postDate": "2026-10-03",
-      "currentStatus": "初稿",
-      "material": "",
+      "currentStatus": "FB",
+      "material": "初稿 https://youtu.be/QXLTqm-BmoA\nタイトル案① 歯を抜く原因はたった2つ｜抜歯になる歯・残せる歯の全基準\nタイトル案②【放置厳禁】自分で歯を抜くと危険｜抜きっぱなしの末路",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -29798,7 +29798,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -30132,7 +30132,7 @@
       "title": "BUDDICA FC動画",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://97.gigafile.nu/1225-8ac371bb1a98aada57e1ddd49b142777",
       "enabledStages": [
         "kikaku",
@@ -30154,7 +30154,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
