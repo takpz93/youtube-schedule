@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-20T00:43:25.749Z",
+    "updatedAt": "2026-09-20T09:28:21.561Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28597,11 +28597,11 @@
       "id": "cmt96qmhx1",
       "channel": "綿久",
       "staff": "松金さん",
-      "title": "快眠法",
+      "title": "睡眠のプロが絶対買わない寝具グッズ",
       "type": "ショート",
       "postDate": "2026-09-21",
-      "currentStatus": "初稿",
-      "material": "",
+      "currentStatus": "完成",
+      "material": "https://youtube.com/shorts/hwe9xFoW60k",
       "enabledStages": [
         "shoko",
         "fb",
@@ -28624,9 +28624,9 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
