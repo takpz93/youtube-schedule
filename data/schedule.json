@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:49:53.460Z",
+    "updatedAt": "2026-09-21T11:50:58.001Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28615,7 +28615,7 @@
       "type": "ショート",
       "postDate": "2026-09-21",
       "currentStatus": "完成",
-      "material": "https://youtube.com/shorts/hwe9xFoW60k",
+      "material": "https://youtube.com/shorts/hwe9xFoW60k ",
       "enabledStages": [
         "shoko",
         "fb",
