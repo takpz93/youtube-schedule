@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:36:59.095Z",
+    "updatedAt": "2026-09-21T11:39:13.635Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29549,7 +29549,7 @@
       "title": "3PH洗車",
       "type": "通常",
       "postDate": "2026-09-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shikou",
@@ -29581,7 +29581,13 @@
         "C提出": "完了",
         "投稿": "進行中"
       },
-      "_userSet": {},
+      "_userSet": {
+        "postDate": true,
+        "currentStatus": true,
+        "stages": {
+          "c_teishutsu": true
+        }
+      },
       "archived": false,
       "no": 531,
       "postOrder": 57
