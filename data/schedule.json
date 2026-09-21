@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:39:13.635Z",
+    "updatedAt": "2026-09-21T11:39:17.421Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29588,9 +29588,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 531,
-      "postOrder": 57
+      "postOrder": 57,
+      "archivedAt": "2026-09-21T11:39:16.613Z"
     },
     {
       "id": "imtv84ohit3kb",
