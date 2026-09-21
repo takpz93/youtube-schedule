@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:23:49.580Z",
+    "updatedAt": "2026-09-21T11:35:17.036Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24774,7 +24774,7 @@
       "title": "純米大吟醸5選",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24828,7 +24828,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrijp6hwelz26bt08xd",
@@ -24837,7 +24837,7 @@
       "title": "特約店　東京",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24891,7 +24891,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrik303z1436ijvvnrvc",
@@ -25396,7 +25396,7 @@
       "title": "詰め物3選",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25450,7 +25450,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrimobmkpyu8r4d0pbn",
@@ -25651,7 +25651,7 @@
       "title": "Costco 購入品紹介",
       "type": "通常",
       "postDate": "2026-09-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://70.gigafile.nu/1113-9f43b50e7f0d62ea31987e537b8dce6f",
       "enabledStages": [
         "kikaku",
@@ -25705,7 +25705,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrtz4ac4c6qfw752hqc",
@@ -25940,7 +25940,7 @@
       "title": "ルームツアー",
       "type": "通常",
       "postDate": "2026-09-17",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25979,7 +25979,7 @@
           "toukou": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrtzx9kiafx8rer1rfm",
@@ -25988,7 +25988,7 @@
       "title": "みうち先生1日密着（アルビレックス）",
       "type": "通常",
       "postDate": "2026-09-10",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26039,7 +26039,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrzgpxp18b17mkispkh",
@@ -26425,7 +26425,7 @@
       "title": "甘いものが食べたい理由は腸が原因",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -26477,7 +26477,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 474,
       "postOrder": 107
     },
@@ -26488,7 +26488,7 @@
       "title": "ビタミン全解説",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -26540,7 +26540,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 475,
       "postOrder": 109
     },
@@ -27260,7 +27260,7 @@
       "title": "税務署に狙われる口座",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27308,7 +27308,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 489,
       "postOrder": 14
     },
@@ -27319,7 +27319,7 @@
       "title": "銀行が来なくなった会社は危険",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27367,7 +27367,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 490,
       "postOrder": 15
     },
@@ -27484,7 +27484,7 @@
       "title": "モデルY　大阪",
       "type": "通常",
       "postDate": "2026-09-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://7.gigafile.nu/1117-2b55346a575faef1b0cf7f7465de937d / https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
@@ -27536,7 +27536,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 493,
       "postOrder": 59
     },
@@ -27884,7 +27884,7 @@
       "title": "サンバートラック",
       "type": "ショート",
       "postDate": "2026-09-16",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -27927,7 +27927,7 @@
           "kansei": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 500,
       "postOrder": 58
     },
@@ -28265,7 +28265,7 @@
       "title": "働いてほしくない人",
       "type": "ショート",
       "postDate": "2026-09-10",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28312,7 +28312,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 507,
       "postOrder": 47
     },
@@ -28485,7 +28485,7 @@
       "title": "クルザード新商品会②",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28531,7 +28531,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 511,
       "postOrder": 75
     },
@@ -28715,7 +28715,7 @@
       "title": "羽毛布団大手メーカーを徹底比較",
       "type": "ショート",
       "postDate": "2026-09-14",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28749,7 +28749,7 @@
       },
       "no": 515,
       "postOrder": 68,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28913,7 +28913,7 @@
       "title": "損するお店選び",
       "type": "通常",
       "postDate": "2026-09-12",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://106.gigafile.nu/1211-ba10a2c7c265ed60eb79f57fdadd3c6f",
       "_userSet": {
         "postDate": true,
@@ -28928,7 +28928,7 @@
       },
       "no": 518,
       "postOrder": 48,
-      "archived": false
+      "archived": true
     },
     {
       "id": "mtj9rs0egvjao4s8vas",
@@ -28969,7 +28969,7 @@
       "title": "幹事が知っておくべきお店の選び方",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://106.gigafile.nu/1211-5a7b8e0eefafa3edbad621cb1df03c95",
       "_userSet": {
         "postDate": true,
@@ -28984,7 +28984,7 @@
       },
       "no": 519,
       "postOrder": 50,
-      "archived": false
+      "archived": true
     },
     {
       "id": "mtjmory47et30kcwt6q",
@@ -29593,7 +29593,7 @@
       "title": "損するお店選び",
       "type": "ショート",
       "postDate": "2026-09-17",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -29639,7 +29639,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 532,
       "postOrder": 49
     },
@@ -29650,7 +29650,7 @@
       "title": "神経治療",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "9/19 19:00 公開予約済み https://youtu.be/JDypkkm9F20",
       "enabledStages": [
         "kikaku",
@@ -29702,7 +29702,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 533,
       "postOrder": 14
     },
@@ -30138,7 +30138,7 @@
       "title": "BUDDICA FC動画",
       "type": "通常",
       "postDate": "2026-09-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://97.gigafile.nu/1225-8ac371bb1a98aada57e1ddd49b142777",
       "enabledStages": [
         "kikaku",
@@ -30181,7 +30181,7 @@
           "fb": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 541,
       "postOrder": 76
     },
