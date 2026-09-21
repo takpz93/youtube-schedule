@@ -686,7 +686,7 @@ function canCloudWrite() {
 async function fetchJsonFromUrl(url, label) {
   const res = await fetch(`${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}`, {
     cache: 'no-store',
-    headers: { 'Cache-Control': 'no-cache', Pragma: 'no-cache' },
+    cache: 'no-store',
   });
   if (!res.ok) throw new Error(`${label} HTTP ${res.status}`);
   return await res.json();
@@ -696,7 +696,6 @@ function githubApiHeaders() {
   const headers = {
     Accept: 'application/vnd.github+json',
     'X-GitHub-Api-Version': '2022-11-28',
-    'Cache-Control': 'no-cache',
   };
   const token = getGithubWriteToken();
   if (token) headers.Authorization = `Bearer ${token}`;
