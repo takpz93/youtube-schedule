@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-20T10:56:25.673Z",
+    "updatedAt": "2026-09-21T10:41:56.699Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28993,8 +28993,8 @@
       "title": "四国サケタイム",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "FB",
+      "material": "https://f.io/2g7FvWGL",
       "enabledStages": [
         "satsuei",
         "shoko",
@@ -29005,16 +29005,22 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-09"
+        "satsuei": "2026-09-09",
+        "shoko": "2026-09-21",
+        "fb": "2026-09-22",
+        "shuusei": "2026-09-23",
+        "kansei": "2026-09-24",
+        "c_teishutsu": "2026-09-25",
+        "toukou": "2026-09-26"
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
