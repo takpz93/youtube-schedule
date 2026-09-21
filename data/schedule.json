@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:35:17.095Z",
+    "updatedAt": "2026-09-21T11:36:59.244Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -170,7 +170,7 @@
       "title": "水特集",
       "type": "通常",
       "postDate": "2026-06-30",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://95.gigafile.nu/0918-33a43366223aba5b5fd63b0d2a8fc0e9",
       "enabledStages": [
         "shoko",
@@ -228,7 +228,7 @@
       "title": "田中渓①",
       "type": "通常",
       "postDate": "2026-07-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://15.gigafile.nu/0914-f42376fc405e459bf1715cc9cafc528d",
       "enabledStages": [
         "shoko",
@@ -286,7 +286,7 @@
       "title": "お茶特集",
       "type": "通常",
       "postDate": "2026-07-07",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://95.gigafile.nu/0918-fd034f1c643c5d27a332a271245f9d6a",
       "enabledStages": [
         "shoko",
@@ -344,7 +344,7 @@
       "title": "田中渓②",
       "type": "通常",
       "postDate": "2026-07-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://15.gigafile.nu/0914-3727d0e74fea32100f19592bc174ad5e",
       "enabledStages": [
         "shoko",
@@ -402,7 +402,7 @@
       "title": "業務スーパー",
       "type": "通常",
       "postDate": "2026-07-14",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://90.gigafile.nu/0918-1a8dfb898a59462b36d4ff5af0e94887",
       "enabledStages": [
         "shoko",
@@ -452,7 +452,7 @@
       "title": "iHerb",
       "type": "通常",
       "postDate": "2026-07-28",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://47.gigafile.nu/0918-c0a501c075b11c4e4d92c55ebbf71e94",
       "enabledStages": [
         "shoko",
@@ -556,7 +556,7 @@
       "title": "経費管理術",
       "type": "通常",
       "postDate": "2026-07-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://105.gigafile.nu/0914-d92117b9df05bdb555095c9e15060ea0",
       "enabledStages": [
         "shoko",
@@ -615,7 +615,7 @@
       "title": "創業融資",
       "type": "通常",
       "postDate": "2026-07-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://6.gigafile.nu/0914-6925040247bf56b489d74cf10df57892",
       "enabledStages": [
         "shoko",
@@ -669,7 +669,7 @@
       "title": "社員を雇うルール",
       "type": "通常",
       "postDate": "2026-07-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://6.gigafile.nu/0914-9772f9a0810d8501a64e7cade16d5ef3",
       "enabledStages": [
         "shoko",
@@ -764,7 +764,7 @@
       "title": "タント黄色",
       "type": "通常",
       "postDate": "2026-07-03",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -819,7 +819,7 @@
       "title": "ランクルプラド",
       "type": "通常",
       "postDate": "2026-07-10",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -880,7 +880,7 @@
       "title": "N-ONE",
       "type": "通常",
       "postDate": "2026-07-16",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -931,7 +931,7 @@
       "title": "磨き3種類",
       "type": "通常",
       "postDate": "2026-07-24",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://92.gigafile.nu/0927-13830fd2794cf9057afb083d8ffaeac2",
       "enabledStages": [
         "shoko",
@@ -984,7 +984,7 @@
       "title": "ポルシェ911②",
       "type": "通常",
       "postDate": "2026-07-31",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -1043,7 +1043,7 @@
       "title": "メンテナンス",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://116.gigafile.nu/0927-609f20120d3286e5244bfb3f8eaf8442",
       "enabledStages": [
         "shoko",
@@ -1092,7 +1092,7 @@
       "title": "ランクル70②",
       "type": "通常",
       "postDate": "2026-08-14",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1184,7 +1184,7 @@
       "title": "黒シーマ",
       "type": "ショート",
       "postDate": "2026-07-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1231,7 +1231,7 @@
       "title": "ボルボ",
       "type": "ショート",
       "postDate": "2026-07-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "fb",
@@ -1278,7 +1278,7 @@
       "title": "レクサス LS500",
       "type": "ショート",
       "postDate": "2026-07-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "fb",
@@ -1325,7 +1325,7 @@
       "title": "タント黄色",
       "type": "ショート",
       "postDate": "2026-07-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1377,7 +1377,7 @@
       "title": "ランクルプラド",
       "type": "ショート",
       "postDate": "2026-07-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1429,7 +1429,7 @@
       "title": "N-ONE",
       "type": "ショート",
       "postDate": "2026-08-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1569,7 +1569,7 @@
       "title": "飲食経営の後悔",
       "type": "通常",
       "postDate": "2026-07-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "fb",
@@ -1624,7 +1624,7 @@
       "title": "ブラック飲食面接",
       "type": "通常",
       "postDate": "2026-07-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1675,7 +1675,7 @@
       "title": "大卒32万の中、個人店で働く理由",
       "type": "通常",
       "postDate": "2026-07-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1727,7 +1727,7 @@
       "title": "バイトテロ",
       "type": "ショート",
       "postDate": "2026-07-02",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "toukou"
@@ -1769,7 +1769,7 @@
       "title": "飲食経営の後悔",
       "type": "ショート",
       "postDate": "2026-07-09",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1822,7 +1822,7 @@
       "title": "ブラック飲食面接",
       "type": "ショート",
       "postDate": "2026-07-23",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1873,7 +1873,7 @@
       "title": "大卒32万の中、個人店で働く理由",
       "type": "ショート",
       "postDate": "2026-07-30",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -1970,7 +1970,7 @@
       "title": "2026はじめての洗車",
       "type": "通常",
       "postDate": "2026-07-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2027,7 +2027,7 @@
       "title": "施工_スカイライン",
       "type": "通常",
       "postDate": "2026-07-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2079,7 +2079,7 @@
       "title": "DCMヘッドライト",
       "type": "通常",
       "postDate": "2026-07-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2173,7 +2173,7 @@
       "title": "歯磨き粉5選",
       "type": "通常",
       "postDate": "2026-07-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shuusei",
@@ -2226,7 +2226,7 @@
       "title": "磨き方5選",
       "type": "通常",
       "postDate": "2026-07-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2280,7 +2280,7 @@
       "title": "口臭対策",
       "type": "通常",
       "postDate": "2026-07-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2379,7 +2379,7 @@
       "title": "酸モダン5選",
       "type": "通常",
       "postDate": "2026-07-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2437,7 +2437,7 @@
       "title": "中部地方 サケタイム",
       "type": "通常",
       "postDate": "2026-07-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2489,7 +2489,7 @@
       "title": "淡麗5選",
       "type": "通常",
       "postDate": "2026-07-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2540,7 +2540,7 @@
       "title": "特約店④",
       "type": "通常",
       "postDate": "2026-07-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2635,7 +2635,7 @@
       "title": "オーダー枕の作り方",
       "type": "通常",
       "postDate": "2026-07-02",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2691,7 +2691,7 @@
       "title": "マットレスの店頭チェックポイント",
       "type": "通常",
       "postDate": "2026-07-09",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2749,7 +2749,7 @@
       "title": "夏の熱帯夜対策",
       "type": "通常",
       "postDate": "2026-07-16",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2799,7 +2799,7 @@
       "title": "返品保証",
       "type": "ショート",
       "postDate": "2026-06-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -2875,7 +2875,7 @@
       "title": "GR86",
       "type": "通常",
       "postDate": "2026-07-24",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://84.gigafile.nu/0903-658d43e606fdfb2ca722239cb7b8779c",
       "no": 55,
       "postOrder": 1,
@@ -2903,7 +2903,7 @@
       "title": "FD",
       "type": "通常",
       "postDate": "2026-08-14",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://29.gigafile.nu/0903-1b0a9ac2c0849244491065123c25b207",
       "enabledStages": [
         "shoko",
@@ -2963,7 +2963,7 @@
       "title": "RC-F",
       "type": "通常",
       "postDate": "2026-08-07",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://6.gigafile.nu/0904-9bd8331afe01a6f23b4a6cb7934e769a",
       "enabledStages": [
         "shoko",
@@ -3041,7 +3041,7 @@
       "title": "ヘアメイク",
       "type": "通常",
       "postDate": "2026-07-02",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "no": 58,
       "postOrder": 11,
@@ -3086,7 +3086,7 @@
       "title": "施工_キューブ",
       "type": "通常",
       "postDate": "2026-06-24",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://91.gigafile.nu/0912-919e8c66b88d27cea8b96fbad02c75d9",
       "no": 59,
       "postOrder": 1,
@@ -3920,7 +3920,7 @@
       "title": "ポルシェ993（PHONEIXセラミック）",
       "type": "通常",
       "postDate": "2026-03-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -6143,7 +6143,7 @@
       "title": "働きたくない人5選",
       "type": "通常",
       "postDate": "2026-03-28",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -9092,7 +9092,7 @@
       "title": "血糖値スパイクの恐ろしさ",
       "type": "通常",
       "postDate": "2026-01-20",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://80.gigafile.nu/0417-ba2d56a086491371a6356fff037f9ab3",
       "enabledStages": [
         "kikaku",
@@ -9776,7 +9776,7 @@
       "title": "発酵高麗人参アンケート",
       "type": "通常",
       "postDate": "2026-03-07",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://drive.google.com/drive/folders/1pthvGDwn20M7zWTQNg1CasCfaZtN0yt5?usp=sharing",
       "enabledStages": [
         "kikaku",
@@ -10232,7 +10232,7 @@
       "title": "オイシックス",
       "type": "通常",
       "postDate": "2026-03-28",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -12626,7 +12626,7 @@
       "title": "クルザード鉄粉除去",
       "type": "通常",
       "postDate": "2026-03-07",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -12968,7 +12968,7 @@
       "title": "花粉の取り方",
       "type": "通常",
       "postDate": "2026-03-28",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -17013,7 +17013,7 @@
       "title": "枕の寿命",
       "type": "通常",
       "postDate": "2025-12-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -18210,7 +18210,7 @@
       "title": "オーダー枕買ってはいけないお店５選",
       "type": "通常",
       "postDate": "2026-03-26",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://9.gigafile.nu/0611-r48d3c0cb5eaf88eae50b85f4c231c4cd",
       "enabledStages": [
         "kikaku",
@@ -22255,7 +22255,7 @@
       "title": "7月にやるべきお金の棚卸し",
       "type": "通常",
       "postDate": "2026-07-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://119.gigafile.nu/1012-87d5400b81b41adf47be4141257f8e9c",
       "enabledStages": [
         "shoko",
@@ -22307,7 +22307,7 @@
       "title": "あとから請求が来て焦るお金5選",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://119.gigafile.nu/0709-1db7c470641d11607025f4bffa2c1e6d",
       "enabledStages": [
         "shoko",
@@ -22358,7 +22358,7 @@
       "title": "固定費の見直し",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://119.gigafile.nu/1012-cb69aad57eb417888238338cae480db8",
       "enabledStages": [
         "shoko",
@@ -22405,7 +22405,7 @@
       "title": "決算書の見方（損益計算書）",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://119.gigafile.nu/1012-08d64690995386d5f3af6a894c800482",
       "enabledStages": [
         "shoko",
@@ -22457,7 +22457,7 @@
       "title": "しんぱち食堂",
       "type": "通常",
       "postDate": "2026-07-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://48.gigafile.nu/1011-05523352e4375703cd6d700612183e2f",
       "enabledStages": [
         "shoko",
@@ -22515,7 +22515,7 @@
       "title": "鉄",
       "type": "通常",
       "postDate": "2026-07-21",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://48.gigafile.nu/1011-c7a79ca82d347b1e813568054881b07a",
       "enabledStages": [
         "shoko",
@@ -22573,7 +22573,7 @@
       "title": "納豆",
       "type": "通常",
       "postDate": "2026-07-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://48.gigafile.nu/1011-5abc6a1c5d0d95f1ea5f51f391b3fdba",
       "enabledStages": [
         "shoko",
@@ -22659,7 +22659,7 @@
       "title": "大手チェーン",
       "type": "通常",
       "postDate": "2026-07-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1003-aea9a2fc896bfd4a7a89114c6f0ab2ad",
       "_userSet": {
         "postDate": true,
@@ -22686,7 +22686,7 @@
       "title": "店長に求めること",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1005-9752849ae7a6999618f775651d96f3e1",
       "enabledStages": [
         "shoko",
@@ -22738,7 +22738,7 @@
       "title": "接客ルール",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1005-f7759c93751c822d5db0e0c79fd72170",
       "enabledStages": [
         "shoko",
@@ -22786,7 +22786,7 @@
       "title": "社長のアンケート",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1005-e0b0c196d1f0a88b206879d731f52715",
       "enabledStages": [
         "shoko",
@@ -22836,7 +22836,7 @@
       "title": "大手チェーン格付け",
       "type": "ショート",
       "postDate": "2026-07-16",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1003-aea9a2fc896bfd4a7a89114c6f0ab2ad",
       "enabledStages": [
         "shoko",
@@ -22886,7 +22886,7 @@
       "title": "店長に求めること",
       "type": "ショート",
       "postDate": "2026-08-06",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1005-9752849ae7a6999618f775651d96f3e1",
       "enabledStages": [
         "shoko",
@@ -22938,7 +22938,7 @@
       "title": "接客ルール",
       "type": "ショート",
       "postDate": "2026-08-13",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1005-f7759c93751c822d5db0e0c79fd72170",
       "enabledStages": [
         "shoko",
@@ -22990,7 +22990,7 @@
       "title": "社長のアンケート",
       "type": "ショート",
       "postDate": "2026-08-20",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://93.gigafile.nu/1005-e0b0c196d1f0a88b206879d731f52715",
       "enabledStages": [
         "shoko",
@@ -23042,7 +23042,7 @@
       "title": "10万円マットレス",
       "type": "ショート",
       "postDate": "2026-07-06",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23093,7 +23093,7 @@
       "title": "NG羽毛布団",
       "type": "ショート",
       "postDate": "2026-07-13",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23144,7 +23144,7 @@
       "title": "西川本社で10万円企画",
       "type": "ショート",
       "postDate": "2026-07-20",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23195,7 +23195,7 @@
       "title": "最強マットレス9選",
       "type": "ショート",
       "postDate": "2026-07-27",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23246,7 +23246,7 @@
       "title": "エアーマットレス徹底比較",
       "type": "ショート",
       "postDate": "2026-08-03",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23296,7 +23296,7 @@
       "title": "豆乳",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23357,7 +23357,7 @@
       "title": "お酒の飲む人の腸活",
       "type": "通常",
       "postDate": "2026-08-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23418,7 +23418,7 @@
       "title": "コーヒーと腸活",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23479,7 +23479,7 @@
       "title": "痩せ菌特集",
       "type": "通常",
       "postDate": "2026-08-11",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -23535,7 +23535,7 @@
       "title": "ゲレンデ",
       "type": "通常",
       "postDate": "2026-08-21",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -23594,7 +23594,7 @@
       "title": "軽トラ",
       "type": "通常",
       "postDate": "2026-08-28",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://123.gigafile.nu/1018-16b5648708562e5fcba5ebb14ea5a377",
       "enabledStages": [
         "shikou",
@@ -23720,7 +23720,7 @@
       "title": "樹脂パーツ igl",
       "type": "通常",
       "postDate": "2026-07-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://125.gigafile.nu/1018-9fadf8de9ff063d21fe5436768aa6c7b",
       "enabledStages": [
         "shoko",
@@ -23778,7 +23778,7 @@
       "title": "igl coatings洗車",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://125.gigafile.nu/1018-e643f37dabc1d628ea22c0bb2e315790",
       "enabledStages": [
         "shoko",
@@ -23830,7 +23830,7 @@
       "title": "車内の日常クリーニング",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://125.gigafile.nu/1018-6bb89c559b0d77a7c10fcf2e551e9030",
       "enabledStages": [
         "shoko",
@@ -23901,7 +23901,7 @@
       "title": "プロがコインランドリーで羽毛布団を洗ってみた",
       "type": "通常",
       "postDate": "2026-07-23",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "_userSet": {
         "postDate": true,
@@ -23928,7 +23928,7 @@
       "title": "プロが使う敷きパッド（夏）",
       "type": "通常",
       "postDate": "2026-07-30",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -23978,7 +23978,7 @@
       "title": "2026年版5万マットレス",
       "type": "通常",
       "postDate": "2026-08-06",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24026,7 +24026,7 @@
       "title": "プロが使う掛けパッド（夏）",
       "type": "通常",
       "postDate": "2026-08-13",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24078,7 +24078,7 @@
       "title": "歯周病",
       "type": "通常",
       "postDate": "2026-07-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24130,7 +24130,7 @@
       "title": "子供の歯を守るルール",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24182,7 +24182,7 @@
       "title": "ホワイトニングの勘違い5選",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24234,7 +24234,7 @@
       "title": "インプラントを始める前に知っておくべきこと",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24282,7 +24282,7 @@
       "title": "純米吟醸",
       "type": "通常",
       "postDate": "2026-08-01",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24333,7 +24333,7 @@
       "title": "新しい新潟淡麗とは",
       "type": "通常",
       "postDate": "2026-08-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24380,7 +24380,7 @@
       "title": "蔵元おすすめ③",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24431,7 +24431,7 @@
       "title": "関西の日本酒",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -24481,7 +24481,7 @@
       "title": "水シミだらけのハリアー",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24647,7 +24647,7 @@
       "title": "サケタイム中国地方",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24711,7 +24711,7 @@
       "title": "秋の日本酒",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -24900,7 +24900,7 @@
       "title": "大戸屋腸活",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://19.gigafile.nu/1112-92e5deea827a5937495651e1d4e1d279",
       "enabledStages": [
         "satsuei",
@@ -24955,7 +24955,7 @@
       "title": "おならと腸",
       "type": "通常",
       "postDate": "2026-08-18",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://18.gigafile.nu/1115-9dc3de87b2a6c6eeac38b03f1451cc14",
       "enabledStages": [
         "kikaku",
@@ -25019,7 +25019,7 @@
       "title": "コレステロール",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://85.gigafile.nu/1117-96e88fc7eb2978d56d04fc1d8ba15d46",
       "enabledStages": [
         "kikaku",
@@ -25181,7 +25181,7 @@
       "title": "寝ても疲れが取れない",
       "type": "通常",
       "postDate": "2026-08-25",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://109.gigafile.nu/1117-7f69940a8e3df41762b5fe50a82073a3",
       "_userSet": {
         "postDate": true,
@@ -25245,7 +25245,7 @@
       "title": "便のタイプ",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://5.gigafile.nu/1117-e8a88fac545a646e21a665c7d0be1c8b",
       "_userSet": {
         "postDate": true,
@@ -25275,7 +25275,7 @@
       "title": "歯医者が言ったら気をつけるべきワード",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25332,7 +25332,7 @@
       "title": "親知らず",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25459,7 +25459,7 @@
       "title": "歯間ブラシの使い方",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -25523,7 +25523,7 @@
       "title": "Costco第2弾 x夏バテ・コスパ",
       "type": "通常",
       "postDate": "2026-09-08",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://67.gigafile.nu/1113-3ceb943568a16981dc6d0192a936534b",
       "enabledStages": [
         "kikaku",
@@ -25587,7 +25587,7 @@
       "title": "腸活はカレー",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851",
       "enabledStages": [
         "kikaku",
@@ -25743,7 +25743,7 @@
       "title": "GR86 施工動画",
       "type": "通常",
       "postDate": "2026-08-15",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "_userSet": {
         "postDate": true,
@@ -25771,7 +25771,7 @@
       "title": "マットレス格付け",
       "type": "通常",
       "postDate": "2026-09-03",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -25830,7 +25830,7 @@
       "title": "枕格付け",
       "type": "通常",
       "postDate": "2026-08-27",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -25889,7 +25889,7 @@
       "title": "カメラマンの睡眠スコア",
       "type": "通常",
       "postDate": "2026-08-20",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26068,7 +26068,7 @@
       "title": "GRフェスタ後編",
       "type": "通常",
       "postDate": "2026-07-30",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "_userSet": {
         "postDate": true,
@@ -26092,7 +26092,7 @@
       "title": "恵比寿店ルームツアー",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://14.gigafile.nu/1117-56c292c17e331e228e29460ccd2d8195",
       "enabledStages": [
         "shoko",
@@ -26143,7 +26143,7 @@
       "title": "飲食店あるある",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://14.gigafile.nu/1117-4abb9b9deca8364ac965a4feeb511e55",
       "enabledStages": [
         "shoko",
@@ -26201,7 +26201,7 @@
       "title": "働いて欲しくない人",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://14.gigafile.nu/1117-33d6bf20eedf8d7c8f075caf3637361d",
       "enabledStages": [
         "shoko",
@@ -26259,7 +26259,7 @@
       "title": "売上高いのに潰れる会社",
       "type": "通常",
       "postDate": "2026-08-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://115.gigafile.nu/1117-e6b3d5556f4919f66ea0acb41103f24f",
       "enabledStages": [
         "shoko",
@@ -26309,7 +26309,7 @@
       "title": "幹部にしちゃダメな人",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://115.gigafile.nu/1117-e6b3d5556f4919f66ea0acb41103f24f",
       "enabledStages": [
         "shoko",
@@ -26367,7 +26367,7 @@
       "title": "税理士に丸投げ",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://115.gigafile.nu/1117-e6b3d5556f4919f66ea0acb41103f24f",
       "enabledStages": [
         "shoko",
@@ -27610,7 +27610,7 @@
       "title": "マスタング",
       "type": "通常",
       "postDate": "2026-09-04",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
@@ -27674,7 +27674,7 @@
       "title": "ランクル②",
       "type": "ショート",
       "postDate": "2026-08-19",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "toukou"
@@ -27716,7 +27716,7 @@
       "title": "磨き紹介",
       "type": "ショート",
       "postDate": "2026-09-02",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "fb",
@@ -27771,7 +27771,7 @@
       "title": "メンテナンス",
       "type": "ショート",
       "postDate": "2026-09-09",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -27829,7 +27829,7 @@
       "title": "ゲレンデ",
       "type": "ショート",
       "postDate": "2026-08-26",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28155,7 +28155,7 @@
       "title": "恵比寿ツアー",
       "type": "ショート",
       "postDate": "2026-08-27",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shuusei",
@@ -28207,7 +28207,7 @@
       "title": "飲食あるあるトラブル",
       "type": "ショート",
       "postDate": "2026-09-03",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28369,7 +28369,7 @@
       "title": "冠水車",
       "type": "通常",
       "postDate": "2026-08-29",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28427,7 +28427,7 @@
       "title": "純水ガラスクリーニング",
       "type": "通常",
       "postDate": "2026-09-05",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://121.gigafile.nu/1202-ae1797cbf89fe014aa58ad360ae7eee5",
       "enabledStages": [
         "shoko",
@@ -28657,7 +28657,7 @@
       "title": "枕の寿命",
       "type": "ショート",
       "postDate": "2026-09-07",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
