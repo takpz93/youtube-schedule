@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:39:17.421Z",
+    "updatedAt": "2026-09-21T11:44:24.366Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -24828,7 +24828,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrijp6hwelz26bt08xd",
@@ -24891,7 +24892,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrik303z1436ijvvnrvc",
@@ -25450,7 +25452,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrimobmkpyu8r4d0pbn",
@@ -25705,7 +25708,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrtz4ac4c6qfw752hqc",
@@ -25979,7 +25983,8 @@
           "toukou": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrtzx9kiafx8rer1rfm",
@@ -26039,7 +26044,8 @@
           "c_teishutsu": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrzgpxp18b17mkispkh",
@@ -26479,7 +26485,8 @@
       },
       "archived": true,
       "no": 474,
-      "postOrder": 107
+      "postOrder": 107,
+      "archivedAt": null
     },
     {
       "id": "msi3dzkbptk8n4wnkms",
@@ -26542,7 +26549,8 @@
       },
       "archived": true,
       "no": 475,
-      "postOrder": 109
+      "postOrder": 109,
+      "archivedAt": null
     },
     {
       "id": "msi3dzkbzyzw6xb9xj",
@@ -27310,7 +27318,8 @@
       },
       "archived": true,
       "no": 489,
-      "postOrder": 14
+      "postOrder": 14,
+      "archivedAt": null
     },
     {
       "id": "msjsn52evx5f50x7coa",
@@ -27369,7 +27378,8 @@
       },
       "archived": true,
       "no": 490,
-      "postOrder": 15
+      "postOrder": 15,
+      "archivedAt": null
     },
     {
       "id": "msjsn52e9f0r2cpnx57",
@@ -27538,7 +27548,8 @@
       },
       "archived": true,
       "no": 493,
-      "postOrder": 59
+      "postOrder": 59,
+      "archivedAt": null
     },
     {
       "id": "msk1fpkbexq97egyb3o",
@@ -27929,7 +27940,8 @@
       },
       "archived": true,
       "no": 500,
-      "postOrder": 58
+      "postOrder": 58,
+      "archivedAt": null
     },
     {
       "id": "mt259rkc1jkj4b290e3",
@@ -28314,7 +28326,8 @@
       },
       "archived": true,
       "no": 507,
-      "postOrder": 47
+      "postOrder": 47,
+      "archivedAt": null
     },
     {
       "id": "mt3orhuv96bu2z5km0t",
@@ -28533,7 +28546,8 @@
       },
       "archived": true,
       "no": 511,
-      "postOrder": 75
+      "postOrder": 75,
+      "archivedAt": null
     },
     {
       "id": "cmt96qmhx0",
@@ -28763,7 +28777,8 @@
           "c_teishutsu": true,
           "toukou": true
         }
-      }
+      },
+      "archivedAt": null
     },
     {
       "id": "cmt96qmhx4",
@@ -28928,7 +28943,8 @@
       },
       "no": 518,
       "postOrder": 48,
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mtj9rs0egvjao4s8vas",
@@ -28984,7 +29000,8 @@
       },
       "no": 519,
       "postOrder": 50,
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mtjmory47et30kcwt6q",
@@ -29648,7 +29665,8 @@
       },
       "archived": true,
       "no": 532,
-      "postOrder": 49
+      "postOrder": 49,
+      "archivedAt": null
     },
     {
       "id": "isenkatsu20260919shinkei",
@@ -29711,7 +29729,8 @@
       },
       "archived": true,
       "no": 533,
-      "postOrder": 14
+      "postOrder": 14,
+      "archivedAt": null
     },
     {
       "id": "isenkatsu20260926kowai",
@@ -30190,7 +30209,8 @@
       },
       "archived": true,
       "no": 541,
-      "postOrder": 76
+      "postOrder": 76,
+      "archivedAt": null
     },
     {
       "id": "sumisyou20261010fukitori",
