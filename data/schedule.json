@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-21T11:52:10.674Z",
+    "updatedAt": "2026-09-22T00:47:42.404Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27588,7 +27588,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "進行中",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -28614,7 +28614,7 @@
       "title": "睡眠のプロが絶対買わない寝具グッズ",
       "type": "ショート",
       "postDate": "2026-09-21",
-      "currentStatus": "完成",
+      "currentStatus": "クローズ",
       "material": "https://youtube.com/shorts/hwe9xFoW60k",
       "enabledStages": [
         "shoko",
@@ -28641,14 +28641,14 @@
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "no": 513,
       "postOrder": 70,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
