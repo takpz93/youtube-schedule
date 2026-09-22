@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T03:35:34.370Z",
+    "updatedAt": "2026-09-22T03:41:51.368Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22016,7 +22016,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 394,
-      "postOrder": 21,
+      "postOrder": 22,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -22068,7 +22068,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 395,
-      "postOrder": 22,
+      "postOrder": 23,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -27443,11 +27443,11 @@
       "id": "msjsn52e9f0r2cpnx57",
       "channel": "Actvision",
       "staff": "YH",
-      "title": "あなたの会社は銀行で何点か",
+      "title": "融資は「この一枚」で決まる（事業計画書）",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "初稿",
-      "material": "",
+      "currentStatus": "FB",
+      "material": "メイン動画 https://f.io/t_81TW7z ／ テキスト https://docs.google.com/document/d/10YbZG4RtuBf3VX7HenjUrkauAgomAEG_3KV0FfYj9Wo/edit",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -27461,8 +27461,8 @@
       "manualStageDates": {
         "kikaku": "2026-08-10",
         "satsuei": "2026-08-18",
-        "shoko": "2026-09-20",
-        "fb": "2026-09-21",
+        "shoko": "2026-09-18",
+        "fb": "2026-09-22",
         "shuusei": "2026-09-23",
         "kansei": "2026-09-24",
         "c_teishutsu": "2026-09-24",
@@ -27475,7 +27475,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -27502,7 +27502,7 @@
       "id": "msjsn52ewmtuq3vomj8",
       "channel": "Actvision",
       "staff": "YH",
-      "title": "借入は業績が良いときにしかできない",
+      "title": "あなたの会社は銀行で何点か",
       "type": "通常",
       "postDate": "2026-10-03",
       "currentStatus": "初稿",
@@ -30525,7 +30525,7 @@
       "no": 544,
       "postOrder": 18,
       "channel": "Actvision",
-      "title": "2期目・3期目で融資に落ちる理由",
+      "title": "借入は業績が良いときにしかできない",
       "type": "通常",
       "staff": "YH",
       "postDate": "2026-10-10",
@@ -30584,7 +30584,7 @@
       "no": 545,
       "postOrder": 19,
       "channel": "Actvision",
-      "title": "実は経営を悪化させるお金の使い方5選",
+      "title": "2期目・3期目で融資に落ちる理由",
       "type": "通常",
       "staff": "YH",
       "postDate": "2026-10-17",
@@ -30643,7 +30643,7 @@
       "no": 546,
       "postOrder": 20,
       "channel": "Actvision",
-      "title": "銀行の選び方と付き合い方5選",
+      "title": "実は経営を悪化させるお金の使い方5選",
       "type": "通常",
       "staff": "YH",
       "postDate": "2026-10-24",
@@ -30684,6 +30684,65 @@
         "kansei": "2026-10-22",
         "c_teishutsu": "2026-10-22",
         "toukou": "2026-10-24"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "actv202620261031",
+      "no": 547,
+      "postOrder": 21,
+      "channel": "Actvision",
+      "title": "銀行の選び方と付き合い方5選",
+      "type": "通常",
+      "staff": "YH",
+      "postDate": "2026-10-31",
+      "material": "",
+      "archived": false,
+      "currentStatus": "初稿",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "manualStageDates": {
+        "kikaku": "2026-09-08",
+        "satsuei": "2026-09-15",
+        "shoko": "2026-10-25",
+        "fb": "2026-10-26",
+        "shuusei": "2026-10-28",
+        "kansei": "2026-10-29",
+        "c_teishutsu": "2026-10-29",
+        "toukou": "2026-10-31"
       },
       "_userSet": {
         "postDate": true,
