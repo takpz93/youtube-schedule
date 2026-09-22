@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T03:22:49.374Z",
+    "updatedAt": "2026-09-22T03:29:13.371Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -78,8 +78,7 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kansei": "2026-08-23",
-        "toukou": "2026-08-31"
+        "kansei": "2026-08-23"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -23632,7 +23631,7 @@
         "投稿": "完了"
       },
       "no": 424,
-      "postOrder": 52,
+      "postOrder": 51,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -23657,7 +23656,7 @@
       "staff": "YH",
       "title": "タント白",
       "type": "通常",
-      "postDate": "2026-09-25",
+      "postDate": "2026-10-02",
       "currentStatus": "初稿",
       "material": "https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
@@ -23674,15 +23673,15 @@
       ],
       "manualStageDates": {
         "afureko": "2026-08-20",
-        "shoko": "2026-09-15",
-        "fb": "2026-09-17",
-        "shuusei": "2026-09-19",
-        "kansei": "2026-09-20",
-        "c_teishutsu": "2026-09-21",
+        "shoko": "2026-09-22",
+        "fb": "2026-09-24",
+        "shuusei": "2026-09-26",
+        "kansei": "2026-09-27",
+        "c_teishutsu": "2026-09-28",
         "shikou": "2026-08-20",
         "daihon": "2026-08-20",
         "fb_shitai": "2026-08-20",
-        "toukou": "2026-09-25"
+        "toukou": "2026-10-02"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -23700,7 +23699,7 @@
         "投稿": "未着手"
       },
       "no": 425,
-      "postOrder": 61,
+      "postOrder": 52,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27628,7 +27627,7 @@
       "staff": "YH",
       "title": "フェアレディZ",
       "type": "通常",
-      "postDate": "2026-10-02",
+      "postDate": "2026-09-25",
       "currentStatus": "FB",
       "material": "https://127.gigafile.nu/1118-604012bb4a9ac519e4f96ad214495791 / https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
@@ -27645,15 +27644,15 @@
       ],
       "manualStageDates": {
         "afureko": "2026-08-20",
-        "shoko": "2026-09-08",
-        "fb": "2026-09-10",
-        "shuusei": "2026-09-12",
-        "kansei": "2026-09-13",
-        "c_teishutsu": "2026-09-14",
+        "shoko": "2026-09-15",
+        "fb": "2026-09-17",
+        "shuusei": "2026-09-19",
+        "kansei": "2026-09-20",
+        "c_teishutsu": "2026-09-21",
         "shikou": "2026-08-20",
         "daihon": "2026-08-20",
         "fb_shitai": "2026-08-20",
-        "toukou": "2026-10-02"
+        "toukou": "2026-09-25"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -27687,7 +27686,7 @@
       },
       "archived": false,
       "no": 494,
-      "postOrder": 62
+      "postOrder": 60
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -27750,7 +27749,7 @@
       },
       "archived": true,
       "no": 495,
-      "postOrder": 55,
+      "postOrder": 56,
       "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
@@ -27847,7 +27846,7 @@
       },
       "archived": true,
       "no": 497,
-      "postOrder": 54,
+      "postOrder": 55,
       "archivedAt": "2026-09-02T10:39:43.020Z"
     },
     {
@@ -27905,7 +27904,7 @@
       },
       "archived": true,
       "no": 498,
-      "postOrder": 56,
+      "postOrder": 61,
       "archivedAt": "2026-09-10T04:49:45.881Z"
     },
     {
@@ -27960,7 +27959,7 @@
       },
       "archived": true,
       "no": 499,
-      "postOrder": 51,
+      "postOrder": 53,
       "archivedAt": "2026-08-26T14:09:20.461Z"
     },
     {
@@ -28071,7 +28070,7 @@
       },
       "archived": false,
       "no": 501,
-      "postOrder": 60
+      "postOrder": 62
     },
     {
       "id": "mt259rkdd0ydkkyjxh",
@@ -28954,8 +28953,7 @@
         "shoko": "2026-08-21",
         "fb": "2026-08-23",
         "shuusei": "2026-08-25",
-        "kansei": "2026-08-26",
-        "toukou": "2026-08-31"
+        "kansei": "2026-08-26"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28973,7 +28971,7 @@
         "投稿": "未着手"
       },
       "no": 517,
-      "postOrder": 53,
+      "postOrder": 54,
       "archived": false,
       "_userSet": {
         "postDate": true,
