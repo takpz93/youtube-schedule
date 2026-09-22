@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T00:47:42.404Z",
+    "updatedAt": "2026-09-22T03:22:49.374Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -78,7 +78,8 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kansei": "2026-08-23"
+        "kansei": "2026-08-23",
+        "toukou": "2026-08-31"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -115,7 +116,7 @@
       "title": "イライラ腸活",
       "type": "通常",
       "postDate": "2026-06-27",
-      "currentStatus": "企画",
+      "currentStatus": "クローズ",
       "material": "https://46.gigafile.nu/0902-0a91ece8efe5aeb861fa7b10c154f1f7",
       "enabledStages": [
         "fb",
@@ -1481,7 +1482,7 @@
       "title": "飲食業界で長く活躍できる人の特徴5選",
       "type": "ショート",
       "postDate": "2026-06-23",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "toukou"
@@ -23677,7 +23678,11 @@
         "fb": "2026-09-17",
         "shuusei": "2026-09-19",
         "kansei": "2026-09-20",
-        "c_teishutsu": "2026-09-21"
+        "c_teishutsu": "2026-09-21",
+        "shikou": "2026-08-20",
+        "daihon": "2026-08-20",
+        "fb_shitai": "2026-08-20",
+        "toukou": "2026-09-25"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -24553,7 +24558,12 @@
       "manualStageDates": {
         "kikaku": "2026-07-14",
         "satsuei": "2026-07-28",
-        "fb": "2026-08-21"
+        "fb": "2026-08-21",
+        "shoko": "2026-08-21",
+        "shuusei": "2026-09-24",
+        "kansei": "2026-09-24",
+        "c_teishutsu": "2026-09-24",
+        "toukou": "2026-09-26"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -24608,7 +24618,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-07-14",
-        "satsuei": "2026-07-28"
+        "satsuei": "2026-07-28",
+        "shoko": "2026-09-29",
+        "fb": "2026-09-30",
+        "shuusei": "2026-10-01",
+        "kansei": "2026-10-01",
+        "c_teishutsu": "2026-10-01",
+        "toukou": "2026-10-03"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -26578,7 +26594,8 @@
         "fb": "2026-09-17",
         "shuusei": "2026-09-19",
         "kansei": "2026-09-20",
-        "c_teishutsu": "2026-09-20"
+        "c_teishutsu": "2026-09-20",
+        "toukou": "2026-09-22"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -26911,7 +26928,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-09",
-        "satsuei": "2026-09-23"
+        "satsuei": "2026-09-23",
+        "shoko": "2026-10-08",
+        "fb": "2026-10-09",
+        "shuusei": "2026-10-10",
+        "kansei": "2026-10-11",
+        "c_teishutsu": "2026-10-11",
+        "toukou": "2026-10-13"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -26964,7 +26987,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-09",
-        "satsuei": "2026-09-23"
+        "satsuei": "2026-09-23",
+        "shoko": "2026-10-12",
+        "fb": "2026-10-13",
+        "shuusei": "2026-10-14",
+        "kansei": "2026-10-15",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -27017,7 +27046,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-09",
-        "satsuei": "2026-09-23"
+        "satsuei": "2026-09-23",
+        "shoko": "2026-10-15",
+        "fb": "2026-10-16",
+        "shuusei": "2026-10-17",
+        "kansei": "2026-10-18",
+        "c_teishutsu": "2026-10-18",
+        "toukou": "2026-10-20"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -27070,7 +27105,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-22",
-        "satsuei": "2026-10-06"
+        "satsuei": "2026-10-06",
+        "shoko": "2026-10-19",
+        "fb": "2026-10-20",
+        "shuusei": "2026-10-21",
+        "kansei": "2026-10-22",
+        "c_teishutsu": "2026-10-22",
+        "toukou": "2026-10-24"
       },
       "stageStatuses": {
         "企画": "未着手",
@@ -27123,7 +27164,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-22",
-        "satsuei": "2026-10-06"
+        "satsuei": "2026-10-06",
+        "shoko": "2026-10-22",
+        "fb": "2026-10-23",
+        "shuusei": "2026-10-24",
+        "kansei": "2026-10-25",
+        "c_teishutsu": "2026-10-25",
+        "toukou": "2026-10-27"
       },
       "stageStatuses": {
         "企画": "未着手",
@@ -27176,7 +27223,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-22",
-        "satsuei": "2026-10-06"
+        "satsuei": "2026-10-06",
+        "shoko": "2026-10-26",
+        "fb": "2026-10-27",
+        "shuusei": "2026-10-28",
+        "kansei": "2026-10-29",
+        "c_teishutsu": "2026-10-29",
+        "toukou": "2026-10-31"
       },
       "stageStatuses": {
         "企画": "未着手",
@@ -27229,7 +27282,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-22",
-        "satsuei": "2026-10-06"
+        "satsuei": "2026-10-06",
+        "shoko": "2026-10-29",
+        "fb": "2026-10-30",
+        "shuusei": "2026-10-31",
+        "kansei": "2026-11-01",
+        "c_teishutsu": "2026-11-01",
+        "toukou": "2026-11-03"
       },
       "stageStatuses": {
         "企画": "未着手",
@@ -27402,7 +27461,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-08-10",
-        "satsuei": "2026-08-18"
+        "satsuei": "2026-08-18",
+        "shoko": "2026-09-20",
+        "fb": "2026-09-21",
+        "shuusei": "2026-09-23",
+        "kansei": "2026-09-24",
+        "c_teishutsu": "2026-09-24",
+        "toukou": "2026-09-26"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -27455,7 +27520,13 @@
       ],
       "manualStageDates": {
         "kikaku": "2026-09-28",
-        "satsuei": "2026-10-13"
+        "satsuei": "2026-10-13",
+        "shoko": "2026-09-27",
+        "fb": "2026-09-28",
+        "shuusei": "2026-09-30",
+        "kansei": "2026-10-01",
+        "c_teishutsu": "2026-10-01",
+        "toukou": "2026-10-03"
       },
       "stageStatuses": {
         "企画": "進行中",
@@ -27578,7 +27649,11 @@
         "fb": "2026-09-10",
         "shuusei": "2026-09-12",
         "kansei": "2026-09-13",
-        "c_teishutsu": "2026-09-14"
+        "c_teishutsu": "2026-09-14",
+        "shikou": "2026-08-20",
+        "daihon": "2026-08-20",
+        "fb_shitai": "2026-08-20",
+        "toukou": "2026-10-02"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28018,7 +28093,8 @@
         "shoko": "2026-09-11",
         "fb": "2026-09-12",
         "shuusei": "2026-09-14",
-        "kansei": "2026-09-14"
+        "kansei": "2026-09-14",
+        "toukou": "2026-10-02"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28072,7 +28148,8 @@
         "shoko": "2026-09-18",
         "fb": "2026-09-19",
         "shuusei": "2026-09-21",
-        "kansei": "2026-09-21"
+        "kansei": "2026-09-21",
+        "toukou": "2026-10-09"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28126,7 +28203,8 @@
         "shoko": "2026-09-25",
         "fb": "2026-09-26",
         "shuusei": "2026-09-28",
-        "kansei": "2026-09-28"
+        "kansei": "2026-09-28",
+        "toukou": "2026-10-16"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28346,7 +28424,14 @@
         "c_teishutsu",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "shoko": "2026-10-06",
+        "fb": "2026-10-07",
+        "shuusei": "2026-10-08",
+        "kansei": "2026-10-08",
+        "c_teishutsu": "2026-10-08",
+        "toukou": "2026-10-10"
+      },
       "stageStatuses": {
         "企画": "完了",
         "撮影": "完了",
@@ -28662,7 +28747,8 @@
           "c_teishutsu": true,
           "toukou": true
         }
-      }
+      },
+      "archivedAt": null
     },
     {
       "id": "cmt96qmhx2",
@@ -28802,7 +28888,8 @@
         "fb": "2026-09-26",
         "shuusei": "2026-09-27",
         "kansei": "2026-09-27",
-        "c_teishutsu": "2026-09-27"
+        "c_teishutsu": "2026-09-27",
+        "toukou": "2026-09-28"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28859,7 +28946,16 @@
         "toukou"
       ],
       "manualStageDates": {
-        "c_teishutsu": "2026-08-26"
+        "c_teishutsu": "2026-08-26",
+        "shikou": "2026-08-14",
+        "daihon": "2026-08-17",
+        "fb_shitai": "2026-08-17",
+        "afureko": "2026-08-18",
+        "shoko": "2026-08-21",
+        "fb": "2026-08-23",
+        "shuusei": "2026-08-25",
+        "kansei": "2026-08-26",
+        "toukou": "2026-08-31"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29078,7 +29174,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-09"
+        "satsuei": "2026-09-09",
+        "shoko": "2026-10-11",
+        "fb": "2026-10-13",
+        "shuusei": "2026-10-14",
+        "kansei": "2026-10-15",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29128,7 +29230,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-09"
+        "satsuei": "2026-09-09",
+        "shoko": "2026-09-27",
+        "fb": "2026-09-29",
+        "shuusei": "2026-09-30",
+        "kansei": "2026-10-01",
+        "c_teishutsu": "2026-10-01",
+        "toukou": "2026-10-03"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29178,7 +29286,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-09"
+        "satsuei": "2026-09-09",
+        "shoko": "2026-10-04",
+        "fb": "2026-10-06",
+        "shuusei": "2026-10-07",
+        "kansei": "2026-10-08",
+        "c_teishutsu": "2026-10-08",
+        "toukou": "2026-10-10"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29228,7 +29342,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-04"
+        "satsuei": "2026-09-04",
+        "shoko": "2026-09-19",
+        "fb": "2026-09-20",
+        "shuusei": "2026-09-21",
+        "kansei": "2026-09-22",
+        "c_teishutsu": "2026-09-22",
+        "toukou": "2026-09-24"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29278,7 +29398,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-04"
+        "satsuei": "2026-09-04",
+        "shoko": "2026-09-26",
+        "fb": "2026-09-27",
+        "shuusei": "2026-09-28",
+        "kansei": "2026-09-29",
+        "c_teishutsu": "2026-09-29",
+        "toukou": "2026-10-01"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29328,7 +29454,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-17"
+        "satsuei": "2026-09-17",
+        "shoko": "2026-10-03",
+        "fb": "2026-10-04",
+        "shuusei": "2026-10-05",
+        "kansei": "2026-10-06",
+        "c_teishutsu": "2026-10-06",
+        "toukou": "2026-10-08"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29378,7 +29510,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-16"
+        "satsuei": "2026-09-16",
+        "shoko": "2026-10-10",
+        "fb": "2026-10-11",
+        "shuusei": "2026-10-12",
+        "kansei": "2026-10-13",
+        "c_teishutsu": "2026-10-13",
+        "toukou": "2026-10-15"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29428,7 +29566,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-16"
+        "satsuei": "2026-09-16",
+        "shoko": "2026-10-17",
+        "fb": "2026-10-18",
+        "shuusei": "2026-10-19",
+        "kansei": "2026-10-20",
+        "c_teishutsu": "2026-10-20",
+        "toukou": "2026-10-22"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29478,7 +29622,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-10-07"
+        "satsuei": "2026-10-07",
+        "shoko": "2026-10-24",
+        "fb": "2026-10-25",
+        "shuusei": "2026-10-26",
+        "kansei": "2026-10-27",
+        "c_teishutsu": "2026-10-27",
+        "toukou": "2026-10-29"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29528,7 +29678,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-17"
+        "satsuei": "2026-09-17",
+        "shoko": "2026-10-31",
+        "fb": "2026-11-01",
+        "shuusei": "2026-11-02",
+        "kansei": "2026-11-03",
+        "c_teishutsu": "2026-11-03",
+        "toukou": "2026-11-05"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29758,7 +29914,8 @@
         "fb": "2026-09-14",
         "shuusei": "2026-09-16",
         "kansei": "2026-09-18",
-        "c_teishutsu": "2026-09-19"
+        "c_teishutsu": "2026-09-19",
+        "toukou": "2026-09-26"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29821,7 +29978,8 @@
         "fb": "2026-09-21",
         "shuusei": "2026-09-23",
         "kansei": "2026-09-25",
-        "c_teishutsu": "2026-09-26"
+        "c_teishutsu": "2026-09-26",
+        "toukou": "2026-10-03"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29884,7 +30042,8 @@
         "fb": "2026-09-28",
         "shuusei": "2026-09-30",
         "kansei": "2026-10-02",
-        "c_teishutsu": "2026-10-03"
+        "c_teishutsu": "2026-10-03",
+        "toukou": "2026-10-10"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29943,8 +30102,16 @@
         "toukou"
       ],
       "manualStageDates": {
-        "daihon": "2026-09-18",
-        "afureko": "2026-09-19"
+        "daihon": "2026-09-25",
+        "afureko": "2026-09-26",
+        "shikou": "2026-09-22",
+        "fb_shitai": "2026-09-25",
+        "shoko": "2026-09-29",
+        "fb": "2026-10-01",
+        "shuusei": "2026-10-03",
+        "kansei": "2026-10-04",
+        "c_teishutsu": "2026-10-05",
+        "toukou": "2026-10-09"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30002,8 +30169,16 @@
         "toukou"
       ],
       "manualStageDates": {
-        "daihon": "2026-09-18",
-        "afureko": "2026-09-19"
+        "daihon": "2026-09-25",
+        "afureko": "2026-09-26",
+        "shikou": "2026-09-22",
+        "fb_shitai": "2026-09-25",
+        "shoko": "2026-10-06",
+        "fb": "2026-10-08",
+        "shuusei": "2026-10-10",
+        "kansei": "2026-10-11",
+        "c_teishutsu": "2026-10-12",
+        "toukou": "2026-10-16"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30061,8 +30236,16 @@
         "toukou"
       ],
       "manualStageDates": {
-        "daihon": "2026-09-18",
-        "afureko": "2026-09-19"
+        "daihon": "2026-09-25",
+        "afureko": "2026-09-26",
+        "shikou": "2026-09-22",
+        "fb_shitai": "2026-09-25",
+        "shoko": "2026-10-13",
+        "fb": "2026-10-15",
+        "shuusei": "2026-10-17",
+        "kansei": "2026-10-18",
+        "c_teishutsu": "2026-10-19",
+        "toukou": "2026-10-23"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30120,8 +30303,16 @@
         "toukou"
       ],
       "manualStageDates": {
-        "daihon": "2026-09-18",
-        "afureko": "2026-09-19"
+        "daihon": "2026-09-25",
+        "afureko": "2026-09-26",
+        "shikou": "2026-09-22",
+        "fb_shitai": "2026-09-25",
+        "shoko": "2026-10-20",
+        "fb": "2026-10-22",
+        "shuusei": "2026-10-24",
+        "kansei": "2026-10-25",
+        "c_teishutsu": "2026-10-26",
+        "toukou": "2026-10-30"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30232,7 +30423,14 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-15"
+        "satsuei": "2026-09-15",
+        "kikaku": "2026-09-15",
+        "shoko": "2026-10-13",
+        "fb": "2026-10-14",
+        "shuusei": "2026-10-15",
+        "kansei": "2026-10-15",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30283,7 +30481,14 @@
         "c_teishutsu",
         "toukou"
       ],
-      "manualStageDates": {},
+      "manualStageDates": {
+        "shoko": "2026-09-20",
+        "fb": "2026-09-20",
+        "shuusei": "2026-09-22",
+        "kansei": "2026-09-22",
+        "c_teishutsu": "2026-09-22",
+        "toukou": "2026-09-24"
+      },
       "stageStatuses": {
         "企画": "完了",
         "撮影": "完了",
