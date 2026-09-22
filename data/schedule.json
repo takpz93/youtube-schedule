@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T07:51:21.608Z",
+    "updatedAt": "2026-09-22T22:55:42.945Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26574,7 +26574,7 @@
       "title": "【味噌腸活】スーパーで買える10商品を格付け！本物はたった3つでした",
       "type": "通常",
       "postDate": "2026-09-22",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "https://64.gigafile.nu/1126-78085ebb8b724d6e7ee9b06ca907a378 / https://23.gigafile.nu/1127-acadc5afd719308b3c3c279e392f6851 / 確認用 https://youtu.be/iXTbTd-ELE8",
       "enabledStages": [
         "kikaku",
@@ -26607,9 +26607,9 @@
         "FB": "完了",
         "修正": "完了",
         "完成": "完了",
-        "M提出": "未着手",
+        "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -26627,7 +26627,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 476,
       "postOrder": 110
     },
@@ -29104,7 +29104,7 @@
       "title": "四国サケタイム",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://f.io/2g7FvWGL",
       "enabledStages": [
         "satsuei",
@@ -29132,7 +29132,7 @@
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -29328,7 +29328,7 @@
       "title": "NGベッドフレーム",
       "type": "通常",
       "postDate": "2026-09-24",
-      "currentStatus": "完成",
+      "currentStatus": "投稿",
       "material": "修正③ https://youtu.be/B_xAqkpi21s ／ 小島弘美さん（サムネ第一候補あり）",
       "enabledStages": [
         "satsuei",
@@ -29358,9 +29358,9 @@
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
-        "完成": "未着手",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -29440,7 +29440,7 @@
       "title": "アメリカの最先端の睡眠",
       "type": "通常",
       "postDate": "2026-10-08",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29462,7 +29462,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "進行中",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -29496,7 +29496,7 @@
       "title": "10万円台マットレス5選",
       "type": "通常",
       "postDate": "2026-10-15",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29518,7 +29518,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "進行中",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -29552,7 +29552,7 @@
       "title": "羽毛布団、買うなら\"今\"？失敗しない買い方と買い時",
       "type": "通常",
       "postDate": "2026-10-22",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29574,7 +29574,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "進行中",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -29664,7 +29664,7 @@
       "title": "不眠症の人の対策",
       "type": "通常",
       "postDate": "2026-11-05",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29686,7 +29686,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "進行中",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
