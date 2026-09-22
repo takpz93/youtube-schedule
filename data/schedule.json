@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T03:41:51.368Z",
+    "updatedAt": "2026-09-22T07:51:21.608Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29328,8 +29328,8 @@
       "title": "NGベッドフレーム",
       "type": "通常",
       "postDate": "2026-09-24",
-      "currentStatus": "FB",
-      "material": "",
+      "currentStatus": "完成",
+      "material": "修正③ https://youtu.be/B_xAqkpi21s ／ 小島弘美さん（サムネ第一候補あり）",
       "enabledStages": [
         "satsuei",
         "shoko",
@@ -29356,8 +29356,8 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
-        "修正": "未着手",
+        "FB": "完了",
+        "修正": "完了",
         "完成": "未着手",
         "M提出": "未着手",
         "C提出": "未着手",
