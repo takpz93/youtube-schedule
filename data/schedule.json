@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T03:29:13.371Z",
+    "updatedAt": "2026-09-22T03:35:34.370Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -22016,7 +22016,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 394,
-      "postOrder": 18,
+      "postOrder": 21,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -22068,7 +22068,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 395,
-      "postOrder": 19,
+      "postOrder": 22,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -23631,7 +23631,7 @@
         "投稿": "完了"
       },
       "no": 424,
-      "postOrder": 51,
+      "postOrder": 52,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -23699,7 +23699,7 @@
         "投稿": "未着手"
       },
       "no": 425,
-      "postOrder": 52,
+      "postOrder": 62,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -27443,7 +27443,7 @@
       "id": "msjsn52e9f0r2cpnx57",
       "channel": "Actvision",
       "staff": "YH",
-      "title": "8/20",
+      "title": "あなたの会社は銀行で何点か",
       "type": "通常",
       "postDate": "2026-09-26",
       "currentStatus": "初稿",
@@ -27502,10 +27502,10 @@
       "id": "msjsn52ewmtuq3vomj8",
       "channel": "Actvision",
       "staff": "YH",
-      "title": "9/15",
+      "title": "借入は業績が良いときにしかできない",
       "type": "通常",
       "postDate": "2026-10-03",
-      "currentStatus": "企画",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27518,8 +27518,8 @@
         "toukou"
       ],
       "manualStageDates": {
-        "kikaku": "2026-09-28",
-        "satsuei": "2026-10-13",
+        "kikaku": "2026-09-08",
+        "satsuei": "2026-09-15",
         "shoko": "2026-09-27",
         "fb": "2026-09-28",
         "shuusei": "2026-09-30",
@@ -27528,8 +27528,8 @@
         "toukou": "2026-10-03"
       },
       "stageStatuses": {
-        "企画": "進行中",
-        "撮影": "未着手",
+        "企画": "完了",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -27686,7 +27686,7 @@
       },
       "archived": false,
       "no": 494,
-      "postOrder": 60
+      "postOrder": 61
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -27749,7 +27749,7 @@
       },
       "archived": true,
       "no": 495,
-      "postOrder": 56,
+      "postOrder": 55,
       "archivedAt": "2026-09-07T10:16:29.230Z"
     },
     {
@@ -27846,7 +27846,7 @@
       },
       "archived": true,
       "no": 497,
-      "postOrder": 55,
+      "postOrder": 54,
       "archivedAt": "2026-09-02T10:39:43.020Z"
     },
     {
@@ -27904,7 +27904,7 @@
       },
       "archived": true,
       "no": 498,
-      "postOrder": 61,
+      "postOrder": 56,
       "archivedAt": "2026-09-10T04:49:45.881Z"
     },
     {
@@ -27959,7 +27959,7 @@
       },
       "archived": true,
       "no": 499,
-      "postOrder": 53,
+      "postOrder": 51,
       "archivedAt": "2026-08-26T14:09:20.461Z"
     },
     {
@@ -28070,7 +28070,7 @@
       },
       "archived": false,
       "no": 501,
-      "postOrder": 62
+      "postOrder": 60
     },
     {
       "id": "mt259rkdd0ydkkyjxh",
@@ -28971,7 +28971,7 @@
         "投稿": "未着手"
       },
       "no": 517,
-      "postOrder": 54,
+      "postOrder": 53,
       "archived": false,
       "_userSet": {
         "postDate": true,
@@ -30519,6 +30519,183 @@
       "archived": false,
       "no": 543,
       "postOrder": 51
+    },
+    {
+      "id": "actv202620261010",
+      "no": 544,
+      "postOrder": 18,
+      "channel": "Actvision",
+      "title": "2期目・3期目で融資に落ちる理由",
+      "type": "通常",
+      "staff": "YH",
+      "postDate": "2026-10-10",
+      "material": "",
+      "archived": false,
+      "currentStatus": "初稿",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "manualStageDates": {
+        "kikaku": "2026-09-08",
+        "satsuei": "2026-09-15",
+        "shoko": "2026-10-04",
+        "fb": "2026-10-05",
+        "shuusei": "2026-10-07",
+        "kansei": "2026-10-08",
+        "c_teishutsu": "2026-10-08",
+        "toukou": "2026-10-10"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "actv202620261017",
+      "no": 545,
+      "postOrder": 19,
+      "channel": "Actvision",
+      "title": "実は経営を悪化させるお金の使い方5選",
+      "type": "通常",
+      "staff": "YH",
+      "postDate": "2026-10-17",
+      "material": "",
+      "archived": false,
+      "currentStatus": "初稿",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "manualStageDates": {
+        "kikaku": "2026-09-08",
+        "satsuei": "2026-09-15",
+        "shoko": "2026-10-11",
+        "fb": "2026-10-12",
+        "shuusei": "2026-10-14",
+        "kansei": "2026-10-15",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "actv202620261024",
+      "no": 546,
+      "postOrder": 20,
+      "channel": "Actvision",
+      "title": "銀行の選び方と付き合い方5選",
+      "type": "通常",
+      "staff": "YH",
+      "postDate": "2026-10-24",
+      "material": "",
+      "archived": false,
+      "currentStatus": "初稿",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "manualStageDates": {
+        "kikaku": "2026-09-08",
+        "satsuei": "2026-09-15",
+        "shoko": "2026-10-18",
+        "fb": "2026-10-19",
+        "shuusei": "2026-10-21",
+        "kansei": "2026-10-22",
+        "c_teishutsu": "2026-10-22",
+        "toukou": "2026-10-24"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      }
     }
   ]
 }
