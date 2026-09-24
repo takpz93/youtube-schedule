@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-24T07:00:50.527Z",
+    "updatedAt": "2026-09-24T20:42:57.850Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -23658,7 +23658,7 @@
       "title": "タント白",
       "type": "通常",
       "postDate": "2026-10-02",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
@@ -23691,7 +23691,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -26915,7 +26915,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-13",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26939,7 +26939,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -26974,7 +26974,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-17",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -26998,7 +26998,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -27033,7 +27033,7 @@
       "title": "9/23",
       "type": "通常",
       "postDate": "2026-10-20",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27057,7 +27057,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -27448,7 +27448,7 @@
       "title": "融資は「この一枚」で決まる（事業計画書）",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "メイン動画 https://f.io/t_81TW7z ／ テキスト https://docs.google.com/document/d/10YbZG4RtuBf3VX7HenjUrkauAgomAEG_3KV0FfYj9Wo/edit",
       "enabledStages": [
         "kikaku",
@@ -27478,11 +27478,11 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -27630,7 +27630,7 @@
       "title": "フェアレディZ",
       "type": "通常",
       "postDate": "2026-09-25",
-      "currentStatus": "FB",
+      "currentStatus": "クローズ",
       "material": "https://127.gigafile.nu/1118-604012bb4a9ac519e4f96ad214495791 / https://106.gigafile.nu/1128-2da211d4a85c00ddc2bbd483c08ae9a2",
       "enabledStages": [
         "shikou",
@@ -27664,12 +27664,12 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "進行中",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -27686,7 +27686,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 494,
       "postOrder": 61
     },
@@ -28026,7 +28026,7 @@
       "title": "マスタング",
       "type": "ショート",
       "postDate": "2026-09-23",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28053,9 +28053,9 @@
         "FB": "完了",
         "修正": "完了",
         "完成": "完了",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "進行中"
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -28070,7 +28070,7 @@
           "kansei": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 501,
       "postOrder": 60
     },
@@ -29330,7 +29330,7 @@
       "title": "NGベッドフレーム",
       "type": "通常",
       "postDate": "2026-09-24",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "修正③ https://youtu.be/B_xAqkpi21s ／ 小島弘美さん（サムネ第一候補あり）",
       "enabledStages": [
         "satsuei",
@@ -29361,9 +29361,9 @@
         "FB": "完了",
         "修正": "完了",
         "完成": "完了",
-        "M提出": "未着手",
+        "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -29375,7 +29375,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 524,
       "postOrder": 71
     },
@@ -29895,7 +29895,7 @@
       "title": "歯医者が怖い人の克服法",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "FB",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -29925,11 +29925,11 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -30471,7 +30471,7 @@
       "title": "飲み会の予約でわかるできる幹事とダメな幹事",
       "type": "ショート",
       "postDate": "2026-09-24",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "9/24 19:00 公開予約済み https://youtube.com/shorts/SVHI2-g-Y4Y\n通常尺「幹事が知っておくべきお店の選び方」（9/19投稿）の切り抜き",
       "enabledStages": [
         "shoko",
@@ -30502,7 +30502,7 @@
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -30518,7 +30518,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 543,
       "postOrder": 51
     },
