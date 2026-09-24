@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-22T22:55:42.945Z",
+    "updatedAt": "2026-09-24T06:08:59.462Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -55,7 +55,7 @@
     },
     "千勝会": {
       "postsPerWeek": 1,
-      "lastPost": "2026-09-12"
+      "lastPost": "2026-10-12"
     },
     "Actvision": {
       "postsPerWeek": 1,
@@ -26629,7 +26629,8 @@
       },
       "archived": true,
       "no": 476,
-      "postOrder": 110
+      "postOrder": 110,
+      "archivedAt": null
     },
     {
       "id": "msi3fsvqwmrpafeflsj",
