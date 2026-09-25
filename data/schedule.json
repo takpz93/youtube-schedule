@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-24T20:42:57.850Z",
+    "updatedAt": "2026-09-25T00:33:40.842Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26912,11 +26912,11 @@
       "id": "msipop644xjd38yk66",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/23",
+      "title": "はちみつ5選",
       "type": "通常",
       "postDate": "2026-10-13",
       "currentStatus": "初稿",
-      "material": "",
+      "material": "https://53.gigafile.nu/0103-eb1f3a8fc132ce21a66898a3d1c988b1",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -26971,11 +26971,11 @@
       "id": "msipop64hfqdeloiddu",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/23",
+      "title": "歯周病と腸内環境",
       "type": "通常",
       "postDate": "2026-10-17",
       "currentStatus": "初稿",
-      "material": "",
+      "material": "https://53.gigafile.nu/0103-17a266f3f932c0fc85d594a9d7ed949e",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -27030,11 +27030,11 @@
       "id": "msipop64hkonx8jfak",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "9/23",
+      "title": "カメラマンの睡眠の悩み解決",
       "type": "通常",
       "postDate": "2026-10-20",
       "currentStatus": "初稿",
-      "material": "",
+      "material": "https://53.gigafile.nu/0103-2f2acae38a3b52e110a30150e70b9e6e",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -27688,7 +27688,8 @@
       },
       "archived": true,
       "no": 494,
-      "postOrder": 61
+      "postOrder": 61,
+      "archivedAt": null
     },
     {
       "id": "msk1fpkb3nxke0hayl",
@@ -28072,7 +28073,8 @@
       },
       "archived": true,
       "no": 501,
-      "postOrder": 60
+      "postOrder": 60,
+      "archivedAt": null
     },
     {
       "id": "mt259rkdd0ydkkyjxh",
@@ -29377,7 +29379,8 @@
       },
       "archived": true,
       "no": 524,
-      "postOrder": 71
+      "postOrder": 71,
+      "archivedAt": null
     },
     {
       "id": "mtktzhvjxq6zqnbkwmp",
@@ -30520,7 +30523,8 @@
       },
       "archived": true,
       "no": 543,
-      "postOrder": 51
+      "postOrder": 51,
+      "archivedAt": null
     },
     {
       "id": "actv202620261010",
