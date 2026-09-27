@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-27T19:41:05.206Z",
+    "updatedAt": "2026-09-27T23:12:55.289Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27092,7 +27092,7 @@
       "title": "10/6",
       "type": "通常",
       "postDate": "2026-10-24",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27115,7 +27115,7 @@
         "toukou": "2026-10-24"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -27151,7 +27151,7 @@
       "title": "10/6",
       "type": "通常",
       "postDate": "2026-10-27",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27174,7 +27174,7 @@
         "toukou": "2026-10-27"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -27210,7 +27210,7 @@
       "title": "10/6",
       "type": "通常",
       "postDate": "2026-10-31",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27233,7 +27233,7 @@
         "toukou": "2026-10-31"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -27269,7 +27269,7 @@
       "title": "10/6",
       "type": "通常",
       "postDate": "2026-11-03",
-      "currentStatus": "企画",
+      "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27292,7 +27292,7 @@
         "toukou": "2026-11-03"
       },
       "stageStatuses": {
-        "企画": "未着手",
+        "企画": "完了",
         "撮影": "未着手",
         "施工": "未着手",
         "台本": "未着手",
@@ -29164,7 +29164,7 @@
       "title": "人気銘柄はなぜ買えないのか？",
       "type": "通常",
       "postDate": "2026-10-17",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29186,7 +29186,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -29220,7 +29220,7 @@
       "title": "蔵元がくやしかった日本酒",
       "type": "通常",
       "postDate": "2026-10-03",
-      "currentStatus": "撮影",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29242,12 +29242,12 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -29276,7 +29276,7 @@
       "title": "天領盃と同世代の蔵が作る日本酒",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29298,7 +29298,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -30797,8 +30797,7 @@
         "fb": "2026-09-22",
         "shuusei": "2026-09-24",
         "kansei": "2026-09-26",
-        "c_teishutsu": "2026-09-24",
-        "toukou": "2026-09-26"
+        "c_teishutsu": "2026-09-24"
       },
       "channel": "iStory",
       "staff": "佐柄（MEK)",
@@ -30854,8 +30853,7 @@
         "fb": "2026-09-27",
         "shuusei": "2026-09-29",
         "kansei": "2026-10-01",
-        "c_teishutsu": "2026-09-29",
-        "toukou": "2026-10-01"
+        "c_teishutsu": "2026-09-29"
       },
       "channel": "iStory",
       "staff": "佐柄（MEK)",
@@ -30911,8 +30909,7 @@
         "fb": "2026-09-29",
         "shuusei": "2026-10-01",
         "kansei": "2026-10-03",
-        "c_teishutsu": "2026-10-01",
-        "toukou": "2026-10-03"
+        "c_teishutsu": "2026-10-01"
       },
       "channel": "iStory",
       "staff": "佐柄（MEK)",
@@ -30968,8 +30965,7 @@
         "fb": "2026-10-13",
         "shuusei": "2026-10-15",
         "kansei": "2026-10-17",
-        "c_teishutsu": "2026-10-15",
-        "toukou": "2026-10-17"
+        "c_teishutsu": "2026-10-15"
       },
       "channel": "iStory",
       "staff": "佐柄（MEK)",
