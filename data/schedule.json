@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-26T01:10:26.877Z",
+    "updatedAt": "2026-09-27T19:41:05.206Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -30761,6 +30761,234 @@
           "toukou": true
         }
       }
+    },
+    {
+      "id": "istory20260926torikizoku",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-22",
+        "fb": "2026-09-22",
+        "shuusei": "2026-09-24",
+        "kansei": "2026-09-26",
+        "c_teishutsu": "2026-09-24",
+        "toukou": "2026-09-26"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "鳥貴族の均一価格",
+      "type": "通常",
+      "postDate": "2026-09-26",
+      "currentStatus": "クローズ",
+      "material": "9/26公開済み。佐柄さんへ渡した3本素材の1本目",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {}
+      },
+      "no": 548,
+      "postOrder": 52,
+      "archived": true,
+      "archivedAt": null
+    },
+    {
+      "id": "istory20261001short",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-27",
+        "fb": "2026-09-27",
+        "shuusei": "2026-09-29",
+        "kansei": "2026-10-01",
+        "c_teishutsu": "2026-09-29",
+        "toukou": "2026-10-01"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "（企画名未定・ショート）",
+      "type": "ショート",
+      "postDate": "2026-10-01",
+      "currentStatus": "修正",
+      "material": "佐柄さん「来週の木曜日投稿予定のショート」。Takは確認を返信済み。※投稿日10/1は想定・要確認",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {}
+      },
+      "no": 549,
+      "postOrder": 53,
+      "archived": false,
+      "archivedAt": null
+    },
+    {
+      "id": "istory20261003nomihoudai",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-09-29",
+        "fb": "2026-09-29",
+        "shuusei": "2026-10-01",
+        "kansei": "2026-10-03",
+        "c_teishutsu": "2026-10-01",
+        "toukou": "2026-10-03"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "飲み放題で元を取る",
+      "type": "通常",
+      "postDate": "2026-10-03",
+      "currentStatus": "初稿",
+      "material": "佐柄さんへ渡した3本素材の2本目",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {}
+      },
+      "no": 550,
+      "postOrder": 54,
+      "archived": false,
+      "archivedAt": null
+    },
+    {
+      "id": "istory20261017beer",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-10-13",
+        "fb": "2026-10-13",
+        "shuusei": "2026-10-15",
+        "kansei": "2026-10-17",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "ビール1杯の内訳",
+      "type": "通常",
+      "postDate": "2026-10-17",
+      "currentStatus": "初稿",
+      "material": "佐柄さんへ渡した3本素材の3本目",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {}
+      },
+      "no": 551,
+      "postOrder": 55,
+      "archived": false,
+      "archivedAt": null
     }
   ]
 }
