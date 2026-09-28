@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-27T23:52:42.304Z",
+    "updatedAt": "2026-09-28T00:32:47.861Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28873,10 +28873,10 @@
       "id": "cmt96qmhx4",
       "channel": "綿久",
       "staff": "松金さん",
-      "title": "プロが使わないあったかアイテム",
+      "title": "秋にアレルギーが増える理由を睡眠のプロが解説",
       "type": "ショート",
       "postDate": "2026-09-28",
-      "currentStatus": "初稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28901,21 +28901,21 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "no": 516,
       "postOrder": 72,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
-        "currentStatus": false,
+        "currentStatus": true,
         "material": false,
         "stages": {
           "shoko": true,
@@ -28925,7 +28925,8 @@
           "c_teishutsu": true,
           "toukou": true
         }
-      }
+      },
+      "archivedAt": null
     },
     {
       "id": "cmt983x3t",
