@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-28T00:51:16.831Z",
+    "updatedAt": "2026-09-29T02:27:31.851Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -72,7 +72,7 @@
       "title": "TAKRAM会議",
       "type": "通常",
       "postDate": "2026-08-31",
-      "currentStatus": "完成",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kansei",
@@ -91,14 +91,14 @@
         "初稿": "完了",
         "FB": "完了",
         "修正": "完了",
-        "完成": "進行中",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "no": 1,
       "postOrder": 103,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -24543,7 +24543,7 @@
       "title": "はじめてのリンサークリーナー",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "修正",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -24574,11 +24574,11 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "進行中",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "no": 442,
       "postOrder": 77,
@@ -24595,7 +24595,7 @@
           "fb": true
         }
       },
-      "archived": false
+      "archived": true
     },
     {
       "id": "mrijjwy49gylk9za8f",
@@ -27448,7 +27448,7 @@
       "title": "融資は「この一枚」で決まる（事業計画書）",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "メイン動画 https://f.io/t_81TW7z ／ テキスト https://docs.google.com/document/d/10YbZG4RtuBf3VX7HenjUrkauAgomAEG_3KV0FfYj9Wo/edit",
       "enabledStages": [
         "kikaku",
@@ -27483,7 +27483,7 @@
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -27496,7 +27496,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 491,
       "postOrder": 16
     },
@@ -29109,7 +29109,7 @@
       "title": "四国サケタイム",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "修正",
+      "currentStatus": "クローズ",
       "material": "https://f.io/2g7FvWGL",
       "enabledStages": [
         "satsuei",
@@ -29132,17 +29132,17 @@
       "stageStatuses": {
         "企画": "完了",
         "撮影": "完了",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -29154,7 +29154,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 520,
       "postOrder": 45
     },
@@ -29218,7 +29218,7 @@
       "id": "mtjmory4kyvh98imts",
       "channel": "天領盃",
       "staff": "長尾さん",
-      "title": "蔵元がくやしかった日本酒",
+      "title": "刺激を受けた蔵",
       "type": "通常",
       "postDate": "2026-10-03",
       "currentStatus": "FB",
@@ -29899,7 +29899,7 @@
       "title": "歯医者が怖い人の克服法",
       "type": "通常",
       "postDate": "2026-09-26",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -29934,7 +29934,7 @@
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -29952,7 +29952,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 534,
       "postOrder": 15
     },
@@ -30830,11 +30830,11 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "enabledStages": [
         "kikaku",
@@ -30861,7 +30861,7 @@
       "title": "（企画名未定・ショート）",
       "type": "ショート",
       "postDate": "2026-10-01",
-      "currentStatus": "修正",
+      "currentStatus": "クローズ",
       "material": "佐柄さん「来週の木曜日投稿予定のショート」。Takは確認を返信済み。※投稿日10/1は想定・要確認",
       "_userSet": {
         "postDate": true,
@@ -30884,7 +30884,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -30917,7 +30917,7 @@
       "title": "飲み放題で元を取る",
       "type": "通常",
       "postDate": "2026-10-03",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "佐柄さんへ渡した3本素材の2本目",
       "_userSet": {
         "postDate": true,
