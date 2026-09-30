@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-30T02:00:29.767Z",
+    "updatedAt": "2026-09-30T12:32:34.261Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26752,7 +26752,7 @@
       "title": "いびき",
       "type": "通常",
       "postDate": "2026-10-03",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6",
       "enabledStages": [
         "shoko",
@@ -26771,7 +26771,7 @@
         "toukou": "2026-10-03"
       },
       "stageStatuses": {
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
