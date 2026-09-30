@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-29T02:27:31.851Z",
+    "updatedAt": "2026-09-30T01:59:21.646Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -51,7 +51,7 @@
     "SUMISYOU": {
       "postsPerWeek": 1,
       "lastPost": "2026-10-17",
-      "nextShoot": "2026-09-07"
+      "nextShoot": "2026-09-30"
     },
     "千勝会": {
       "postsPerWeek": 1,
@@ -107,7 +107,8 @@
         "stages": {
           "kansei": true
         }
-      }
+      },
+      "archivedAt": null
     },
     {
       "id": "mqr7c1ci969lb8l4cq",
@@ -24595,7 +24596,8 @@
           "fb": true
         }
       },
-      "archived": true
+      "archived": true,
+      "archivedAt": null
     },
     {
       "id": "mrijjwy49gylk9za8f",
@@ -27498,7 +27500,8 @@
       },
       "archived": true,
       "no": 491,
-      "postOrder": 16
+      "postOrder": 16,
+      "archivedAt": null
     },
     {
       "id": "msjsn52ewmtuq3vomj8",
@@ -29156,7 +29159,8 @@
       },
       "archived": true,
       "no": 520,
-      "postOrder": 45
+      "postOrder": 45,
+      "archivedAt": null
     },
     {
       "id": "mtjmory4pd2pbtbskkk",
@@ -29954,7 +29958,8 @@
       },
       "archived": true,
       "no": 534,
-      "postOrder": 15
+      "postOrder": 15,
+      "archivedAt": null
     },
     {
       "id": "isenkatsu20261003mitei",
