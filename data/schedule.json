@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:25:28.790Z",
+    "updatedAt": "2026-10-01T07:25:51.966Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -35,7 +35,8 @@
     },
     "iStory": {
       "postsPerWeek": 1,
-      "lastPost": "2026-10-17"
+      "lastPost": "2026-10-17",
+      "nextShoot": "2026-09-16"
     },
     "綿久": {
       "postsPerWeek": 1,
@@ -29445,8 +29446,64 @@
     {
       "id": "mtktzhvjqo219md2pl",
       "channel": "綿久",
-      "staff": "小島さん",
+      "staff": "YH",
       "title": "アメリカの最先端の睡眠",
+      "type": "通常",
+      "postDate": "2026-10-29",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-17",
+        "shoko": "2026-10-24",
+        "fb": "2026-10-25",
+        "shuusei": "2026-10-26",
+        "kansei": "2026-10-27",
+        "c_teishutsu": "2026-10-27",
+        "toukou": "2026-10-29"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 526,
+      "postOrder": 77
+    },
+    {
+      "id": "mtktzhvj9cm1r4uebk9",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "10万円台マットレス5選",
       "type": "通常",
       "postDate": "2026-10-08",
       "currentStatus": "初稿",
@@ -29461,7 +29518,7 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-17",
+        "satsuei": "2026-09-16",
         "shoko": "2026-10-03",
         "fb": "2026-10-04",
         "shuusei": "2026-10-05",
@@ -29495,14 +29552,14 @@
         }
       },
       "archived": false,
-      "no": 526,
+      "no": 527,
       "postOrder": 74
     },
     {
-      "id": "mtktzhvj9cm1r4uebk9",
+      "id": "mtktzhvjw9d4v2x8yxd",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "10万円台マットレス5選",
+      "title": "羽毛布団、買うなら\"今\"？失敗しない買い方と買い時",
       "type": "通常",
       "postDate": "2026-10-15",
       "currentStatus": "初稿",
@@ -29551,64 +29608,8 @@
         }
       },
       "archived": false,
-      "no": 527,
-      "postOrder": 75
-    },
-    {
-      "id": "mtktzhvjw9d4v2x8yxd",
-      "channel": "綿久",
-      "staff": "小島さん",
-      "title": "羽毛布団、買うなら\"今\"？失敗しない買い方と買い時",
-      "type": "通常",
-      "postDate": "2026-10-22",
-      "currentStatus": "初稿",
-      "material": "",
-      "enabledStages": [
-        "satsuei",
-        "shoko",
-        "fb",
-        "shuusei",
-        "kansei",
-        "c_teishutsu",
-        "toukou"
-      ],
-      "manualStageDates": {
-        "satsuei": "2026-09-16",
-        "shoko": "2026-10-17",
-        "fb": "2026-10-18",
-        "shuusei": "2026-10-19",
-        "kansei": "2026-10-20",
-        "c_teishutsu": "2026-10-20",
-        "toukou": "2026-10-22"
-      },
-      "stageStatuses": {
-        "企画": "完了",
-        "撮影": "完了",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
-      },
-      "_userSet": {
-        "postDate": true,
-        "postMark": false,
-        "currentStatus": true,
-        "material": false,
-        "stages": {
-          "satsuei": true,
-          "toukou": true
-        }
-      },
-      "archived": false,
       "no": 528,
-      "postOrder": 76
+      "postOrder": 75
     },
     {
       "id": "mtktzhvj90q9owyi8mj",
@@ -29616,7 +29617,7 @@
       "staff": "小島さん",
       "title": "【ニトリ・無印・西川】この冬の\"あったか敷きパッド\"徹底比較",
       "type": "通常",
-      "postDate": "2026-10-29",
+      "postDate": "2026-11-05",
       "currentStatus": "撮影",
       "material": "",
       "enabledStages": [
@@ -29630,12 +29631,12 @@
       ],
       "manualStageDates": {
         "satsuei": "2026-10-07",
-        "shoko": "2026-10-24",
-        "fb": "2026-10-25",
-        "shuusei": "2026-10-26",
-        "kansei": "2026-10-27",
-        "c_teishutsu": "2026-10-27",
-        "toukou": "2026-10-29"
+        "shoko": "2026-10-31",
+        "fb": "2026-11-01",
+        "shuusei": "2026-11-02",
+        "kansei": "2026-11-03",
+        "c_teishutsu": "2026-11-03",
+        "toukou": "2026-11-05"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29664,7 +29665,7 @@
       },
       "archived": false,
       "no": 529,
-      "postOrder": 77
+      "postOrder": 78
     },
     {
       "id": "mtktzhvjj8s7n42qk9",
@@ -29672,7 +29673,7 @@
       "staff": "小島さん",
       "title": "不眠症の人の対策（視聴者の声）",
       "type": "通常",
-      "postDate": "2026-11-05",
+      "postDate": "2026-10-22",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -29686,12 +29687,12 @@
       ],
       "manualStageDates": {
         "satsuei": "2026-09-17",
-        "shoko": "2026-10-31",
-        "fb": "2026-11-01",
-        "shuusei": "2026-11-02",
-        "kansei": "2026-11-03",
-        "c_teishutsu": "2026-11-03",
-        "toukou": "2026-11-05"
+        "shoko": "2026-10-17",
+        "fb": "2026-10-18",
+        "shuusei": "2026-10-19",
+        "kansei": "2026-10-20",
+        "c_teishutsu": "2026-10-20",
+        "toukou": "2026-10-22"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29725,7 +29726,7 @@
       },
       "archived": false,
       "no": 530,
-      "postOrder": 78
+      "postOrder": 76
     },
     {
       "id": "m3phmtr143jx",
