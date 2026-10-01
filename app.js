@@ -31,7 +31,7 @@ async function loadShootDates() {
 }
 const VIEWER_POLL_MS = 10000;
 /** 最終投稿日から撮影期限までの日数（週本数 → 日数） */
-const SHOOT_DEADLINE_DAYS = { 1: 14, 2: 18 };
+const SHOOT_DEADLINE_DAYS = { 1: 14, 2: 18, 0.5: 14 };
 
 const STATUS_OPTIONS = [
   '企画', '撮影', '施工', '台本', 'FB（施工・台本）', 'アフレコ', '初稿', 'FB', '修正',
@@ -1361,7 +1361,7 @@ function getShootingEntry(channel) {
 
 function shootDeadlineHelpText() {
   return Object.entries(SHOOT_DEADLINE_DAYS)
-    .map(([w, days]) => `週${w}→-${days}日`)
+    .map(([w, days]) => `${w=='0.5'?'隔週1':'週'+w}→-${days}日`)
     .join('、');
 }
 
@@ -3422,7 +3422,7 @@ function buildShootingSchedule() {
     return `<td><select class="shoot-weekly" data-ch="${escAttr(ch)}" data-field="postsPerWeek">
       <option value=""${value === '' ? ' selected' : ''}>—</option>
       <option value="1"${value === 1 ? ' selected' : ''}>週1</option>
-      <option value="2"${value === 2 ? ' selected' : ''}>週2</option>
+      <option value="2"${value === 2 ? ' selected' : ''}>週2</option><option value="0.5">隔週1</option>
     </select></td>`;
   };
 
