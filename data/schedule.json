@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:25:51.966Z",
+    "updatedAt": "2026-10-01T07:27:53.993Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28938,7 +28938,7 @@
       "title": "遮熱マニュアル",
       "type": "通常",
       "postDate": "2026-08-31",
-      "currentStatus": "投稿",
+      "currentStatus": "クローズ",
       "material": "",
       "enabledStages": [
         "shikou",
@@ -28987,7 +28987,15 @@
         "currentStatus": true,
         "material": false,
         "stages": {
-          "c_teishutsu": true
+          "c_teishutsu": true,
+          "shikou": true,
+          "daihon": true,
+          "fb_shitai": true,
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true
         }
       }
     },
