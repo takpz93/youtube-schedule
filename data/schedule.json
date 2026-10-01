@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-09-30T23:50:25.203Z",
+    "updatedAt": "2026-10-01T07:19:38.489Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29671,7 +29671,7 @@
       "id": "mtktzhvjj8s7n42qk9",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "不眠症の人の対策",
+      "title": "不眠症の人の対策（視聴者の声）",
       "type": "通常",
       "postDate": "2026-11-05",
       "currentStatus": "初稿",
@@ -29701,7 +29701,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -29716,7 +29716,12 @@
         "material": false,
         "stages": {
           "satsuei": true,
-          "toukou": true
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false,
