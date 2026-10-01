@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:28:19.595Z",
+    "updatedAt": "2026-10-01T07:28:35.317Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26698,7 +26698,7 @@
       "title": "青汁",
       "type": "通常",
       "postDate": "2026-09-29",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6",
       "enabledStages": [
         "shoko",
@@ -26718,9 +26718,9 @@
       },
       "stageStatuses": {
         "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "進行中",
         "C提出": "未着手",
         "投稿": "未着手",
         "企画": "未着手",
@@ -26739,7 +26739,9 @@
         "stages": {
           "kikaku": true,
           "satsuei": true,
-          "toukou": true
+          "toukou": true,
+          "fb": true,
+          "shuusei": true
         }
       },
       "archived": false,
