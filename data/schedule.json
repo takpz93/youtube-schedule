@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:28:49.038Z",
+    "updatedAt": "2026-10-01T07:28:51.279Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26747,9 +26747,10 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 478,
-      "postOrder": 112
+      "postOrder": 112,
+      "archivedAt": "2026-10-01T07:28:50.473Z"
     },
     {
       "id": "msiplbxd6i5ujwr03ys",
