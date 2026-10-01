@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:27:53.993Z",
+    "updatedAt": "2026-10-01T07:27:57.514Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28980,7 +28980,7 @@
       },
       "no": 517,
       "postOrder": 53,
-      "archived": false,
+      "archived": true,
       "_userSet": {
         "postDate": true,
         "postMark": false,
@@ -28997,7 +28997,8 @@
           "shuusei": true,
           "kansei": true
         }
-      }
+      },
+      "archivedAt": "2026-10-01T07:27:56.705Z"
     },
     {
       "id": "mtj9pgv0ah7bt7wz91k",
