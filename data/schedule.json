@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:28:38.164Z",
+    "updatedAt": "2026-10-01T07:28:40.230Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26698,7 +26698,7 @@
       "title": "青汁",
       "type": "通常",
       "postDate": "2026-09-29",
-      "currentStatus": "完成",
+      "currentStatus": "C提出",
       "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6",
       "enabledStages": [
         "shoko",
@@ -26722,7 +26722,7 @@
         "修正": "完了",
         "完成": "完了",
         "C提出": "進行中",
-        "投稿": "未着手",
+        "投稿": "完了",
         "企画": "未着手",
         "撮影": "未着手",
         "施工": "未着手",
