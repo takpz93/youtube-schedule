@@ -3397,9 +3397,10 @@ function refreshShootDeadlineCell(row, entry) {
   cell.innerHTML = `<span class="shoot-deadline-val${overdue ? ' is-over' : ''}">${text}</span>`;
 }
 
+function shootChannelList(){return ['綿久','KINS','SUMISYOU','天領盃','BPP','iStory','千勝会','Actvision'];}
 function buildShootingSchedule() {
   ensureShootingScheduleChannels();
-  const channels = getChannelList();
+  const channels = shootChannelList();
   const wrap = document.createElement('div');
   wrap.className = 'dash-wrap';
   const editable = canEdit();
