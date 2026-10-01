@@ -31,6 +31,7 @@ async function loadShootDates() {
 }
 const VIEWER_POLL_MS = 10000;
 /** 最終投稿日から撮影期限までの日数（週本数 → 日数） */
+function __ppwOk(x){const n=Number(x);return n===1||n===2||n===0.5;}
 const SHOOT_DEADLINE_DAYS = { 1: 14, 2: 18, 0.5: 14 };
 
 const STATUS_OPTIONS = [
@@ -1342,9 +1343,7 @@ function normalizeShootingSchedule(raw) {
       return d ? dateToInput(d) : '';
     };
     out[ch] = {
-      postsPerWeek: v.postsPerWeek === 2 || v.postsPerWeek === '2' ? 2
-        : (v.postsPerWeek === 1 || v.postsPerWeek === '1' ? 1 : ''),
-      lastPost: norm(v.lastPost),
+      postsPerWeek: __ppwOk(v.postsPerWeek) ? Number(v.postsPerWeek) : '', lastPost: norm(v.lastPost),
       nextShoot: norm(v.nextShoot),
       nextNextShoot: norm(v.nextNextShoot),
     };
@@ -1412,17 +1411,17 @@ function applyShootingSchedule(data, { persistLocal = true } = {}) {
   if (persistLocal && !isLockedTeamViewer()) persistShootingSchedule();
 }
 
-function serializeShootingSchedule() {
-  const out = {};
+function serializeShootingSchedule(){
+  const out={};
   ensureShootingScheduleChannels();
-  getChannelList().forEach(ch => {
-    const e = getShootingEntry(ch);
-    const row = {};
-    if (e.postsPerWeek === 1 || e.postsPerWeek === 2) row.postsPerWeek = e.postsPerWeek;
-    if (e.lastPost) row.lastPost = e.lastPost;
-    if (e.nextShoot) row.nextShoot = e.nextShoot;
-    if (e.nextNextShoot) row.nextNextShoot = e.nextNextShoot;
-    if (Object.keys(row).length) out[ch] = row;
+  getChannelList().forEach(ch=>{
+    const e=getShootingEntry(ch);
+    const row={};
+    if(__ppwOk(e.postsPerWeek)) row.postsPerWeek=Number(e.postsPerWeek);
+    if(e.lastPost) row.lastPost=e.lastPost;
+    if(e.nextShoot) row.nextShoot=e.nextShoot;
+    if(e.nextNextShoot) row.nextNextShoot=e.nextNextShoot;
+    if(Object.keys(row).length) out[ch]=row;
   });
   return out;
 }
