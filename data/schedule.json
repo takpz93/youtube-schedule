@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-01T07:28:15.069Z",
+    "updatedAt": "2026-10-01T07:28:19.595Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26688,7 +26688,8 @@
       },
       "no": 477,
       "postOrder": 111,
-      "archived": false
+      "archived": true,
+      "archivedAt": "2026-10-01T07:28:18.788Z"
     },
     {
       "id": "msiplbxdm2uuh8so0p",
