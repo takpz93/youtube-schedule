@@ -3421,7 +3421,7 @@ function buildShootingSchedule() {
     return `<td><select class="shoot-weekly" data-ch="${escAttr(ch)}" data-field="postsPerWeek">
       <option value=""${value === '' ? ' selected' : ''}>—</option>
       <option value="1"${value === 1 ? ' selected' : ''}>週1</option>
-      <option value="2"${value === 2 ? ' selected' : ''}>週2</option><option value="0.5">隔週1</option>
+      <option value="2"${value === 2 ? ' selected' : ''}>週2</option><option value="0.5"${value === 0.5 ? ' selected' : ''}>隔週1</option>
     </select></td>`;
   };
 
