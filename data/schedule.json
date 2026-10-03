@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-03T03:10:57.116Z",
+    "updatedAt": "2026-10-03T03:20:34.111Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28102,11 +28102,11 @@
         "toukou"
       ],
       "manualStageDates": {
-        "shoko": "2026-09-11",
-        "fb": "2026-09-12",
-        "shuusei": "2026-09-14",
-        "kansei": "2026-09-14",
-        "toukou": "2026-10-02"
+        "shoko": "2026-09-17",
+        "fb": "2026-09-18",
+        "shuusei": "2026-09-20",
+        "kansei": "2026-09-20",
+        "toukou": "2026-10-08"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28157,11 +28157,11 @@
         "toukou"
       ],
       "manualStageDates": {
-        "shoko": "2026-09-18",
-        "fb": "2026-09-19",
-        "shuusei": "2026-09-21",
-        "kansei": "2026-09-21",
-        "toukou": "2026-10-09"
+        "shoko": "2026-09-24",
+        "fb": "2026-09-25",
+        "shuusei": "2026-09-27",
+        "kansei": "2026-09-27",
+        "toukou": "2026-10-15"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28193,7 +28193,7 @@
       },
       "archived": false,
       "no": 503,
-      "postOrder": 64
+      "postOrder": 65
     },
     {
       "id": "mt259rkdyvic2w8v58m",
@@ -28212,11 +28212,11 @@
         "toukou"
       ],
       "manualStageDates": {
-        "shoko": "2026-09-25",
-        "fb": "2026-09-26",
-        "shuusei": "2026-09-28",
-        "kansei": "2026-09-28",
-        "toukou": "2026-10-16"
+        "shoko": "2026-10-01",
+        "fb": "2026-10-02",
+        "shuusei": "2026-10-04",
+        "kansei": "2026-10-04",
+        "toukou": "2026-10-22"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -28248,7 +28248,7 @@
       },
       "archived": false,
       "no": 504,
-      "postOrder": 65
+      "postOrder": 67
     },
     {
       "id": "mt3l6gnxuy86o988dfm",
@@ -30175,7 +30175,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 66
+      "postOrder": 64
     },
     {
       "id": "bpp20261016bike",
@@ -30242,7 +30242,7 @@
       },
       "archived": false,
       "no": 538,
-      "postOrder": 67
+      "postOrder": 66
     },
     {
       "id": "bpp20261023landcruiser",
