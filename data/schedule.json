@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-05T05:26:29.135Z",
+    "updatedAt": "2026-10-06T19:13:41.089Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26815,7 +26815,7 @@
       "title": "推し菌",
       "type": "通常",
       "postDate": "2026-10-06",
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "material": "https://111.gigafile.nu/1225-646b1069aa9746e856bce6ec88f889b6\nhttps://48.gigafile.nu/1225-73a555597cad822154e53a8a565c2fee",
       "enabledStages": [
         "shoko",
@@ -26836,17 +26836,17 @@
       "stageStatuses": {
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手",
+        "修正": "完了",
+        "完成": "完了",
+        "C提出": "完了",
+        "投稿": "完了",
         "企画": "完了",
         "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "M提出": "未着手"
+        "M提出": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -26859,7 +26859,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 480,
       "postOrder": 114
     },
@@ -27099,10 +27099,10 @@
       "id": "msipqckgwss6lpm2db",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "10/6",
+      "title": "腸活を始めてやめたこと",
       "type": "通常",
       "postDate": "2026-10-24",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27126,7 +27126,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -27158,10 +27158,10 @@
       "id": "msipqckgvj2k67zqpqh",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "10/6",
+      "title": "韓国料理格付け",
       "type": "通常",
       "postDate": "2026-10-27",
-      "currentStatus": "撮影",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27185,7 +27185,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -27217,10 +27217,10 @@
       "id": "msipqckg49oc1vjx66a",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "10/6",
+      "title": "腸活のプロが買って良かったもの",
       "type": "通常",
-      "postDate": "2026-10-31",
-      "currentStatus": "撮影",
+      "postDate": "2026-11-06",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27235,16 +27235,16 @@
       "manualStageDates": {
         "kikaku": "2026-09-22",
         "satsuei": "2026-10-06",
-        "shoko": "2026-10-26",
-        "fb": "2026-10-27",
-        "shuusei": "2026-10-28",
-        "kansei": "2026-10-29",
-        "c_teishutsu": "2026-10-29",
-        "toukou": "2026-10-31"
+        "shoko": "2026-11-01",
+        "fb": "2026-11-02",
+        "shuusei": "2026-11-03",
+        "kansei": "2026-11-04",
+        "c_teishutsu": "2026-11-04",
+        "toukou": "2026-11-06"
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -27276,10 +27276,10 @@
       "id": "msipqckggr83phii2tq",
       "channel": "KINS",
       "staff": "松金さん",
-      "title": "10/6",
+      "title": "韓国調味料格付け",
       "type": "通常",
-      "postDate": "2026-11-03",
-      "currentStatus": "撮影",
+      "postDate": "2026-11-13",
+      "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -27294,16 +27294,16 @@
       "manualStageDates": {
         "kikaku": "2026-09-22",
         "satsuei": "2026-10-06",
-        "shoko": "2026-10-29",
-        "fb": "2026-10-30",
-        "shuusei": "2026-10-31",
-        "kansei": "2026-11-01",
-        "c_teishutsu": "2026-11-01",
-        "toukou": "2026-11-03"
+        "shoko": "2026-11-08",
+        "fb": "2026-11-09",
+        "shuusei": "2026-11-10",
+        "kansei": "2026-11-11",
+        "c_teishutsu": "2026-11-11",
+        "toukou": "2026-11-13"
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "未着手",
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
@@ -31052,7 +31052,13 @@
         "修正": "未着手",
         "完成": "未着手",
         "C提出": "未着手",
-        "投稿": "未着手"
+        "投稿": "未着手",
+        "企画": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "M提出": "未着手"
       },
       "_userSet": {
         "postDate": true,
