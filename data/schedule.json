@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-07T11:46:11.346Z",
+    "updatedAt": "2026-10-07T19:42:29.384Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26871,7 +26871,7 @@
       "title": "脂肪肝",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "https://48.gigafile.nu/1225-73a555597cad822154e53a8a565c2fee",
       "enabledStages": [
         "shoko",
@@ -26890,18 +26890,18 @@
         "toukou": "2026-10-10"
       },
       "stageStatuses": {
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
         "C提出": "未着手",
         "投稿": "未着手",
-        "企画": "未着手",
-        "撮影": "未着手",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
         "M提出": "未着手"
       },
       "_userSet": {
@@ -28096,7 +28096,7 @@
       "title": "モデルY",
       "type": "ショート",
       "postDate": "2026-10-08",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28119,13 +28119,13 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -28151,7 +28151,7 @@
       "title": "フェアレディZ",
       "type": "ショート",
       "postDate": "2026-10-15",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shoko",
@@ -28174,13 +28174,13 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "進行中",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -28197,7 +28197,7 @@
       },
       "archived": false,
       "no": 503,
-      "postOrder": 65
+      "postOrder": 64
     },
     {
       "id": "mt259rkdyvic2w8v58m",
@@ -28252,7 +28252,7 @@
       },
       "archived": false,
       "no": 504,
-      "postOrder": 67
+      "postOrder": 65
     },
     {
       "id": "mt3l6gnxuy86o988dfm",
@@ -29301,7 +29301,7 @@
       "title": "天領盃と同世代の蔵が作る日本酒",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29324,11 +29324,11 @@
       "stageStatuses": {
         "企画": "完了",
         "撮影": "完了",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -29527,7 +29527,7 @@
       "title": "10万円台マットレス5選",
       "type": "通常",
       "postDate": "2026-10-08",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29550,16 +29550,16 @@
       "stageStatuses": {
         "企画": "完了",
         "撮影": "完了",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -30122,7 +30122,7 @@
       "staff": "YH",
       "title": "マスタング 車内（バイオガード）",
       "type": "通常",
-      "postDate": "2026-10-09",
+      "postDate": "2026-10-29",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -30181,7 +30181,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 64
+      "postOrder": 66
     },
     {
       "id": "bpp20261016bike",
@@ -30189,8 +30189,8 @@
       "staff": "YH",
       "title": "HONDA TLR200 遮熱（ヒートガード）",
       "type": "通常",
-      "postDate": "2026-10-16",
-      "currentStatus": "初稿",
+      "postDate": "2026-10-09",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "shikou",
@@ -30223,12 +30223,12 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -30248,7 +30248,7 @@
       },
       "archived": false,
       "no": 538,
-      "postOrder": 66
+      "postOrder": 67
     },
     {
       "id": "bpp20261023landcruiser",
@@ -30445,7 +30445,7 @@
       "staff": "加畑さん(MEK)",
       "title": "はじめての拭き上げ",
       "type": "通常",
-      "postDate": "2026-10-17",
+      "postDate": "2026-10-24",
       "currentStatus": "初稿",
       "material": "https://9.gigafile.nu/1225-f68da68a1306572798626806f0843716",
       "enabledStages": [
@@ -30459,14 +30459,14 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-15",
-        "kikaku": "2026-09-15",
-        "shoko": "2026-10-13",
-        "fb": "2026-10-14",
-        "shuusei": "2026-10-15",
-        "kansei": "2026-10-15",
-        "c_teishutsu": "2026-10-15",
-        "toukou": "2026-10-17"
+        "satsuei": "2026-09-22",
+        "kikaku": "2026-09-22",
+        "shoko": "2026-10-20",
+        "fb": "2026-10-21",
+        "shuusei": "2026-10-22",
+        "kansei": "2026-10-22",
+        "c_teishutsu": "2026-10-22",
+        "toukou": "2026-10-24"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -31130,6 +31130,67 @@
       "archived": false,
       "no": 553,
       "postOrder": 79
+    },
+    {
+      "id": "sumisyou20261017coating",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "コーティング車のメンテナンス",
+      "type": "通常",
+      "postDate": "2026-10-17",
+      "currentStatus": "企画",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-15",
+        "kikaku": "2026-09-15",
+        "shoko": "2026-10-13",
+        "fb": "2026-10-14",
+        "shuusei": "2026-10-15",
+        "kansei": "2026-10-15",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
+      },
+      "stageStatuses": {
+        "企画": "未着手",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 554,
+      "postOrder": 81
     }
   ]
 }
