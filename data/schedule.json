@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-06T19:32:55.097Z",
+    "updatedAt": "2026-10-07T10:27:36.339Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29639,8 +29639,8 @@
       "title": "【ニトリ・無印・西川】この冬の\"あったか敷きパッド\"徹底比較",
       "type": "通常",
       "postDate": "2026-11-05",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-10-07 先方収録（LINE「みうち先生 現場チーム」Terukoさん 19:12）\nタイトル連絡：「2026年あったか敷きパッド」\nギガファイル便：https://121.gigafile.nu/0115-ge9215aa219ab8d702f0d4bb1d44e78c6\n※保存期間に上限あり。早めにダウンロードして保管する。",
       "enabledStages": [
         "satsuei",
         "shoko",
@@ -29661,11 +29661,11 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "進行中",
-        "施工": "未着手",
-        "台本": "未着手",
-        "FB（施工・台本）": "未着手",
-        "アフレコ": "未着手",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
         "初稿": "未着手",
         "FB": "未着手",
         "修正": "未着手",
@@ -31074,6 +31074,62 @@
       "archived": false,
       "no": 552,
       "postOrder": 49
+    },
+    {
+      "id": "watakyumuxyriib",
+      "channel": "綿久",
+      "staff": "小島さん",
+      "title": "Airと&Free対決",
+      "type": "通常",
+      "postDate": "2026-11-12",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-10-07 先方収録（LINE「みうち先生 現場チーム」Terukoさん 19:12）\nタイトル連絡：「Airと&Free対決」\nギガファイル便：https://121.gigafile.nu/0115-n2f27df16c335f3763b41274076926da0\n※保存期間に上限あり。早めにダウンロードして保管する。\n\n**投稿日 2026-11-12(木) は仮。**綿久は毎週木曜投稿で、11/5の次が空いていたため仮置き。Takの確認待ち。",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-07",
+        "shoko": "2026-11-07",
+        "fb": "2026-11-08",
+        "shuusei": "2026-11-09",
+        "kansei": "2026-11-10",
+        "c_teishutsu": "2026-11-10",
+        "toukou": "2026-11-12"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 553,
+      "postOrder": 79
     }
   ]
 }
