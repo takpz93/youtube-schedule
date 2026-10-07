@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-07T19:42:44.385Z",
+    "updatedAt": "2026-10-07T19:53:50.390Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28197,7 +28197,7 @@
       },
       "archived": false,
       "no": 503,
-      "postOrder": 64
+      "postOrder": 65
     },
     {
       "id": "mt259rkdyvic2w8v58m",
@@ -28252,7 +28252,7 @@
       },
       "archived": false,
       "no": 504,
-      "postOrder": 65
+      "postOrder": 66
     },
     {
       "id": "mt3l6gnxuy86o988dfm",
@@ -30059,7 +30059,7 @@
       "title": "歯周ポケット",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -30089,7 +30089,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -30181,7 +30181,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 66
+      "postOrder": 68
     },
     {
       "id": "bpp20261016bike",
@@ -30248,7 +30248,7 @@
       },
       "archived": false,
       "no": 538,
-      "postOrder": 67
+      "postOrder": 64
     },
     {
       "id": "bpp20261023landcruiser",
@@ -30315,7 +30315,7 @@
       },
       "archived": false,
       "no": 539,
-      "postOrder": 68
+      "postOrder": 67
     },
     {
       "id": "bpp20261030delica",
@@ -30498,7 +30498,7 @@
       },
       "archived": false,
       "no": 542,
-      "postOrder": 80
+      "postOrder": 81
     },
     {
       "id": "istory20260924shortkanji",
@@ -31190,7 +31190,7 @@
       },
       "archived": false,
       "no": 554,
-      "postOrder": 81
+      "postOrder": 80
     }
   ]
 }
