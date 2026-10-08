@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-08T21:21:19.246Z",
+    "updatedAt": "2026-10-08T21:44:14.238Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28142,7 +28142,8 @@
       },
       "archived": true,
       "no": 502,
-      "postOrder": 63
+      "postOrder": 63,
+      "archivedAt": null
     },
     {
       "id": "mt259rkdrkadze3ckhs",
@@ -29574,7 +29575,8 @@
       },
       "archived": true,
       "no": 527,
-      "postOrder": 74
+      "postOrder": 74,
+      "archivedAt": null
     },
     {
       "id": "mtktzhvjw9d4v2x8yxd",
@@ -30229,7 +30231,7 @@
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
