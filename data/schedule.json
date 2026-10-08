@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-08T13:13:56.256Z",
+    "updatedAt": "2026-10-08T21:21:03.246Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26871,7 +26871,7 @@
       "title": "脂肪肝",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "material": "https://48.gigafile.nu/1225-73a555597cad822154e53a8a565c2fee",
       "enabledStages": [
         "shoko",
@@ -26892,9 +26892,9 @@
       "stageStatuses": {
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "C提出": "未着手",
+        "修正": "完了",
+        "完成": "完了",
+        "C提出": "完了",
         "投稿": "未着手",
         "企画": "完了",
         "撮影": "完了",
@@ -26902,7 +26902,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "M提出": "未着手"
+        "M提出": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -27153,7 +27153,7 @@
       },
       "archived": false,
       "no": 485,
-      "postOrder": 119
+      "postOrder": 121
     },
     {
       "id": "msipqckgvj2k67zqpqh",
@@ -27271,7 +27271,7 @@
       },
       "archived": false,
       "no": 487,
-      "postOrder": 121
+      "postOrder": 123
     },
     {
       "id": "msipqckggr83phii2tq",
@@ -27330,7 +27330,7 @@
       },
       "archived": false,
       "no": 488,
-      "postOrder": 122
+      "postOrder": 125
     },
     {
       "id": "msjsn52djdpfh4wu79",
@@ -28140,7 +28140,7 @@
           "kansei": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 502,
       "postOrder": 63
     },
@@ -28430,7 +28430,7 @@
       "title": "台風後の洗車",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "material": "https://38.gigafile.nu/1202-192ac9591204c42a971c25092049f044\n\n【初稿】2026-10-06 10:30頃 LINEで到着（MEK 加畑さん）\nframe.io：https://f.io/8nOc3Snk\n〈目次〉01:30 洗車前の準備／02:36 予洗い／05:25 本洗い／07:30 本洗い 窓枠／08:00 洗車のタイミング／09:45 足回り／09:58 洗車のタイミング②／10:45 拭き上げ／11:47 エンディング\n※タイトル案への所見は返さない（10/6 Tak判断）\n\n【訂正 2026-10-07】企画名を「コーティング車のメンテナンス」→「台風後の洗車」に変更。\nTakより「今週は台風後の洗車。コーティング車のメンテナンスは来週」。",
       "enabledStages": [
         "shoko",
@@ -28457,10 +28457,10 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -29301,7 +29301,7 @@
       "title": "天領盃と同世代の蔵が作る日本酒",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29330,10 +29330,10 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -29560,7 +29560,7 @@
         "完成": "完了",
         "M提出": "完了",
         "C提出": "完了",
-        "投稿": "未着手"
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -29572,7 +29572,7 @@
           "toukou": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 527,
       "postOrder": 74
     },
@@ -30059,7 +30059,7 @@
       "title": "歯周ポケット",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "修正",
+      "currentStatus": "M提出",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -30090,8 +30090,8 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
+        "修正": "完了",
+        "完成": "完了",
         "M提出": "未着手",
         "C提出": "未着手",
         "投稿": "未着手"
@@ -30570,7 +30570,7 @@
       "postDate": "2026-10-10",
       "material": "",
       "archived": false,
-      "currentStatus": "修正",
+      "currentStatus": "投稿",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -30590,10 +30590,10 @@
         "アフレコ": "完了",
         "初稿": "完了",
         "FB": "完了",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "manualStageDates": {
@@ -31249,7 +31249,7 @@
       },
       "archived": false,
       "no": 555,
-      "postOrder": 123
+      "postOrder": 119
     },
     {
       "id": "kins20261103asaroutine",
@@ -31308,7 +31308,7 @@
       },
       "archived": false,
       "no": 556,
-      "postOrder": 124
+      "postOrder": 122
     },
     {
       "id": "kins20261110gogoshuchu",
@@ -31367,7 +31367,7 @@
       },
       "archived": false,
       "no": 557,
-      "postOrder": 125
+      "postOrder": 124
     }
   ]
 }
