@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-08T06:48:43.493Z",
+    "updatedAt": "2026-10-08T13:13:56.256Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -21177,7 +21177,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 379,
-      "postOrder": 123,
+      "postOrder": 126,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -27102,7 +27102,7 @@
       "staff": "松金さん",
       "title": "腸活を始めてやめたこと",
       "type": "通常",
-      "postDate": "2026-10-24",
+      "postDate": "2026-10-31",
       "currentStatus": "初稿",
       "material": "【撮影素材】2026-10-06 KINSオフィスで撮影（1日4本・現場4h）\nギガファイル便：https://120.gigafile.nu/0115-6f5040d52faa13048a63572890413660\n※ギガファイル便は保存期間に上限あり。早めにダウンロードして保管する。",
       "enabledStages": [
@@ -27118,12 +27118,12 @@
       "manualStageDates": {
         "kikaku": "2026-09-22",
         "satsuei": "2026-10-06",
-        "shoko": "2026-10-19",
-        "fb": "2026-10-20",
-        "shuusei": "2026-10-21",
-        "kansei": "2026-10-22",
-        "c_teishutsu": "2026-10-22",
-        "toukou": "2026-10-24"
+        "shoko": "2026-10-26",
+        "fb": "2026-10-27",
+        "shuusei": "2026-10-28",
+        "kansei": "2026-10-29",
+        "c_teishutsu": "2026-10-29",
+        "toukou": "2026-10-31"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -31191,6 +31191,183 @@
       "archived": false,
       "no": 554,
       "postOrder": 80
+    },
+    {
+      "id": "kins20261024furusato",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "ふるさと納税",
+      "type": "通常",
+      "postDate": "2026-10-24",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-10-08 KINSオフィスで撮影（3本）\nhttps://6.gigafile.nu/0116-5b180fb0607d3e536c23df7d8afcd5a9",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-10-08",
+        "satsuei": "2026-10-08",
+        "shoko": "2026-10-19",
+        "fb": "2026-10-20",
+        "shuusei": "2026-10-21",
+        "kansei": "2026-10-22",
+        "c_teishutsu": "2026-10-22",
+        "toukou": "2026-10-24"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 555,
+      "postOrder": 123
+    },
+    {
+      "id": "kins20261103asaroutine",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "朝のルーティン",
+      "type": "通常",
+      "postDate": "2026-11-03",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-10-08 KINSオフィスで撮影（3本）\nhttps://6.gigafile.nu/0116-383f90e6b0f4b21cef82561370f616a5",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-10-08",
+        "satsuei": "2026-10-08",
+        "shoko": "2026-10-29",
+        "fb": "2026-10-30",
+        "shuusei": "2026-10-31",
+        "kansei": "2026-11-01",
+        "c_teishutsu": "2026-11-01",
+        "toukou": "2026-11-03"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 556,
+      "postOrder": 124
+    },
+    {
+      "id": "kins20261110gogoshuchu",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "午後の集中力",
+      "type": "通常",
+      "postDate": "2026-11-10",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-10-08 KINSオフィスで撮影（3本）\nhttps://6.gigafile.nu/0116-60b969dd160911b407f2a1c31d022920",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-10-08",
+        "satsuei": "2026-10-08",
+        "shoko": "2026-11-05",
+        "fb": "2026-11-06",
+        "shuusei": "2026-11-07",
+        "kansei": "2026-11-08",
+        "c_teishutsu": "2026-11-08",
+        "toukou": "2026-11-10"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 557,
+      "postOrder": 125
     }
   ]
 }
