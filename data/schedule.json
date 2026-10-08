@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-08T21:21:03.246Z",
+    "updatedAt": "2026-10-08T21:21:19.246Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -30059,7 +30059,7 @@
       "title": "歯周ポケット",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "M提出",
+      "currentStatus": "C提出",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -30092,7 +30092,7 @@
         "FB": "完了",
         "修正": "完了",
         "完成": "完了",
-        "M提出": "未着手",
+        "M提出": "完了",
         "C提出": "未着手",
         "投稿": "未着手"
       },
