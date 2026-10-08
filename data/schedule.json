@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-07T20:01:53.395Z",
+    "updatedAt": "2026-10-08T06:48:43.493Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26871,7 +26871,7 @@
       "title": "脂肪肝",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://48.gigafile.nu/1225-73a555597cad822154e53a8a565c2fee",
       "enabledStages": [
         "shoko",
@@ -26891,7 +26891,7 @@
       },
       "stageStatuses": {
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "C提出": "未着手",
@@ -28430,7 +28430,7 @@
       "title": "台風後の洗車",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "https://38.gigafile.nu/1202-192ac9591204c42a971c25092049f044\n\n【初稿】2026-10-06 10:30頃 LINEで到着（MEK 加畑さん）\nframe.io：https://f.io/8nOc3Snk\n〈目次〉01:30 洗車前の準備／02:36 予洗い／05:25 本洗い／07:30 本洗い 窓枠／08:00 洗車のタイミング／09:45 足回り／09:58 洗車のタイミング②／10:45 拭き上げ／11:47 エンディング\n※タイトル案への所見は返さない（10/6 Tak判断）\n\n【訂正 2026-10-07】企画名を「コーティング車のメンテナンス」→「台風後の洗車」に変更。\nTakより「今週は台風後の洗車。コーティング車のメンテナンスは来週」。",
       "enabledStages": [
         "shoko",
@@ -28456,7 +28456,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -29301,7 +29301,7 @@
       "title": "天領盃と同世代の蔵が作る日本酒",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29329,7 +29329,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -30181,7 +30181,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 67
+      "postOrder": 68
     },
     {
       "id": "bpp20261016bike",
@@ -30315,7 +30315,7 @@
       },
       "archived": false,
       "no": 539,
-      "postOrder": 68
+      "postOrder": 67
     },
     {
       "id": "bpp20261030delica",
@@ -30570,7 +30570,7 @@
       "postDate": "2026-10-10",
       "material": "",
       "archived": false,
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -30589,7 +30589,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
