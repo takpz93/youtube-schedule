@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-12T01:37:19.330Z",
+    "updatedAt": "2026-10-12T02:08:28.977Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -26926,7 +26926,7 @@
       "title": "はちみつ5選",
       "type": "通常",
       "postDate": "2026-10-13",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "https://53.gigafile.nu/0103-eb1f3a8fc132ce21a66898a3d1c988b1",
       "enabledStages": [
         "kikaku",
@@ -26955,12 +26955,12 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
         "M提出": "未着手",
-        "C提出": "未着手",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -29585,7 +29585,7 @@
       "title": "羽毛布団、買うなら\"今\"？失敗しない買い方と買い時",
       "type": "通常",
       "postDate": "2026-10-15",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29612,8 +29612,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -30061,7 +30061,7 @@
       "title": "歯周ポケット",
       "type": "通常",
       "postDate": "2026-10-10",
-      "currentStatus": "C提出",
+      "currentStatus": "投稿",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -30095,8 +30095,8 @@
         "修正": "完了",
         "完成": "完了",
         "M提出": "完了",
-        "C提出": "未着手",
-        "投稿": "未着手"
+        "C提出": "完了",
+        "投稿": "完了"
       },
       "_userSet": {
         "postDate": true,
@@ -30114,7 +30114,7 @@
           "c_teishutsu": true
         }
       },
-      "archived": false,
+      "archived": true,
       "no": 536,
       "postOrder": 17
     },
@@ -31140,7 +31140,7 @@
       "title": "コーティング車のメンテナンス",
       "type": "通常",
       "postDate": "2026-10-17",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -31169,8 +31169,8 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -31370,6 +31370,70 @@
       "archived": false,
       "no": 557,
       "postOrder": 124
+    },
+    {
+      "id": "isenkatsu20261024teikikenshin",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "定期検診",
+      "type": "通常",
+      "postDate": "2026-10-24",
+      "currentStatus": "FB",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-09-24",
+        "satsuei": "2026-10-01",
+        "shoko": "2026-10-10",
+        "fb": "2026-10-12",
+        "shuusei": "2026-10-14",
+        "kansei": "2026-10-16",
+        "c_teishutsu": "2026-10-17",
+        "toukou": "2026-10-24"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 558,
+      "postOrder": 18
     }
   ]
 }
