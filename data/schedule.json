@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-12T02:08:28.963Z",
+    "updatedAt": "2026-10-12T20:49:25.743Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -30116,7 +30116,8 @@
       },
       "archived": true,
       "no": 536,
-      "postOrder": 17
+      "postOrder": 17,
+      "archivedAt": null
     },
     {
       "id": "bpp20261009mustangbg",
@@ -30183,7 +30184,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 68
+      "postOrder": 67
     },
     {
       "id": "bpp20261016bike",
@@ -30258,7 +30259,7 @@
       "staff": "YH",
       "title": "傷が目立つ黒のランクル250",
       "type": "通常",
-      "postDate": "2026-10-23",
+      "postDate": "2026-10-17",
       "currentStatus": "FB",
       "material": "",
       "enabledStages": [
@@ -30278,12 +30279,12 @@
         "afureko": "2026-09-26",
         "shikou": "2026-09-22",
         "fb_shitai": "2026-09-25",
-        "shoko": "2026-10-13",
-        "fb": "2026-10-15",
-        "shuusei": "2026-10-17",
-        "kansei": "2026-10-18",
-        "c_teishutsu": "2026-10-19",
-        "toukou": "2026-10-23"
+        "shoko": "2026-10-11",
+        "fb": "2026-10-12",
+        "shuusei": "2026-10-13",
+        "kansei": "2026-10-14",
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30317,7 +30318,7 @@
       },
       "archived": false,
       "no": 539,
-      "postOrder": 67
+      "postOrder": 68
     },
     {
       "id": "bpp20261030delica",
@@ -31434,6 +31435,70 @@
       "archived": false,
       "no": 558,
       "postOrder": 18
+    },
+    {
+      "id": "isenkatsu20261017_8020",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "8020",
+      "type": "通常",
+      "postDate": "2026-10-17",
+      "currentStatus": "初稿",
+      "material": "",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-09-24",
+        "satsuei": "2026-09-24",
+        "shoko": "2026-10-03",
+        "fb": "2026-10-05",
+        "shuusei": "2026-10-07",
+        "kansei": "2026-10-09",
+        "c_teishutsu": "2026-10-10",
+        "toukou": "2026-10-17"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 559,
+      "postOrder": 19
     }
   ]
 }
