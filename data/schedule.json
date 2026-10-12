@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-12T01:27:00.054Z",
+    "updatedAt": "2026-10-12T01:37:19.312Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -30631,7 +30631,7 @@
       "postDate": "2026-10-17",
       "material": "",
       "archived": false,
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -30649,7 +30649,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
