@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-13T05:16:28.505Z",
+    "updatedAt": "2026-10-13T14:01:57.906Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -3511,7 +3511,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 67,
-      "postOrder": 6,
+      "postOrder": 12,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3563,7 +3563,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 68,
-      "postOrder": 7,
+      "postOrder": 13,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -13631,7 +13631,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 8,
+      "postOrder": 14,
       "no": 245,
       "_userSet": {
         "postDate": false,
@@ -13683,7 +13683,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 9,
+      "postOrder": 15,
       "no": 246,
       "_userSet": {
         "postDate": false,
@@ -13735,7 +13735,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 10,
+      "postOrder": 16,
       "no": 247,
       "_userSet": {
         "postDate": false,
@@ -13787,7 +13787,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 11,
+      "postOrder": 17,
       "no": 248,
       "_userSet": {
         "postDate": false,
@@ -13839,7 +13839,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 12,
+      "postOrder": 18,
       "no": 249,
       "_userSet": {
         "postDate": false,
@@ -13891,7 +13891,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 13,
+      "postOrder": 19,
       "no": 250,
       "_userSet": {
         "postDate": false,
@@ -13943,7 +13943,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 14,
+      "postOrder": 20,
       "no": 251,
       "_userSet": {
         "postDate": false,
@@ -13995,7 +13995,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 15,
+      "postOrder": 21,
       "no": 252,
       "_userSet": {
         "postDate": false,
@@ -14047,7 +14047,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 16,
+      "postOrder": 22,
       "no": 253,
       "_userSet": {
         "postDate": false,
@@ -14099,7 +14099,7 @@
       },
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 17,
+      "postOrder": 23,
       "no": 254,
       "_userSet": {
         "postDate": false,
@@ -14323,7 +14323,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 258,
-      "postOrder": 18,
+      "postOrder": 24,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -31499,6 +31499,296 @@
       "archived": false,
       "no": 559,
       "postOrder": 18
+    },
+    {
+      "id": "imiura20261013suncity",
+      "channel": "みうらくんと管理人",
+      "staff": "YH",
+      "title": "サンシティ",
+      "type": "通常",
+      "postDate": "2026-10-13",
+      "currentStatus": "投稿",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-01",
+        "kansei": "2026-10-12",
+        "toukou": "2026-10-13"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
+        "投稿": "完了"
+      },
+      "archived": false,
+      "archivedAt": "2026-06-27T09:42:22.245Z",
+      "postOrder": 6,
+      "no": 560,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kansei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "imiura20261016shinkoshigaya",
+      "channel": "みうらくんと管理人",
+      "staff": "YH",
+      "title": "新越谷駅の街ブラ（網羅型）",
+      "type": "通常",
+      "postDate": "2026-10-16",
+      "currentStatus": "完成",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-01",
+        "kansei": "2026-10-15",
+        "toukou": "2026-10-16"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "archived": false,
+      "archivedAt": "2026-06-27T09:42:22.245Z",
+      "postOrder": 7,
+      "no": 561,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kansei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "imiura20261019vlog6",
+      "channel": "みうらくんと管理人",
+      "staff": "YH",
+      "title": "vlog #6",
+      "type": "通常",
+      "postDate": "2026-10-19",
+      "currentStatus": "完成",
+      "material": "",
+      "enabledStages": [
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kansei": "2026-10-18",
+        "toukou": "2026-10-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "archived": false,
+      "archivedAt": "2026-06-27T09:42:22.245Z",
+      "postOrder": 8,
+      "no": 562,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kansei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "imiura20261022shoko",
+      "channel": "みうらくんと管理人",
+      "staff": "YH",
+      "title": "しょうこさん密着",
+      "type": "通常",
+      "postDate": "2026-10-22",
+      "currentStatus": "完成",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-01",
+        "kansei": "2026-10-21",
+        "toukou": "2026-10-22"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "archived": false,
+      "archivedAt": "2026-06-27T09:42:22.245Z",
+      "postOrder": 9,
+      "no": 563,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kansei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "imiura20261026vlog7",
+      "channel": "みうらくんと管理人",
+      "staff": "YH",
+      "title": "vlog #7",
+      "type": "通常",
+      "postDate": "2026-10-26",
+      "currentStatus": "完成",
+      "material": "",
+      "enabledStages": [
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kansei": "2026-10-25",
+        "toukou": "2026-10-26"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "未着手",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "archived": false,
+      "archivedAt": "2026-06-27T09:42:22.245Z",
+      "postOrder": 10,
+      "no": 564,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kansei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "imiura20261029tankpop",
+      "channel": "みうらくんと管理人",
+      "staff": "YH",
+      "title": "タンクポップ 蒲生 街ブラ（網羅型・わっこさんの蒲生）",
+      "type": "通常",
+      "postDate": "2026-10-29",
+      "currentStatus": "完成",
+      "material": "",
+      "enabledStages": [
+        "satsuei",
+        "kansei",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-01",
+        "kansei": "2026-10-28",
+        "toukou": "2026-10-29"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "archived": false,
+      "archivedAt": "2026-06-27T09:42:22.245Z",
+      "postOrder": 11,
+      "no": 565,
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kansei": true,
+          "toukou": true
+        }
+      }
     }
   ]
 }
