@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-14T05:50:45.885Z",
+    "updatedAt": "2026-10-14T20:48:18.933Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -28253,7 +28253,7 @@
       },
       "archived": false,
       "no": 504,
-      "postOrder": 67
+      "postOrder": 66
     },
     {
       "id": "mt3l6gnxuy86o988dfm",
@@ -29189,7 +29189,7 @@
       "title": "人気銘柄はなぜ買えないのか？",
       "type": "通常",
       "postDate": "2026-10-17",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "satsuei",
@@ -29217,7 +29217,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -30184,7 +30184,7 @@
       },
       "archived": false,
       "no": 537,
-      "postOrder": 68
+      "postOrder": 67
     },
     {
       "id": "bpp20261016bike",
@@ -30259,7 +30259,7 @@
       "staff": "YH",
       "title": "傷が目立つ黒のランクル250",
       "type": "通常",
-      "postDate": "2026-10-17",
+      "postDate": "2026-10-23",
       "currentStatus": "FB",
       "material": "",
       "enabledStages": [
@@ -30280,11 +30280,11 @@
         "shikou": "2026-09-22",
         "fb_shitai": "2026-09-25",
         "shoko": "2026-10-11",
-        "fb": "2026-10-12",
-        "shuusei": "2026-10-13",
-        "kansei": "2026-10-14",
-        "c_teishutsu": "2026-10-15",
-        "toukou": "2026-10-17"
+        "fb": "2026-10-18",
+        "shuusei": "2026-10-19",
+        "kansei": "2026-10-20",
+        "c_teishutsu": "2026-10-21",
+        "toukou": "2026-10-23"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -30318,7 +30318,7 @@
       },
       "archived": false,
       "no": 539,
-      "postOrder": 66
+      "postOrder": 68
     },
     {
       "id": "bpp20261030delica",
@@ -30975,7 +30975,7 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
+        "初稿": "完了",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -31001,14 +31001,15 @@
         "fb": "2026-10-13",
         "shuusei": "2026-10-15",
         "kansei": "2026-10-17",
-        "c_teishutsu": "2026-10-15"
+        "c_teishutsu": "2026-10-15",
+        "toukou": "2026-10-17"
       },
       "channel": "iStory",
       "staff": "佐柄（MEK)",
       "title": "ビール1杯の内訳",
       "type": "通常",
       "postDate": "2026-10-17",
-      "currentStatus": "初稿",
+      "currentStatus": "FB",
       "material": "佐柄さんへ渡した3本素材の3本目",
       "_userSet": {
         "postDate": true,
@@ -31379,7 +31380,7 @@
       "title": "定期検診",
       "type": "通常",
       "postDate": "2026-10-24",
-      "currentStatus": "FB",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "kikaku",
@@ -31409,7 +31410,7 @@
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
         "初稿": "完了",
-        "FB": "未着手",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -31632,7 +31633,7 @@
       },
       "archived": false,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 8,
+      "postOrder": 10,
       "no": 562,
       "_userSet": {
         "postDate": true,
@@ -31728,7 +31729,7 @@
       },
       "archived": false,
       "archivedAt": "2026-06-27T09:42:22.245Z",
-      "postOrder": 10,
+      "postOrder": 8,
       "no": 564,
       "_userSet": {
         "postDate": true,
