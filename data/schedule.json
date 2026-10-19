@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-19T18:45:14.662Z",
+    "updatedAt": "2026-10-19T18:53:16.317Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -29638,9 +29638,9 @@
       "id": "mtktzhvj90q9owyi8mj",
       "channel": "綿久",
       "staff": "小島さん",
-      "title": "【ニトリ・無印・西川】この冬の\"あったか敷きパッド\"徹底比較",
+      "title": "【2026あったか敷きパッド3選】",
       "type": "通常",
-      "postDate": "2026-11-05",
+      "postDate": "2026-10-22",
       "currentStatus": "初稿",
       "material": "【撮影素材】2026-10-07 先方収録（LINE「みうち先生 現場チーム」Terukoさん 19:12）\nタイトル連絡：「2026年あったか敷きパッド」\nギガファイル便：https://121.gigafile.nu/0115-ge9215aa219ab8d702f0d4bb1d44e78c6\n※保存期間に上限あり。早めにダウンロードして保管する。",
       "enabledStages": [
@@ -29653,13 +29653,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-10-07",
-        "shoko": "2026-10-31",
-        "fb": "2026-11-01",
-        "shuusei": "2026-11-02",
-        "kansei": "2026-11-03",
-        "c_teishutsu": "2026-11-03",
-        "toukou": "2026-11-05"
+        "satsuei": "2026-09-17",
+        "shoko": "2026-10-17",
+        "fb": "2026-10-18",
+        "shuusei": "2026-10-19",
+        "kansei": "2026-10-20",
+        "c_teishutsu": "2026-10-20",
+        "toukou": "2026-10-22"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29688,7 +29688,7 @@
       },
       "archived": false,
       "no": 529,
-      "postOrder": 78
+      "postOrder": 76
     },
     {
       "id": "mtktzhvjj8s7n42qk9",
@@ -29696,7 +29696,7 @@
       "staff": "小島さん",
       "title": "不眠症の人の対策（視聴者の声）",
       "type": "通常",
-      "postDate": "2026-10-22",
+      "postDate": "2026-11-05",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -29709,13 +29709,13 @@
         "toukou"
       ],
       "manualStageDates": {
-        "satsuei": "2026-09-17",
-        "shoko": "2026-10-17",
-        "fb": "2026-10-18",
-        "shuusei": "2026-10-19",
-        "kansei": "2026-10-20",
-        "c_teishutsu": "2026-10-20",
-        "toukou": "2026-10-22"
+        "satsuei": "2026-10-07",
+        "shoko": "2026-10-31",
+        "fb": "2026-11-01",
+        "shuusei": "2026-11-02",
+        "kansei": "2026-11-03",
+        "c_teishutsu": "2026-11-03",
+        "toukou": "2026-11-05"
       },
       "stageStatuses": {
         "企画": "完了",
@@ -29749,7 +29749,7 @@
       },
       "archived": false,
       "no": 530,
-      "postOrder": 76
+      "postOrder": 78
     },
     {
       "id": "m3phmtr143jx",
