@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-19T19:05:53.634Z",
+    "updatedAt": "2026-10-19T19:09:42.228Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -31499,6 +31499,254 @@
       "archived": false,
       "no": 559,
       "postOrder": 18
+    },
+    {
+      "id": "sumisyou20261031pro82",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "洗車のプロは何をやってるのか",
+      "type": "通常",
+      "postDate": "2026-10-31",
+      "currentStatus": "FB",
+      "material": "https://9.gigafile.nu/1225-f68da68a1306572798626806f0843716",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-22",
+        "kikaku": "2026-09-22",
+        "shoko": "2026-10-27",
+        "fb": "2026-10-28",
+        "shuusei": "2026-10-29",
+        "kansei": "2026-10-29",
+        "c_teishutsu": "2026-10-29",
+        "toukou": "2026-10-31"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 560,
+      "postOrder": 82,
+      "memo": "初稿10/19着（加畑さん・frame.io https://f.io/XSur3i3c）。#82"
+    },
+    {
+      "id": "sumisyou20261107nbox",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "ツヤゼロNBOX",
+      "type": "通常",
+      "postDate": "2026-11-07",
+      "currentStatus": "初稿",
+      "material": "https://9.gigafile.nu/1225-f68da68a1306572798626806f0843716",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-09-29",
+        "kikaku": "2026-09-29",
+        "shoko": "2026-11-03",
+        "fb": "2026-11-04",
+        "shuusei": "2026-11-05",
+        "kansei": "2026-11-05",
+        "c_teishutsu": "2026-11-05",
+        "toukou": "2026-11-07"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 561,
+      "postOrder": 83,
+      "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-16eb149a2f289bc65eaabad4047f886e ※アフター素材が見当たらないと加畑さんから確認あり（10/20 Tak確認中）"
+    },
+    {
+      "id": "sumisyou20261114tsume",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "爪キズ",
+      "type": "通常",
+      "postDate": "2026-11-14",
+      "currentStatus": "初稿",
+      "material": "https://9.gigafile.nu/1225-f68da68a1306572798626806f0843716",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-06",
+        "kikaku": "2026-10-06",
+        "shoko": "2026-11-10",
+        "fb": "2026-11-11",
+        "shuusei": "2026-11-12",
+        "kansei": "2026-11-12",
+        "c_teishutsu": "2026-11-12",
+        "toukou": "2026-11-14"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 562,
+      "postOrder": 84,
+      "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-057c42b78c1bb73ae93b7c53241f206e"
+    },
+    {
+      "id": "sumisyou20261121senmon",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "専門店って儲かるの？",
+      "type": "通常",
+      "postDate": "2026-11-21",
+      "currentStatus": "初稿",
+      "material": "https://9.gigafile.nu/1225-f68da68a1306572798626806f0843716",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "satsuei": "2026-10-13",
+        "kikaku": "2026-10-13",
+        "shoko": "2026-11-17",
+        "fb": "2026-11-18",
+        "shuusei": "2026-11-19",
+        "kansei": "2026-11-19",
+        "c_teishutsu": "2026-11-19",
+        "toukou": "2026-11-21"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 563,
+      "postOrder": 85,
+      "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-5486d33489bfffdc08e7ffcd9d7a64d3"
     }
   ]
 }
