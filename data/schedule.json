@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-19T18:59:21.760Z",
+    "updatedAt": "2026-10-19T19:03:40.780Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -30,7 +30,7 @@
     },
     "KINS": {
       "postsPerWeek": 2,
-      "lastPost": "2026-10-20",
+      "lastPost": "2026-11-13",
       "nextShoot": "2026-10-06"
     },
     "iStory": {
@@ -39,12 +39,12 @@
     },
     "綿久": {
       "postsPerWeek": 1,
-      "lastPost": "2026-11-05",
+      "lastPost": "2026-11-12",
       "nextShoot": "2026-10-07"
     },
     "天領盃": {
       "postsPerWeek": 1,
-      "lastPost": "2026-10-17",
+      "lastPost": "2026-11-21",
       "nextShoot": "2026-10-08"
     },
     "SUMISYOU": {
@@ -59,7 +59,7 @@
     },
     "Actvision": {
       "postsPerWeek": 1,
-      "lastPost": "2026-10-17",
+      "lastPost": "2026-10-31",
       "nextShoot": "2026-09-15"
     }
   },
