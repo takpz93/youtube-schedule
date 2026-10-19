@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-19T19:03:40.780Z",
+    "updatedAt": "2026-10-19T19:05:53.634Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -31,11 +31,11 @@
     "KINS": {
       "postsPerWeek": 2,
       "lastPost": "2026-11-13",
-      "nextShoot": "2026-10-06"
+      "nextShoot": "2026-11-03"
     },
     "iStory": {
       "lastPost": "2026-10-17",
-      "nextShoot": "2026-09-16"
+      "nextShoot": "2026-10-28"
     },
     "綿久": {
       "postsPerWeek": 1,
@@ -50,7 +50,7 @@
     "SUMISYOU": {
       "postsPerWeek": 1,
       "lastPost": "2026-11-14",
-      "nextShoot": "2026-10-13"
+      "nextShoot": "2026-10-27"
     },
     "千勝会": {
       "postsPerWeek": 1,
