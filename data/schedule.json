@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-19T19:13:05.228Z",
+    "updatedAt": "2026-10-20T05:50:10.803Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -50,7 +50,8 @@
     "SUMISYOU": {
       "postsPerWeek": 1,
       "lastPost": "2026-11-21",
-      "nextShoot": "2026-10-27"
+      "nextShoot": "2026-10-27",
+      "nextNextShoot": "2026-11-17"
     },
     "千勝会": {
       "postsPerWeek": 1,
