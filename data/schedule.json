@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-28T01:51:25.237Z",
+    "updatedAt": "2026-10-28T02:29:55.267Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -31748,6 +31748,192 @@
       "archived": false,
       "no": 563,
       "postOrder": 85,
+      "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-5486d33489bfffdc08e7ffcd9d7a64d3"
+    },
+    {
+      "id": "sumisyou20261128uekusa",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "植草歩さん密着",
+      "type": "通常",
+      "postDate": "2026-11-28",
+      "currentStatus": "初稿",
+      "material": "https://64.gigafile.nu/0205-611e5d393c5d2d4312b95ea2f06bdb27",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-10-27",
+        "satsuei": "2026-10-27",
+        "shoko": "2026-11-24",
+        "fb": "2026-11-25",
+        "shuusei": "2026-11-26",
+        "kansei": "2026-11-26",
+        "c_teishutsu": "2026-11-26",
+        "toukou": "2026-11-28"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 564,
+      "postOrder": 86,
+      "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-5486d33489bfffdc08e7ffcd9d7a64d3"
+    },
+    {
+      "id": "sumisyou20261205honda",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "ホンダメンテナンス",
+      "type": "通常",
+      "postDate": "2026-12-05",
+      "currentStatus": "初稿",
+      "material": "https://104.gigafile.nu/0205-be68eb36b4fd44d81e3775c3317403221",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-10-27",
+        "satsuei": "2026-10-27",
+        "shoko": "2026-12-01",
+        "fb": "2026-12-02",
+        "shuusei": "2026-12-03",
+        "kansei": "2026-12-03",
+        "c_teishutsu": "2026-12-03",
+        "toukou": "2026-12-05"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 565,
+      "postOrder": 87,
+      "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-5486d33489bfffdc08e7ffcd9d7a64d3"
+    },
+    {
+      "id": "sumisyou20261212headlight",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "ヘッドライト 8回研磨",
+      "type": "通常",
+      "postDate": "2026-12-12",
+      "currentStatus": "初稿",
+      "material": "https://104.gigafile.nu/0205-7c70bceb29a22a61fe6d3239f59256f0",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-10-27",
+        "satsuei": "2026-10-27",
+        "shoko": "2026-12-08",
+        "fb": "2026-12-09",
+        "shuusei": "2026-12-10",
+        "kansei": "2026-12-10",
+        "c_teishutsu": "2026-12-10",
+        "toukou": "2026-12-12"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 566,
+      "postOrder": 88,
       "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-5486d33489bfffdc08e7ffcd9d7a64d3"
     }
   ]
