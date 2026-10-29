@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-29T02:23:54.146Z",
+    "updatedAt": "2026-10-29T14:45:38.076Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -32068,11 +32068,11 @@
       "id": "isenkatsu20261114_s1029",
       "channel": "千勝会",
       "staff": "至さん",
-      "title": "10/29撮影①",
+      "title": "現役歯医者が同業者目線でヤバイ歯医者",
       "type": "通常",
       "postDate": "2026-11-14",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://xgf.nu/GfXu7",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -32095,7 +32095,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
@@ -32132,11 +32132,11 @@
       "id": "isenkatsu20261121_s1029",
       "channel": "千勝会",
       "staff": "至さん",
-      "title": "10/29撮影②",
+      "title": "抜歯と言われても絶対に知っておくべき残せる歯の条件",
       "type": "通常",
       "postDate": "2026-11-21",
-      "currentStatus": "撮影",
-      "material": "",
+      "currentStatus": "初稿",
+      "material": "https://xgf.nu/5wHwm",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -32159,7 +32159,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
@@ -32223,7 +32223,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
@@ -32287,7 +32287,7 @@
       },
       "stageStatuses": {
         "企画": "完了",
-        "撮影": "未着手",
+        "撮影": "完了",
         "施工": "完了",
         "台本": "完了",
         "FB（施工・台本）": "完了",
