@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-10-29T02:17:05.840Z",
+    "updatedAt": "2026-10-29T02:17:12.613Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -31382,7 +31382,7 @@
       "type": "通常",
       "postDate": "2026-10-24",
       "currentStatus": "修正",
-      "material": "",
+      "material": "https://xgf.nu/FtyC9",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -31446,7 +31446,7 @@
       "type": "通常",
       "postDate": "2026-10-17",
       "currentStatus": "投稿",
-      "material": "",
+      "material": "https://xgf.nu/LRYh9",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -31935,6 +31935,134 @@
       "no": 566,
       "postOrder": 88,
       "memo": "10/13撮影。素材 https://128.gigafile.nu/0122-5486d33489bfffdc08e7ffcd9d7a64d3"
+    },
+    {
+      "id": "isenkatsu20261031chikakukabin",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "知覚過敏",
+      "type": "通常",
+      "postDate": "2026-10-31",
+      "currentStatus": "初稿",
+      "material": "https://xgf.nu/uizGM",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-09-24",
+        "satsuei": "2026-09-24",
+        "shoko": "2026-10-17",
+        "fb": "2026-10-19",
+        "shuusei": "2026-10-21",
+        "kansei": "2026-10-23",
+        "c_teishutsu": "2026-10-24",
+        "toukou": "2026-10-31"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 567,
+      "postOrder": 20
+    },
+    {
+      "id": "isenkatsu20261107second",
+      "channel": "千勝会",
+      "staff": "至さん",
+      "title": "セカンドオピニオン",
+      "type": "通常",
+      "postDate": "2026-11-07",
+      "currentStatus": "初稿",
+      "material": "https://xgf.nu/g0Ys0",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-09-24",
+        "satsuei": "2026-09-24",
+        "shoko": "2026-10-24",
+        "fb": "2026-10-26",
+        "shuusei": "2026-10-28",
+        "kansei": "2026-10-30",
+        "c_teishutsu": "2026-10-31",
+        "toukou": "2026-11-07"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 568,
+      "postOrder": 21
     }
   ]
 }
