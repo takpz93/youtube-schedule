@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-11-04T01:38:22.137Z",
+    "updatedAt": "2026-11-04T01:38:33.969Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -27286,9 +27286,9 @@
       "staff": "松金さん",
       "title": "韓国調味料格付け",
       "type": "通常",
-      "postDate": "2026-11-13",
+      "postDate": "2026-11-14",
       "currentStatus": "初稿",
-      "material": "【撮影素材】2026-10-06 KINSオフィスで撮影（1日4本・現場4h）\nギガファイル便：https://120.gigafile.nu/0115-5324e53d3b91ce7b8b6511c4c80b0e2e\n※ギガファイル便は保存期間に上限あり。早めにダウンロードして保管する。",
+      "material": "【撮影素材】2026-10-06 KINSオフィスで撮影（1日4本・現場4h）ギガファイル便：https://120.gigafile.nu/0115-5324e53d3b91ce7b8b6511c4c80b0e2e※ギガファイル便は保存期間に上限あり。早めにダウンロードして保管する。",
       "enabledStages": [
         "kikaku",
         "satsuei",
@@ -27316,7 +27316,7 @@
         "台本": "未着手",
         "FB（施工・台本）": "未着手",
         "アフレコ": "未着手",
-        "初稿": "未着手",
+        "初稿": "進行中",
         "FB": "未着手",
         "修正": "未着手",
         "完成": "未着手",
@@ -27328,11 +27328,16 @@
         "postDate": true,
         "postMark": false,
         "currentStatus": true,
-        "material": false,
+        "material": true,
         "stages": {
           "kikaku": true,
           "satsuei": true,
-          "toukou": true
+          "toukou": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
         }
       },
       "archived": false,
