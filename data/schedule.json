@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-11-04T02:46:52.690Z",
+    "updatedAt": "2026-11-06T08:23:15.171Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -3149,7 +3149,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 60,
-      "postOrder": 70,
+      "postOrder": 71,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3201,7 +3201,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 61,
-      "postOrder": 71,
+      "postOrder": 72,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -3253,7 +3253,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 62,
-      "postOrder": 72,
+      "postOrder": 73,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -22019,7 +22019,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 394,
-      "postOrder": 22,
+      "postOrder": 23,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -22071,7 +22071,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 395,
-      "postOrder": 23,
+      "postOrder": 24,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -29708,7 +29708,7 @@
       "staff": "小島さん",
       "title": "不眠症の人の対策（視聴者の声）",
       "type": "通常",
-      "postDate": "2026-11-05",
+      "postDate": "2026-11-12",
       "currentStatus": "初稿",
       "material": "",
       "enabledStages": [
@@ -30138,7 +30138,7 @@
       "title": "マスタング 車内（バイオガード）",
       "type": "通常",
       "postDate": "2026-10-29",
-      "currentStatus": "初稿",
+      "currentStatus": "修正",
       "material": "",
       "enabledStages": [
         "shikou",
@@ -30171,8 +30171,8 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
-        "FB": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
         "修正": "未着手",
         "完成": "未着手",
         "M提出": "未着手",
@@ -31581,7 +31581,7 @@
       "title": "ツヤゼロNBOX",
       "type": "通常",
       "postDate": "2026-11-07",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "https://9.gigafile.nu/1225-f68da68a1306572798626806f0843716",
       "enabledStages": [
         "kikaku",
@@ -31610,12 +31610,12 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -32017,7 +32017,7 @@
       "title": "セカンドオピニオン",
       "type": "通常",
       "postDate": "2026-11-07",
-      "currentStatus": "初稿",
+      "currentStatus": "投稿",
       "material": "https://xgf.nu/g0Ys0",
       "enabledStages": [
         "kikaku",
@@ -32046,12 +32046,12 @@
         "台本": "完了",
         "FB（施工・台本）": "完了",
         "アフレコ": "完了",
-        "初稿": "未着手",
-        "FB": "未着手",
-        "修正": "未着手",
-        "完成": "未着手",
-        "M提出": "未着手",
-        "C提出": "未着手",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "完了",
         "投稿": "未着手"
       },
       "_userSet": {
@@ -32841,6 +32841,120 @@
       "archived": false,
       "no": 580,
       "postOrder": 33
+    },
+    {
+      "id": "actv20261114",
+      "no": 581,
+      "postOrder": 22,
+      "channel": "Actvision",
+      "title": "役員退職金はいくらまで出せるか",
+      "type": "通常",
+      "staff": "YH",
+      "postDate": "2026-11-14",
+      "material": "",
+      "archived": false,
+      "currentStatus": "FB",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "manualStageDates": {
+        "shoko": "2026-11-06",
+        "fb": "2026-11-08",
+        "c_teishutsu": "2026-11-12",
+        "toukou": "2026-11-14"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      }
+    },
+    {
+      "id": "bpp20261113def",
+      "channel": "BPP",
+      "staff": "YH",
+      "title": "ディフェンダー",
+      "type": "通常",
+      "postDate": "2026-11-13",
+      "currentStatus": "C提出",
+      "material": "",
+      "enabledStages": [
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "afureko",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "c_teishutsu": "2026-11-11",
+        "toukou": "2026-11-13"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "完了",
+        "FB": "完了",
+        "修正": "完了",
+        "完成": "完了",
+        "M提出": "完了",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {
+          "toukou": true,
+          "afureko": true,
+          "shoko": true,
+          "fb": true,
+          "shuusei": true,
+          "kansei": true,
+          "c_teishutsu": true
+        }
+      },
+      "archived": false,
+      "no": 582,
+      "postOrder": 70
     }
   ]
 }
