@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-11-10T07:52:04.956Z",
+    "updatedAt": "2026-11-13T04:15:47.254Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -32955,6 +32955,192 @@
       "archived": false,
       "no": 582,
       "postOrder": 70
+    },
+    {
+      "id": "sumisyou20261219ame",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "雨の日の洗車",
+      "type": "通常",
+      "postDate": "2026-12-19",
+      "currentStatus": "初稿",
+      "material": "https://104.gigafile.nu/0205-7c70bceb29a22a61fe6d3239f59256f0",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-13",
+        "satsuei": "2026-11-13",
+        "shoko": "2026-12-15",
+        "fb": "2026-12-16",
+        "shuusei": "2026-12-17",
+        "kansei": "2026-12-17",
+        "c_teishutsu": "2026-12-17",
+        "toukou": "2026-12-19"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 583,
+      "postOrder": 89,
+      "memo": "11/13 Takより素材共有（ギガファイル便・2/21まで）。素材 https://43.gigafile.nu/0221-5abf1d9f5e3acb63389561fce81ca48a"
+    },
+    {
+      "id": "sumisyou20261226kuruzado",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "プロが使い続けてるクルザード商品",
+      "type": "通常",
+      "postDate": "2026-12-26",
+      "currentStatus": "初稿",
+      "material": "https://104.gigafile.nu/0205-7c70bceb29a22a61fe6d3239f59256f0",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-13",
+        "satsuei": "2026-11-13",
+        "shoko": "2026-12-22",
+        "fb": "2026-12-23",
+        "shuusei": "2026-12-24",
+        "kansei": "2026-12-24",
+        "c_teishutsu": "2026-12-24",
+        "toukou": "2026-12-26"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 584,
+      "postOrder": 90,
+      "memo": "11/13 Takより素材共有（ギガファイル便・2/21まで）。素材 https://43.gigafile.nu/0221-28b93343343dfaa00ca4daa71c8e4abd"
+    },
+    {
+      "id": "sumisyou20270102piano",
+      "channel": "SUMISYOU",
+      "staff": "加畑さん(MEK)",
+      "title": "クルザード ピアノブラック",
+      "type": "通常",
+      "postDate": "2027-01-02",
+      "currentStatus": "初稿",
+      "material": "https://104.gigafile.nu/0205-7c70bceb29a22a61fe6d3239f59256f0",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-13",
+        "satsuei": "2026-11-13",
+        "shoko": "2026-12-29",
+        "fb": "2026-12-30",
+        "shuusei": "2026-12-31",
+        "kansei": "2026-12-31",
+        "c_teishutsu": "2026-12-31",
+        "toukou": "2027-01-02"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "toukou": true,
+          "kikaku": true,
+          "satsuei": true,
+          "shoko": true,
+          "fb": true
+        }
+      },
+      "archived": false,
+      "no": 585,
+      "postOrder": 91,
+      "memo": "11/13 Takより素材共有（ギガファイル便・2/21まで）。素材 https://43.gigafile.nu/0221-c420c92acbb14449e498c3f498b91625"
     }
   ]
 }
