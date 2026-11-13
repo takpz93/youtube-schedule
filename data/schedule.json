@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-11-13T04:15:47.254Z",
+    "updatedAt": "2026-11-13T04:22:59.372Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -33141,6 +33141,63 @@
       "no": 585,
       "postOrder": 91,
       "memo": "11/13 Takより素材共有（ギガファイル便・2/21まで）。素材 https://43.gigafile.nu/0221-c420c92acbb14449e498c3f498b91625"
+    },
+    {
+      "id": "istory20261128soshigaya",
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "enabledStages": [
+        "kikaku",
+        "shikou",
+        "daihon",
+        "fb_shitai",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "m_teishutsu",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-11-24",
+        "fb": "2026-11-24",
+        "shuusei": "2026-11-26",
+        "kansei": "2026-11-28",
+        "c_teishutsu": "2026-11-26"
+      },
+      "channel": "iStory",
+      "staff": "佐柄（MEK)",
+      "title": "居酒屋紹介 祖師ヶ谷大蔵編",
+      "type": "通常",
+      "postDate": "2026-11-28",
+      "currentStatus": "初稿",
+      "material": "佐柄さんへ渡した3本素材の3本目",
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": true,
+        "stages": {}
+      },
+      "no": 586,
+      "postOrder": 56,
+      "archived": false,
+      "archivedAt": null,
+      "memo": "11/13 Takより素材共有（ギガファイル便・2/21まで）。素材 https://43.gigafile.nu/0221-6ef4413912f55a90f55b19524dc9497f"
     }
   ]
 }
