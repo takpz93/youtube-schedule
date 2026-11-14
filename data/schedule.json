@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-11-13T04:22:59.372Z",
+    "updatedAt": "2026-11-14T22:19:09.336Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -16430,7 +16430,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 295,
-      "postOrder": 50,
+      "postOrder": 54,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -33198,6 +33198,230 @@
       "archived": false,
       "archivedAt": null,
       "memo": "11/13 Takより素材共有（ギガファイル便・2/21まで）。素材 https://43.gigafile.nu/0221-6ef4413912f55a90f55b19524dc9497f"
+    },
+    {
+      "id": "tenryohai20261128winter",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "2026年版 冬の日本酒5選",
+      "type": "通常",
+      "postDate": "2026-11-28",
+      "currentStatus": "初稿",
+      "material": "福島県・笹正宗酒造が10/6に来訪して対談収録。メインテーマは火事の件。構成案は10/4作成済み。Takは撮影に参加しない。投稿日10/24は仮。",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-11-22",
+        "fb": "2026-11-24",
+        "shuusei": "2026-11-25",
+        "kansei": "2026-11-28",
+        "c_teishutsu": "2026-11-26",
+        "toukou": "2026-11-28"
+      },
+      "stageStatuses": {
+        "撮影": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手",
+        "企画": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "M提出": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 587,
+      "postOrder": 50,
+      "memo": "11/15 長尾さんから公開日の提案（LINE 制作_天領盃）。日本酒の選び方と第4弾はTakの返信で入れ替え。"
+    },
+    {
+      "id": "tenryohai20261205tokyowest",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "東京西の特約店",
+      "type": "通常",
+      "postDate": "2026-12-05",
+      "currentStatus": "初稿",
+      "material": "福島県・笹正宗酒造が10/6に来訪して対談収録。メインテーマは火事の件。構成案は10/4作成済み。Takは撮影に参加しない。投稿日10/24は仮。",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-11-29",
+        "fb": "2026-12-01",
+        "shuusei": "2026-12-02",
+        "kansei": "2026-12-05",
+        "c_teishutsu": "2026-12-03",
+        "toukou": "2026-12-05"
+      },
+      "stageStatuses": {
+        "撮影": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手",
+        "企画": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "M提出": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 588,
+      "postOrder": 51,
+      "memo": "11/15 長尾さんから公開日の提案（LINE 制作_天領盃）。日本酒の選び方と第4弾はTakの返信で入れ替え。"
+    },
+    {
+      "id": "tenryohai20261212erabikata",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "日本酒の選び方5選",
+      "type": "通常",
+      "postDate": "2026-12-12",
+      "currentStatus": "初稿",
+      "material": "福島県・笹正宗酒造が10/6に来訪して対談収録。メインテーマは火事の件。構成案は10/4作成済み。Takは撮影に参加しない。投稿日10/24は仮。",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-12-06",
+        "fb": "2026-12-08",
+        "shuusei": "2026-12-09",
+        "kansei": "2026-12-12",
+        "c_teishutsu": "2026-12-10",
+        "toukou": "2026-12-12"
+      },
+      "stageStatuses": {
+        "撮影": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手",
+        "企画": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "M提出": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 589,
+      "postOrder": 52,
+      "memo": "11/15 長尾さんから公開日の提案（LINE 制作_天領盃）。日本酒の選び方と第4弾はTakの返信で入れ替え。"
+    },
+    {
+      "id": "tenryohai20261219kuramoto4",
+      "channel": "天領盃",
+      "staff": "長尾さん",
+      "title": "蔵元おすすめの日本酒5選 第4弾",
+      "type": "通常",
+      "postDate": "2026-12-19",
+      "currentStatus": "初稿",
+      "material": "福島県・笹正宗酒造が10/6に来訪して対談収録。メインテーマは火事の件。構成案は10/4作成済み。Takは撮影に参加しない。投稿日10/24は仮。",
+      "enabledStages": [
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "shoko": "2026-12-13",
+        "fb": "2026-12-15",
+        "shuusei": "2026-12-16",
+        "kansei": "2026-12-19",
+        "c_teishutsu": "2026-12-17",
+        "toukou": "2026-12-19"
+      },
+      "stageStatuses": {
+        "撮影": "完了",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手",
+        "企画": "完了",
+        "施工": "完了",
+        "台本": "完了",
+        "FB（施工・台本）": "完了",
+        "アフレコ": "完了",
+        "M提出": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 590,
+      "postOrder": 53,
+      "memo": "11/15 長尾さんから公開日の提案（LINE 制作_天領盃）。日本酒の選び方と第4弾はTakの返信で入れ替え。"
     }
   ]
 }
