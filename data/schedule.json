@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updatedAt": "2026-11-14T22:19:09.336Z",
+    "updatedAt": "2026-11-16T09:01:25.722Z",
     "updatedBy": "管理者",
     "version": 1
   },
@@ -21179,7 +21179,7 @@
       "archived": true,
       "archivedAt": "2026-06-27T09:42:22.245Z",
       "no": 379,
-      "postOrder": 126,
+      "postOrder": 131,
       "_userSet": {
         "postDate": false,
         "postMark": false,
@@ -33422,6 +33422,301 @@
       "no": 590,
       "postOrder": 53,
       "memo": "11/15 長尾さんから公開日の提案（LINE 制作_天領盃）。日本酒の選び方と第4弾はTakの返信で入れ替え。"
+    },
+    {
+      "id": "kins20261117nyuyokuzai",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "入浴剤",
+      "type": "通常",
+      "postDate": "2026-11-16",
+      "currentStatus": "FB",
+      "material": "【撮影素材】2026-11-03 KINS撮影（5本）\nhttps://103.gigafile.nu/0211-f95507cf4795cecb2c327f22b8d9a21a",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-03",
+        "satsuei": "2026-11-03",
+        "shoko": "2026-11-12",
+        "fb": "2026-11-13",
+        "shuusei": "2026-11-14",
+        "kansei": "2026-11-15",
+        "c_teishutsu": "2026-11-15",
+        "toukou": "2026-11-17"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "完了",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 591,
+      "postOrder": 126
+    },
+    {
+      "id": "kins20261121kaldi",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "カルディ調味料",
+      "type": "通常",
+      "postDate": "2026-11-20",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-11-03 KINS撮影（5本）\nhttps://103.gigafile.nu/0211-225efadaac6dab6bae2d65287cca083c",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-03",
+        "satsuei": "2026-11-03",
+        "shoko": "2026-11-16",
+        "fb": "2026-11-17",
+        "shuusei": "2026-11-18",
+        "kansei": "2026-11-19",
+        "c_teishutsu": "2026-11-19",
+        "toukou": "2026-11-21"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 592,
+      "postOrder": 127
+    },
+    {
+      "id": "kins20261124yuwaeru1",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "結わえる 前編",
+      "type": "通常",
+      "postDate": "2026-11-23",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-11-03 KINS撮影（5本）\nhttps://103.gigafile.nu/0211-569cbf74976d63314cd08c57925ba156\nカメラマン音声 https://14.gigafile.nu/0212-54bba33e7ea431eea7072b0b600006df",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-03",
+        "satsuei": "2026-11-03",
+        "shoko": "2026-11-19",
+        "fb": "2026-11-20",
+        "shuusei": "2026-11-21",
+        "kansei": "2026-11-22",
+        "c_teishutsu": "2026-11-22",
+        "toukou": "2026-11-24"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 593,
+      "postOrder": 128
+    },
+    {
+      "id": "kins20261128tuna",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "ツナ缶",
+      "type": "通常",
+      "postDate": "2026-11-27",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-11-03 KINS撮影（5本）\nhttps://103.gigafile.nu/0211-c342ae9a82044cdcb2d217466a034c35",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-03",
+        "satsuei": "2026-11-03",
+        "shoko": "2026-11-23",
+        "fb": "2026-11-24",
+        "shuusei": "2026-11-25",
+        "kansei": "2026-11-26",
+        "c_teishutsu": "2026-11-26",
+        "toukou": "2026-11-28"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 594,
+      "postOrder": 129
+    },
+    {
+      "id": "kins20261201yuwaeru2",
+      "channel": "KINS",
+      "staff": "松金さん",
+      "title": "結わえる 後編",
+      "type": "通常",
+      "postDate": "2026-11-30",
+      "currentStatus": "初稿",
+      "material": "【撮影素材】2026-11-03 KINS撮影（5本）\nhttps://120.gigafile.nu/0211-6cd9d02e0de30b69458c8cf660728232\nカメラマン音声 https://14.gigafile.nu/0212-e3ae8b8271e788a7d9586f56ffa71d22",
+      "enabledStages": [
+        "kikaku",
+        "satsuei",
+        "shoko",
+        "fb",
+        "shuusei",
+        "kansei",
+        "c_teishutsu",
+        "toukou"
+      ],
+      "manualStageDates": {
+        "kikaku": "2026-11-03",
+        "satsuei": "2026-11-03",
+        "shoko": "2026-11-26",
+        "fb": "2026-11-27",
+        "shuusei": "2026-11-28",
+        "kansei": "2026-11-29",
+        "c_teishutsu": "2026-11-29",
+        "toukou": "2026-12-01"
+      },
+      "stageStatuses": {
+        "企画": "完了",
+        "撮影": "完了",
+        "施工": "未着手",
+        "台本": "未着手",
+        "FB（施工・台本）": "未着手",
+        "アフレコ": "未着手",
+        "初稿": "未着手",
+        "FB": "未着手",
+        "修正": "未着手",
+        "完成": "未着手",
+        "M提出": "未着手",
+        "C提出": "未着手",
+        "投稿": "未着手"
+      },
+      "_userSet": {
+        "postDate": true,
+        "postMark": false,
+        "currentStatus": true,
+        "material": false,
+        "stages": {
+          "kikaku": true,
+          "satsuei": true,
+          "toukou": true
+        }
+      },
+      "archived": false,
+      "no": 595,
+      "postOrder": 130
     }
   ]
 }
